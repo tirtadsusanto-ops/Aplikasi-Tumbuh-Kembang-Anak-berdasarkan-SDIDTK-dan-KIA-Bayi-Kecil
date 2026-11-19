@@ -1,0 +1,126 @@
+{
+  "fixture": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/loader_edge_fixture_1795049935011",
+  "checks": [
+    {
+      "id": "missing part rejects and readiness deleted",
+      "pass": true,
+      "detail": {
+        "result": {
+          "ok": false,
+          "error": "Berkas gambar tidak dapat dibuka: growth-images-part-2.js"
+        },
+        "state": {
+          "ready": false,
+          "p1": true,
+          "p2": false
+        }
+      }
+    },
+    {
+      "id": "same-page retry after restoring missing part",
+      "pass": true,
+      "detail": {
+        "result": {
+          "ok": true
+        },
+        "state": {
+          "ready": true,
+          "images": [
+            "fixture-1",
+            "fixture-2"
+          ],
+          "parts": {
+            "growth-images-part-1.js": true,
+            "growth-images-part-2.js": true
+          }
+        }
+      }
+    },
+    {
+      "id": "successful part not requested again during retry",
+      "pass": true,
+      "detail": {
+        "firstRequests": 1
+      }
+    },
+    {
+      "id": "empty part onload rejects instead of silent readiness",
+      "pass": true,
+      "detail": {
+        "result": {
+          "ok": false,
+          "error": "Data gambar tidak lengkap: growth-images-part-1.js"
+        },
+        "state": {
+          "ready": false,
+          "p1": false
+        }
+      }
+    },
+    {
+      "id": "same-page retry after restoring incomplete part",
+      "pass": true,
+      "detail": {
+        "result": {
+          "ok": true
+        },
+        "state": {
+          "images": [
+            "fixture-1",
+            "fixture-2"
+          ],
+          "parts": {
+            "growth-images-part-1.js": true,
+            "growth-images-part-2.js": true
+          }
+        }
+      }
+    },
+    {
+      "id": "concurrent invocations share one readiness promise and one load per part",
+      "pass": true,
+      "detail": {
+        "concurrentResult": {
+          "results": [
+            {
+              "ok": true
+            },
+            {
+              "ok": true
+            }
+          ],
+          "samePromise": true,
+          "parts": {
+            "growth-images-part-1.js": true,
+            "growth-images-part-2.js": true
+          }
+        },
+        "partRequests": [
+          "file:///Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/loader_edge_fixture_1795049935011/concurrent/growth-images-part-1.js",
+          "file:///Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/loader_edge_fixture_1795049935011/concurrent/growth-images-part-2.js"
+        ]
+      }
+    }
+  ],
+  "pageErrors": [],
+  "requests": [
+    "file:///Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/loader_edge_fixture_1795049935011/missing-part/index.html",
+    "file:///Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/loader_edge_fixture_1795049935011/missing-part/growth-images.js",
+    "file:///Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/loader_edge_fixture_1795049935011/missing-part/growth-images-part-1.js",
+    "file:///Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/loader_edge_fixture_1795049935011/missing-part/growth-images-part-2.js",
+    "file:///Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/loader_edge_fixture_1795049935011/missing-part/growth-images.js",
+    "file:///Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/loader_edge_fixture_1795049935011/missing-part/growth-images-part-2.js",
+    "file:///Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/loader_edge_fixture_1795049935011/empty-part/index.html",
+    "file:///Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/loader_edge_fixture_1795049935011/empty-part/growth-images.js",
+    "file:///Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/loader_edge_fixture_1795049935011/empty-part/growth-images-part-1.js",
+    "file:///Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/loader_edge_fixture_1795049935011/empty-part/growth-images.js",
+    "file:///Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/loader_edge_fixture_1795049935011/empty-part/growth-images-part-1.js",
+    "file:///Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/loader_edge_fixture_1795049935011/empty-part/growth-images-part-2.js",
+    "file:///Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/loader_edge_fixture_1795049935011/concurrent/index.html",
+    "file:///Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/loader_edge_fixture_1795049935011/concurrent/growth-images.js",
+    "file:///Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/loader_edge_fixture_1795049935011/concurrent/growth-images-part-1.js",
+    "file:///Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/loader_edge_fixture_1795049935011/concurrent/growth-images-part-2.js"
+  ],
+  "passed": 6,
+  "failed": 0
+}

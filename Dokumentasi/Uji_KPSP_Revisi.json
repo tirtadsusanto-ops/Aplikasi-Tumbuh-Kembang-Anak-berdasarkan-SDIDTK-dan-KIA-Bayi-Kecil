@@ -1,0 +1,823 @@
+{
+  "scope": "KPSP72manualrecord and successful followup workflow; other15forms score boundaries",
+  "passed": 204,
+  "failed": 0,
+  "tests": [
+    {
+      "name": "Original four prompts and ketiga wording retained",
+      "pass": true
+    },
+    {
+      "name": "Unresolved option is available only on72monthitem3",
+      "pass": true
+    },
+    {
+      "name": "Four observation fields and six physician record fields",
+      "pass": true
+    },
+    {
+      "name": "No automatic final72month result for yes",
+      "pass": true
+    },
+    {
+      "name": "No automatic final72month result for no",
+      "pass": true
+    },
+    {
+      "name": "No automatic final72month result for unresolved",
+      "pass": true
+    },
+    {
+      "name": "Complete documented manual record accepted",
+      "pass": true
+    },
+    {
+      "name": "Manual record never exposes validated automatic score",
+      "pass": true
+    },
+    {
+      "name": "Manual assessment and plan preserved",
+      "pass": true
+    },
+    {
+      "name": "Missing required physician/observation record blocks analogy1Response",
+      "pass": true
+    },
+    {
+      "name": "Missing required physician/observation record blocks analogy2Response",
+      "pass": true
+    },
+    {
+      "name": "Missing required physician/observation record blocks analogy3Response",
+      "pass": true
+    },
+    {
+      "name": "Missing required physician/observation record blocks analogy4Response",
+      "pass": true
+    },
+    {
+      "name": "Missing required physician/observation record blocks manualExaminer",
+      "pass": true
+    },
+    {
+      "name": "Missing required physician/observation record blocks manualReviewDate",
+      "pass": true
+    },
+    {
+      "name": "Missing required physician/observation record blocks manualScore",
+      "pass": true
+    },
+    {
+      "name": "Missing required physician/observation record blocks manualAssessment",
+      "pass": true
+    },
+    {
+      "name": "Missing required physician/observation record blocks manualBasis",
+      "pass": true
+    },
+    {
+      "name": "Missing required physician/observation record blocks manualPlan",
+      "pass": true
+    },
+    {
+      "name": "Invalid review date blocks 2026-02-30",
+      "pass": true
+    },
+    {
+      "name": "Invalid review date blocks 2026-13-01",
+      "pass": true
+    },
+    {
+      "name": "Invalid review date blocks 2026-11-00",
+      "pass": true
+    },
+    {
+      "name": "Invalid review date blocks not-a-date",
+      "pass": true
+    },
+    {
+      "name": "Invalid or incompatible manual score blocks -1",
+      "pass": true
+    },
+    {
+      "name": "Invalid or incompatible manual score blocks 11",
+      "pass": true
+    },
+    {
+      "name": "Invalid or incompatible manual score blocks 9.5",
+      "pass": true
+    },
+    {
+      "name": "Invalid or incompatible manual score blocks 8",
+      "pass": true
+    },
+    {
+      "name": "Invalid or incompatible manual score blocks NaN",
+      "pass": true
+    },
+    {
+      "name": "Invalid or incompatible manual score blocks Infinity",
+      "pass": true
+    },
+    {
+      "name": "Manual score9 accepted with9knownYes and unresolveditem",
+      "pass": true
+    },
+    {
+      "name": "BinaryYes and manual score9 conflict",
+      "pass": true
+    },
+    {
+      "name": "BinaryNo and manual score9 consistent",
+      "pass": true
+    },
+    {
+      "name": "BinaryNo and manual score10 conflict",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-3 0",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-3 1",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-3 2",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-3 3",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-3 4",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-3 5",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-3 6",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-3 7",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-3 8",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-3 9",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-3 10",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-6 0",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-6 1",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-6 2",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-6 3",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-6 4",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-6 5",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-6 6",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-6 7",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-6 8",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-6 9",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-6 10",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-9 0",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-9 1",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-9 2",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-9 3",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-9 4",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-9 5",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-9 6",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-9 7",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-9 8",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-9 9",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-9 10",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-12 0",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-12 1",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-12 2",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-12 3",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-12 4",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-12 5",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-12 6",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-12 7",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-12 8",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-12 9",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-12 10",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-15 0",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-15 1",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-15 2",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-15 3",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-15 4",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-15 5",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-15 6",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-15 7",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-15 8",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-15 9",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-15 10",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-18 0",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-18 1",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-18 2",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-18 3",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-18 4",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-18 5",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-18 6",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-18 7",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-18 8",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-18 9",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-18 10",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-21 0",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-21 1",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-21 2",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-21 3",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-21 4",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-21 5",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-21 6",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-21 7",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-21 8",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-21 9",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-21 10",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-24 0",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-24 1",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-24 2",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-24 3",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-24 4",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-24 5",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-24 6",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-24 7",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-24 8",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-24 9",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-24 10",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-30 0",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-30 1",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-30 2",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-30 3",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-30 4",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-30 5",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-30 6",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-30 7",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-30 8",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-30 9",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-30 10",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-36 0",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-36 1",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-36 2",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-36 3",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-36 4",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-36 5",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-36 6",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-36 7",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-36 8",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-36 9",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-36 10",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-42 0",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-42 1",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-42 2",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-42 3",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-42 4",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-42 5",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-42 6",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-42 7",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-42 8",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-42 9",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-42 10",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-48 0",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-48 1",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-48 2",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-48 3",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-48 4",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-48 5",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-48 6",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-48 7",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-48 8",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-48 9",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-48 10",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-54 0",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-54 1",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-54 2",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-54 3",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-54 4",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-54 5",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-54 6",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-54 7",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-54 8",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-54 9",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-54 10",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-60 0",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-60 1",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-60 2",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-60 3",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-60 4",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-60 5",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-60 6",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-60 7",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-60 8",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-60 9",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-60 10",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-66 0",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-66 1",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-66 2",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-66 3",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-66 4",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-66 5",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-66 6",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-66 7",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-66 8",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-66 9",
+      "pass": true
+    },
+    {
+      "name": "Unchanged automatic thresholds kpsp-66 10",
+      "pass": true
+    },
+    {
+      "name": "Successful younger-form followup advances 30→36 score9",
+      "pass": true
+    },
+    {
+      "name": "Successful younger-form followup advances 30→36 score10",
+      "pass": true
+    },
+    {
+      "name": "Successful younger-form followup advances 15→18 score9",
+      "pass": true
+    },
+    {
+      "name": "Successful younger-form followup advances 15→18 score10",
+      "pass": true
+    },
+    {
+      "name": "Meragukan followup does not skip to current-age form",
+      "pass": true
+    },
+    {
+      "name": "Current-age followup remains ordinary completed S",
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "app": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/outputs/Paket_Aplikasi_Tumbuh_Kembang_Anak_Revisi_20261119",
+  "scope": "UI interactions and pre-render export payloads; no external references",
+  "checks": [
+    {
+      "id": "babydev_56_corrected_days_2_source_months",
+      "pass": true,
+      "detail": {
+        "patient": {
+          "examDate": "2026-11-07",
+          "gestationDays": "0",
+          "immunizations": [],
+          "name": "Uji Integrasi Neonatal",
+          "birthDate": "2026-08-01",
+          "sex": "male",
+          "weight": "5.2",
+          "height": "58",
+          "headCircumference": "39",
+          "muac": "12",
+          "measurementPosition": "recumbent",
+          "address": "Alamat Uji",
+          "fatherName": "Ayah Uji",
+          "motherName": "Ibu Uji",
+          "fatherAge": "32",
+          "motherAge": "30",
+          "gestationWeeks": "34",
+          "birthWeight": "2000",
+          "birthLength": "43",
+          "delivery": "cesarean",
+          "cried": "yes",
+          "examiner": "Pemeriksa Uji",
+          "location": "Lokasi Uji"
+        },
+        "values": {},
+        "form": {
+          "id": "bayi-kecil-2",
+          "label": "Usia koreksi 2 bulan",
+          "age": 2,
+          "images": [
+            {
+              "src": "assets/neonatal/kia-26.png",
+              "caption": "Buku KIA Bayi Kecil, hlm. 26."
+            }
+          ],
+          "questions": [
+            {
+              "text": "Kemampuan: Senyum responsif (bila diajak senyum).",
+              "options": [
+                {
+                  "value": "yes",
+                  "label": "Ya"
+                },
+                {
+                  "value": "no",
+                  "label": "Tidak"
+                }
+              ],
+              "domain": "Tahap perkembangan",
+              "noteLabel": "Usia koreksi ketika pertama tercapai (minggu/bulan)",
+              "color": "#c6eafa"
+            },
+            {
+              "text": "Kemampuan: Dapat bersuara/cooing (ah, uh).",
+              "options": [
+                {
+                  "value": "yes",
+                  "label": "Ya"
+                },
+                {
+                  "value": "no",
+                  "label": "Tidak"
+                }
+              ],
+              "domain": "Tahap perkembangan",
+              "noteLabel": "Usia koreksi ketika pertama tercapai (minggu/bulan)",
+              "color": "#c6eafa"
+            },
+            {
+              "text": "Kemampuan: Dapat membuka tangan dan mengepal.",
+              "options": [
+                {
+                  "value": "yes",
+                  "label": "Ya"
+                },
+                {
+                  "value": "no",
+                  "label": "Tidak"
+                }
+              ],
+              "domain": "Tahap perkembangan",
+              "noteLabel": "Usia koreksi ketika pertama tercapai (minggu/bulan)",
+              "color": "#c6eafa"
+            },
+            {
+              "text": "Kemampuan: Dapat mengangkat kepala dan dada saat tengkurap.",
+              "options": [
+                {
+                  "value": "yes",
+                  "label": "Ya"
+                },
+                {
+                  "value": "no",
+                  "label": "Tidak"
+                }
+              ],
+              "domain": "Tahap perkembangan",
+              "noteLabel": "Usia koreksi ketika pertama tercapai (minggu/bulan)",
+              "color": "#c6eafa"
+            },
+            {
+              "text": "Tanda bahaya: Tidak berespons terhadap suara keras.",
+              "options": [
+                {
+                  "value": "yes",
+                  "label": "Ya"
+                },
+                {
+                  "value": "no",
+                  "label": "Tidak"
+                }
+              ],
+              "domain": "Tanda bahaya perkembangan",
+              "color": "#fffbd5"
+            },
+            {
+              "text": "Tanda bahaya: Tidak dapat menatap wajah.",
+              "options": [
+                {
+                  "value": "yes",
+                  "label": "Ya"
+                },
+                {
+                  "value": "no",
+                  "label": "Tidak"
+                }
+              ],
+              "domain": "Tanda bahaya perkembangan",
+              "color": "#fffbd5"
+            },
+            {
+              "text": "Tanda bahaya: Tidak dapat mengangkat kepala saat tengkurap.",
+              "options": [
+                {
+                  "value": "yes",
+                  "label": "Ya"
+                },
+                {
+                  "value": "no",
+                  "label": "Tidak"
+                }
+              ],
+              "domain": "Tanda bahaya perkembangan",
+              "color": "#fffbd5"
+            }
+          ]
+        },
+        "formId": "bayi-kecil-2",
+        "ageMonths": 2,
+        "ageFullMonths": 2,
+        "ageDays": 98,
+        "age": {
+          "basis": "kia-weeks",
+          "years": 0,
+          "months": 2,
+          "days": 0,
+          "fullMonths": 2,
+          "totalDays": 56,
+          "decimalMonths": 2,
+          "roundedMonths": 2
+        },
+        "chronologicalAge": {
+          "years": 0,
+          "months": 3,
+          "days": 6,
+          "fullMonths": 3,
+          "totalDays": 98,
+          "decimalMonths": 3.197125256673511,
+          "roundedMonths": 3
+        },
+        "correctedAge": true,
+        "correctionDays": 42,
+        "ageBasis": "kia-weeks"
+      }
+    },
+    {
+      "id": "babydev_source_week_basis_declared",
+      "pass": true,
+      "detail": "kia-weeks"
+    },
+    {
+      "id": "babydev_correct_2_month_form_selected",
+      "pass": true
+    },
+    {
+      "id": "babydev_2_month_gate_available",
+      "pass": true
+    },
+    {
+      "id": "babydev_partial_redflag_alert_visible",
+      "pass": true
+    },
+    {
+      "id": "babydev_partial_redflag_immediate_facility_text",
+      "pass": true
+    },
+    {
+      "id": "babydev_partial_has_no_final_classification",
+      "pass": true
+    },
+    {
+      "id": "babydev_partial_assess_no_normal_result",
+      "pass": true
+    },
+    {
+      "id": "babydev_partial_export_type",
+      "pass": true,
+      "detail": "docx"
+    },
+    {
+      "id": "babydev_partial_draft_records_flag",
+      "pass": true
+    },
+    {
+      "id": "babydev_partial_draft_is_not_final",
+      "pass": true
+    },
+    {
+      "id": "babydev_wrong_age_form_suppresses_urgent_alert",
+      "pass": true
+    },
+    {
+      "id": "babydev_wrong_age_form_prompts_correct_form",
+      "pass": true
+    },
+    {
+      "id": "babydev_wrong_age_export_type",
+      "pass": true,
+      "detail": "docx"
+    },
+    {
+      "id": "babydev_wrong_age_draft_no_automatic_redflag_conclusion",
+      "pass": true
+    },
+    {
+      "id": "babydev_wrong_age_draft_preserves_raw_answer",
+      "pass": true
+    },
+    {
+      "id": "danger_partial_immediate_alert_visible",
+      "pass": true
+    },
+    {
+      "id": "danger_partial_banner_has_finding_and_advice",
+      "pass": true
+    },
+    {
+      "id": "danger_partial_no_final_classification",
+      "pass": true
+    },
+    {
+      "id": "danger_partial_docx_export_type",
+      "pass": true,
+      "detail": "docx"
+    },
+    {
+      "id": "danger_partial_docx_draft_contains_finding",
+      "pass": true
+    },
+    {
+      "id": "danger_partial_docx_draft_contains_immediate_action",
+      "pass": true
+    },
+    {
+      "id": "danger_partial_docx_draft_no_false_normal",
+      "pass": true
+    },
+    {
+      "id": "danger_partial_pdf_export_type",
+      "pass": true,
+      "detail": "pdf"
+    },
+    {
+      "id": "danger_partial_pdf_draft_contains_finding",
+      "pass": true
+    },
+    {
+      "id": "danger_partial_pdf_draft_contains_immediate_action",
+      "pass": true
+    },
+    {
+      "id": "danger_partial_pdf_draft_no_false_normal",
+      "pass": true
+    },
+    {
+      "id": "apgar_3_7_pending_heading",
+      "pass": true
+    },
+    {
+      "id": "apgar_3_7_raw_scores_preserved",
+      "pass": true
+    },
+    {
+      "id": "apgar_3_7_no_automatic_asphyxia_category",
+      "pass": true
+    },
+    {
+      "id": "apgar_pending_3_7_export_type",
+      "pass": true,
+      "detail": "docx"
+    },
+    {
+      "id": "apgar_pending_draft_raw_scores",
+      "pass": true
+    },
+    {
+      "id": "apgar_pending_draft_separate_source_details",
+      "pass": true
+    },
+    {
+      "id": "apgar_pending_draft_status_pending",
+      "pass": true
+    },
+    {
+      "id": "apgar_four_review_fields_resolve_pending_workflow",
+      "pass": true
+    },
+    {
+      "id": "apgar_confirmed_raw_score_and_source_gap_retained",
+      "pass": true
+    },
+    {
+      "id": "apgar_doctor_statement_labeled_separately",
+      "pass": true
+    },
+    {
+      "id": "apgar_confirmed_3_7_export_type",
+      "pass": true,
+      "detail": "docx"
+    },
+    {
+      "id": "apgar_confirmed_export_not_pending_title",
+      "pass": true
+    },
+    {
+      "id": "apgar_confirmed_export_preserves_doctor_assessment_and_action",
+      "pass": true
+    },
+    {
+      "id": "apgar_confirmed_export_separates_automatic_and_doctor_rows",
+      "pass": true
+    },
+    {
+      "id": "apgar_exact100_pending_raw_m1_and_m5",
+      "pass": true
+    },
+    {
+      "id": "apgar_pending_exact100_export_type",
+      "pass": true,
+      "detail": "docx"
+    },
+    {
+      "id": "apgar_exact100_draft_preserves_observation",
+      "pass": true
+    },
+    {
+      "id": "apgar_exact100_confirmation_never_invents_score",
+      "pass": true
+    },
+    {
+      "id": "ballard_1_not_forced_to_confirm",
+      "pass": true
+    },
+    {
+      "id": "ballard_1_source_brackets_only",
+      "pass": true
+    },
+    {
+      "id": "ballard_1_raw_total_preserved",
+      "pass": true
+    },
+    {
+      "id": "ballard_intermediate_export_type",
+      "pass": true,
+      "detail": "docx"
+    },
+    {
+      "id": "ballard_intermediate_export_bracket_retained",
+      "pass": true
+    },
+    {
+      "id": "ballard_49_not_forced_to_confirm",
+      "pass": true
+    },
+    {
+      "id": "ballard_49_source_brackets_only",
+      "pass": true
+    },
+    {
+      "id": "ballard_49_raw_total_preserved",
+      "pass": true
+    },
+    {
+      "id": "no_browser_javascript_errors",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "failed": [],
+  "errors": []
+}

@@ -1,0 +1,107 @@
+{
+  "app": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/outputs/Paket_Aplikasi_Tumbuh_Kembang_Anak_Revisi_20261119",
+  "checks": [
+    {
+      "id": "initial_assessment_ready",
+      "pass": true
+    },
+    {
+      "id": "answer_change_clears_result",
+      "pass": true
+    },
+    {
+      "id": "refresh_preserves_latest_answer",
+      "pass": true
+    },
+    {
+      "id": "form_change_clears_results",
+      "pass": true
+    },
+    {
+      "id": "form_change_clears_all_answers",
+      "pass": true
+    },
+    {
+      "id": "module_reset_index_blank",
+      "pass": true
+    },
+    {
+      "id": "cold_index_after_module_reset_blank",
+      "pass": true,
+      "detail": {
+        "actual": ""
+      }
+    },
+    {
+      "id": "cold_module_after_reset_blank",
+      "pass": true
+    },
+    {
+      "id": "tabA_refresh_keeps_A",
+      "pass": true
+    },
+    {
+      "id": "tabB_refresh_keeps_B",
+      "pass": true
+    },
+    {
+      "id": "lku_initial_autofill",
+      "pass": true
+    },
+    {
+      "id": "lku_assessment_ready",
+      "pass": true
+    },
+    {
+      "id": "lku_updated_demographic_measurement_consistent",
+      "pass": true,
+      "detail": {
+        "demographic": "43.7",
+        "instrument": "43.7"
+      }
+    },
+    {
+      "id": "lila_initial_autofill",
+      "pass": true
+    },
+    {
+      "id": "lila_updated_demographic_measurement_consistent",
+      "pass": true,
+      "detail": {
+        "demographic": "12.0",
+        "instrument": "12.0"
+      }
+    },
+    {
+      "id": "assembled_report_has_patient_and_rows",
+      "pass": true
+    },
+    {
+      "id": "assembled_report_measurement_agrees",
+      "pass": true,
+      "detail": {
+        "demographic": "12.0",
+        "instrument": "12.0"
+      }
+    },
+    {
+      "id": "export_uses_latest_clinical_notes",
+      "pass": true
+    },
+    {
+      "id": "async_export_identity_snapshot_atomic",
+      "pass": true,
+      "detail": {
+        "filenamePatient": "Pasien Snapshot A",
+        "documentPatient": "Pasien Snapshot A"
+      }
+    },
+    {
+      "id": "no_browser_js_errors",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "failed": [],
+  "errors": []
+}

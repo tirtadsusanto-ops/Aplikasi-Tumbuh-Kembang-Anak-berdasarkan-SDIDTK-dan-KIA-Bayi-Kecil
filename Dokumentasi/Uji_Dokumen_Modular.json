@@ -1,0 +1,389 @@
+{
+  "checks": [
+    {
+      "id": "bbu_reports_present",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "bbu_docx_crc",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "bbu_docx_patient",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "bbu_docx_interpretation_management",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "bbu_docx_tnr12",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "bbu_docx_embedded_original_figures",
+      "pass": true,
+      "details": 1
+    },
+    {
+      "id": "bbu_docx_figure_sizes_fit",
+      "pass": true,
+      "details": [
+        {
+          "cx": "6035040",
+          "cy": "4266505"
+        }
+      ]
+    },
+    {
+      "id": "bbu_pdf_patient",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "bbu_pdf_interpretation_management",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "bbu_pdf_no_text_outside_page",
+      "pass": true,
+      "details": []
+    },
+    {
+      "id": "bbu_pdf_true_tnr_body12",
+      "pass": true,
+      "details": {
+        "fonts": [
+          "TimesNewRomanPS-BoldMT-5749",
+          "TimesNewRomanPSMT-6471"
+        ],
+        "sizes": [
+          8.0,
+          10.0,
+          12.0
+        ],
+        "pages": 3
+      }
+    },
+    {
+      "id": "bbu_pdf_embedded_original_figures",
+      "pass": true,
+      "details": 1
+    },
+    {
+      "id": "weightIncrement_reports_present",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "weightIncrement_docx_crc",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "weightIncrement_docx_patient",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "weightIncrement_docx_interpretation_management",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "weightIncrement_docx_tnr12",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "weightIncrement_docx_embedded_original_figures",
+      "pass": true,
+      "details": 1
+    },
+    {
+      "id": "weightIncrement_docx_figure_sizes_fit",
+      "pass": true,
+      "details": [
+        {
+          "cx": "5568721",
+          "cy": "7863840"
+        }
+      ]
+    },
+    {
+      "id": "weightIncrement_pdf_patient",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "weightIncrement_pdf_interpretation_management",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "weightIncrement_pdf_no_text_outside_page",
+      "pass": true,
+      "details": []
+    },
+    {
+      "id": "weightIncrement_pdf_true_tnr_body12",
+      "pass": true,
+      "details": {
+        "fonts": [
+          "TimesNewRomanPS-BoldMT-4855",
+          "TimesNewRomanPSMT-5732"
+        ],
+        "sizes": [
+          8.0,
+          10.0,
+          12.0
+        ],
+        "pages": 4
+      }
+    },
+    {
+      "id": "weightIncrement_pdf_embedded_original_figures",
+      "pass": true,
+      "details": 1
+    },
+    {
+      "id": "fenton_reports_present",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "fenton_docx_crc",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "fenton_docx_patient",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "fenton_docx_interpretation_management",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "fenton_docx_tnr12",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "fenton_docx_embedded_original_figures",
+      "pass": true,
+      "details": 1
+    },
+    {
+      "id": "fenton_docx_figure_sizes_fit",
+      "pass": true,
+      "details": [
+        {
+          "cx": "6035040",
+          "cy": "7747686"
+        }
+      ]
+    },
+    {
+      "id": "fenton_pdf_patient",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "fenton_pdf_interpretation_management",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "fenton_pdf_no_text_outside_page",
+      "pass": true,
+      "details": []
+    },
+    {
+      "id": "fenton_pdf_true_tnr_body12",
+      "pass": true,
+      "details": {
+        "fonts": [
+          "TimesNewRomanPS-BoldMT-6868",
+          "TimesNewRomanPSMT-2481"
+        ],
+        "sizes": [
+          8.0,
+          10.0,
+          12.0
+        ],
+        "pages": 4
+      }
+    },
+    {
+      "id": "fenton_pdf_embedded_original_figures",
+      "pass": true,
+      "details": 1
+    },
+    {
+      "id": "lku_reports_present",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "lku_docx_crc",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "lku_docx_patient",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "lku_docx_interpretation_management",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "lku_docx_tnr12",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "lku_docx_embedded_original_figures",
+      "pass": true,
+      "details": 1
+    },
+    {
+      "id": "lku_docx_figure_sizes_fit",
+      "pass": true,
+      "details": [
+        {
+          "cx": "6035040",
+          "cy": "4258433"
+        }
+      ]
+    },
+    {
+      "id": "lku_pdf_patient",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "lku_pdf_interpretation_management",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "lku_pdf_no_text_outside_page",
+      "pass": true,
+      "details": []
+    },
+    {
+      "id": "lku_pdf_true_tnr_body12",
+      "pass": true,
+      "details": {
+        "fonts": [
+          "TimesNewRomanPS-BoldMT-1785",
+          "TimesNewRomanPSMT-3393"
+        ],
+        "sizes": [
+          8.0,
+          10.0,
+          12.0
+        ],
+        "pages": 3
+      }
+    },
+    {
+      "id": "lku_pdf_embedded_original_figures",
+      "pass": true,
+      "details": 1
+    },
+    {
+      "id": "Gabungan_Indeks_reports_present",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "Gabungan_Indeks_docx_crc",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "Gabungan_Indeks_docx_patient",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "Gabungan_Indeks_docx_interpretation_management",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "Gabungan_Indeks_docx_tnr12",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "Gabungan_Indeks_docx_embedded_original_figures",
+      "pass": true,
+      "details": 2
+    },
+    {
+      "id": "Gabungan_Indeks_docx_figure_sizes_fit",
+      "pass": true,
+      "details": [
+        {
+          "cx": "6035040",
+          "cy": "4266505"
+        },
+        {
+          "cx": "6035040",
+          "cy": "4258433"
+        }
+      ]
+    },
+    {
+      "id": "Gabungan_Indeks_pdf_patient",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "Gabungan_Indeks_pdf_interpretation_management",
+      "pass": true,
+      "details": null
+    },
+    {
+      "id": "Gabungan_Indeks_pdf_no_text_outside_page",
+      "pass": true,
+      "details": []
+    },
+    {
+      "id": "Gabungan_Indeks_pdf_true_tnr_body12",
+      "pass": true,
+      "details": {
+        "fonts": [
+          "TimesNewRomanPS-BoldMT-6575",
+          "TimesNewRomanPSMT-8358"
+        ],
+        "sizes": [
+          8.0,
+          10.0,
+          12.0
+        ],
+        "pages": 5
+      }
+    },
+    {
+      "id": "Gabungan_Indeks_pdf_embedded_original_figures",
+      "pass": true,
+      "details": 2
+    }
+  ],
+  "failed": []
+}

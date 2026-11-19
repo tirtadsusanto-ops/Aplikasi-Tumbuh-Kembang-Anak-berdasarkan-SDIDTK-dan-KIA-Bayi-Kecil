@@ -1,0 +1,280 @@
+{
+  "pages": [
+    {
+      "id": "index",
+      "rendered": true,
+      "images": [],
+      "width": true
+    },
+    {
+      "id": "kpsp",
+      "rendered": true,
+      "images": [
+        {
+          "data": true,
+          "ok": true
+        }
+      ],
+      "width": true
+    },
+    {
+      "id": "tdd",
+      "rendered": true,
+      "images": [],
+      "width": true
+    },
+    {
+      "id": "kmpe",
+      "rendered": true,
+      "images": [],
+      "width": true
+    },
+    {
+      "id": "mchat",
+      "rendered": true,
+      "images": [],
+      "width": true
+    },
+    {
+      "id": "actrs",
+      "rendered": true,
+      "images": [],
+      "width": true
+    },
+    {
+      "id": "tdl",
+      "rendered": true,
+      "images": [
+        {
+          "data": true,
+          "ok": true
+        },
+        {
+          "data": true,
+          "ok": true
+        }
+      ],
+      "width": true
+    },
+    {
+      "id": "pupil",
+      "rendered": true,
+      "images": [
+        {
+          "data": true,
+          "ok": true
+        },
+        {
+          "data": true,
+          "ok": true
+        }
+      ],
+      "width": true
+    },
+    {
+      "id": "bbu",
+      "rendered": true,
+      "images": [
+        {
+          "data": true,
+          "ok": true
+        }
+      ],
+      "width": true
+    },
+    {
+      "id": "pbtbu",
+      "rendered": true,
+      "images": [
+        {
+          "data": true,
+          "ok": true
+        }
+      ],
+      "width": true
+    },
+    {
+      "id": "bbpb",
+      "rendered": true,
+      "images": [
+        {
+          "data": true,
+          "ok": true
+        }
+      ],
+      "width": true
+    },
+    {
+      "id": "imtu",
+      "rendered": true,
+      "images": [
+        {
+          "data": true,
+          "ok": true
+        }
+      ],
+      "width": true
+    },
+    {
+      "id": "lila",
+      "rendered": true,
+      "images": [
+        {
+          "data": true,
+          "ok": true
+        }
+      ],
+      "width": true
+    },
+    {
+      "id": "lku",
+      "rendered": true,
+      "images": [
+        {
+          "data": true,
+          "ok": true
+        }
+      ],
+      "width": true
+    },
+    {
+      "id": "weightIncrement",
+      "rendered": true,
+      "images": [
+        {
+          "data": true,
+          "ok": true
+        }
+      ],
+      "width": true
+    },
+    {
+      "id": "lengthIncrement",
+      "rendered": true,
+      "images": [
+        {
+          "data": true,
+          "ok": true
+        }
+      ],
+      "width": true
+    },
+    {
+      "id": "fenton",
+      "rendered": true,
+      "images": [
+        {
+          "data": true,
+          "ok": true
+        }
+      ],
+      "width": true
+    },
+    {
+      "id": "apgar",
+      "rendered": true,
+      "images": [
+        {
+          "data": true,
+          "ok": true
+        }
+      ],
+      "width": true
+    },
+    {
+      "id": "ballard",
+      "rendered": true,
+      "images": [
+        {
+          "data": true,
+          "ok": true
+        }
+      ],
+      "width": true
+    },
+    {
+      "id": "bayi-kecil-perkembangan",
+      "rendered": true,
+      "images": [
+        {
+          "data": true,
+          "ok": true
+        }
+      ],
+      "width": true
+    },
+    {
+      "id": "skrining-usg-kepala",
+      "rendered": true,
+      "images": [],
+      "width": true
+    },
+    {
+      "id": "skrining-rop",
+      "rendered": true,
+      "images": [],
+      "width": true
+    },
+    {
+      "id": "skrining-pendengaran-neonatus",
+      "rendered": true,
+      "images": [],
+      "width": true
+    },
+    {
+      "id": "skrining-tiroid",
+      "rendered": true,
+      "images": [],
+      "width": true
+    },
+    {
+      "id": "tanda-bahaya-bayi",
+      "rendered": true,
+      "images": [
+        {
+          "data": true,
+          "ok": true
+        }
+      ],
+      "width": true
+    },
+    {
+      "id": "usia-koreksi",
+      "rendered": true,
+      "images": [],
+      "width": true
+    }
+  ],
+  "checks": [
+    {
+      "id": "mobile_no_horizontal_overflow",
+      "pass": true
+    },
+    {
+      "id": "kpsp6_score10",
+      "pass": true
+    },
+    {
+      "id": "kpsp_docx_download",
+      "pass": true
+    },
+    {
+      "id": "kpsp_pdf_download",
+      "pass": true
+    },
+    {
+      "id": "cross_file_patient_preserved",
+      "pass": true
+    },
+    {
+      "id": "unlimited_custom_vaccine",
+      "pass": true
+    },
+    {
+      "id": "json_download",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "finished": true
+}

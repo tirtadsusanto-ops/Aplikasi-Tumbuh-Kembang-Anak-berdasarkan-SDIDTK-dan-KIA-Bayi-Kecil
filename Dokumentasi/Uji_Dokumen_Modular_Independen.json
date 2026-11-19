@@ -1,0 +1,285 @@
+{
+  "checks": [
+    {
+      "id": "bbu_all_XML_valid",
+      "pass": true
+    },
+    {
+      "id": "bbu_DOCX_source_image_bytes_identical",
+      "pass": true,
+      "details": [
+        "assets/growth/gpa_07_0.jpg"
+      ]
+    },
+    {
+      "id": "bbu_DOCX_body_TimesNewRoman12",
+      "pass": true
+    },
+    {
+      "id": "bbu_PDF_no_text_clipping",
+      "pass": true,
+      "details": []
+    },
+    {
+      "id": "bbu_PDF_no_text_overlap",
+      "pass": true,
+      "details": []
+    },
+    {
+      "id": "bbu_PDF_body_TimesNewRoman12",
+      "pass": true,
+      "details": {
+        "fonts": [
+          "TimesNewRomanPS-BoldMT-5749",
+          "TimesNewRomanPSMT-6471"
+        ],
+        "sizes": [
+          8.0,
+          10.0,
+          12.0
+        ]
+      }
+    },
+    {
+      "id": "bbu_PDF_source_figures",
+      "pass": true,
+      "details": 1
+    },
+    {
+      "id": "weightIncrement_all_XML_valid",
+      "pass": true
+    },
+    {
+      "id": "weightIncrement_DOCX_source_image_bytes_identical",
+      "pass": true,
+      "details": [
+        "assets/growth/pedoman_248.png"
+      ]
+    },
+    {
+      "id": "weightIncrement_DOCX_body_TimesNewRoman12",
+      "pass": true
+    },
+    {
+      "id": "weightIncrement_PDF_no_text_clipping",
+      "pass": true,
+      "details": []
+    },
+    {
+      "id": "weightIncrement_PDF_no_text_overlap",
+      "pass": true,
+      "details": []
+    },
+    {
+      "id": "weightIncrement_PDF_body_TimesNewRoman12",
+      "pass": true,
+      "details": {
+        "fonts": [
+          "TimesNewRomanPS-BoldMT-4855",
+          "TimesNewRomanPSMT-5732"
+        ],
+        "sizes": [
+          8.0,
+          10.0,
+          12.0
+        ]
+      }
+    },
+    {
+      "id": "weightIncrement_PDF_source_figures",
+      "pass": true,
+      "details": 1
+    },
+    {
+      "id": "fenton_all_XML_valid",
+      "pass": true
+    },
+    {
+      "id": "fenton_DOCX_source_image_bytes_identical",
+      "pass": true,
+      "details": [
+        "assets/growth/gpa_32_0.png"
+      ]
+    },
+    {
+      "id": "fenton_DOCX_body_TimesNewRoman12",
+      "pass": true
+    },
+    {
+      "id": "fenton_PDF_no_text_clipping",
+      "pass": true,
+      "details": []
+    },
+    {
+      "id": "fenton_PDF_no_text_overlap",
+      "pass": true,
+      "details": []
+    },
+    {
+      "id": "fenton_PDF_body_TimesNewRoman12",
+      "pass": true,
+      "details": {
+        "fonts": [
+          "TimesNewRomanPS-BoldMT-6868",
+          "TimesNewRomanPSMT-2481"
+        ],
+        "sizes": [
+          8.0,
+          10.0,
+          12.0
+        ]
+      }
+    },
+    {
+      "id": "fenton_PDF_source_figures",
+      "pass": true,
+      "details": 1
+    },
+    {
+      "id": "lku_all_XML_valid",
+      "pass": true
+    },
+    {
+      "id": "lku_DOCX_source_image_bytes_identical",
+      "pass": true,
+      "details": [
+        "assets/growth/gpa_25.png"
+      ]
+    },
+    {
+      "id": "lku_DOCX_body_TimesNewRoman12",
+      "pass": true
+    },
+    {
+      "id": "lku_PDF_no_text_clipping",
+      "pass": true,
+      "details": []
+    },
+    {
+      "id": "lku_PDF_no_text_overlap",
+      "pass": true,
+      "details": []
+    },
+    {
+      "id": "lku_PDF_body_TimesNewRoman12",
+      "pass": true,
+      "details": {
+        "fonts": [
+          "TimesNewRomanPS-BoldMT-1785",
+          "TimesNewRomanPSMT-3393"
+        ],
+        "sizes": [
+          8.0,
+          10.0,
+          12.0
+        ]
+      }
+    },
+    {
+      "id": "lku_PDF_source_figures",
+      "pass": true,
+      "details": 1
+    },
+    {
+      "id": "Gabungan_Indeks_all_XML_valid",
+      "pass": true
+    },
+    {
+      "id": "Gabungan_Indeks_DOCX_source_image_bytes_identical",
+      "pass": true,
+      "details": [
+        "assets/growth/gpa_07_0.jpg",
+        "assets/growth/gpa_25.png"
+      ]
+    },
+    {
+      "id": "Gabungan_Indeks_DOCX_body_TimesNewRoman12",
+      "pass": true
+    },
+    {
+      "id": "Gabungan_Indeks_PDF_no_text_clipping",
+      "pass": true,
+      "details": []
+    },
+    {
+      "id": "Gabungan_Indeks_PDF_no_text_overlap",
+      "pass": true,
+      "details": []
+    },
+    {
+      "id": "Gabungan_Indeks_PDF_body_TimesNewRoman12",
+      "pass": true,
+      "details": {
+        "fonts": [
+          "TimesNewRomanPS-BoldMT-6575",
+          "TimesNewRomanPSMT-8358"
+        ],
+        "sizes": [
+          8.0,
+          10.0,
+          12.0
+        ]
+      }
+    },
+    {
+      "id": "Gabungan_Indeks_PDF_source_figures",
+      "pass": true,
+      "details": 2
+    }
+  ],
+  "failed": [],
+  "pending": [],
+  "details": [
+    {
+      "stem": "bbu",
+      "docxSourceImages": [
+        "assets/growth/gpa_07_0.jpg"
+      ],
+      "pdfPages": 3,
+      "pdfImages": 1,
+      "outOfBounds": 0,
+      "textOverlaps": 0
+    },
+    {
+      "stem": "weightIncrement",
+      "docxSourceImages": [
+        "assets/growth/pedoman_248.png"
+      ],
+      "pdfPages": 4,
+      "pdfImages": 1,
+      "outOfBounds": 0,
+      "textOverlaps": 0
+    },
+    {
+      "stem": "fenton",
+      "docxSourceImages": [
+        "assets/growth/gpa_32_0.png"
+      ],
+      "pdfPages": 4,
+      "pdfImages": 1,
+      "outOfBounds": 0,
+      "textOverlaps": 0
+    },
+    {
+      "stem": "lku",
+      "docxSourceImages": [
+        "assets/growth/gpa_25.png"
+      ],
+      "pdfPages": 3,
+      "pdfImages": 1,
+      "outOfBounds": 0,
+      "textOverlaps": 0
+    },
+    {
+      "stem": "Gabungan_Indeks",
+      "docxSourceImages": [
+        "assets/growth/gpa_07_0.jpg",
+        "assets/growth/gpa_25.png"
+      ],
+      "pdfPages": 5,
+      "pdfImages": 2,
+      "outOfBounds": 0,
+      "textOverlaps": 0
+    }
+  ]
+}

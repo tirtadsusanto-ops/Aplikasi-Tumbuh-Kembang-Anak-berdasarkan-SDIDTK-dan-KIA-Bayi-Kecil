@@ -1,0 +1,246 @@
+{
+  "passed": 60,
+  "total": 60,
+  "tests": [
+    {
+      "name": "APGAR 3 preserves score pending",
+      "pass": true
+    },
+    {
+      "name": "APGAR 3 explicit clinician confirmation",
+      "pass": true
+    },
+    {
+      "name": "APGAR 7 preserves score pending",
+      "pass": true
+    },
+    {
+      "name": "APGAR 7 explicit clinician confirmation",
+      "pass": true
+    },
+    {
+      "name": "Pulse exactly100 preserves other minute",
+      "pass": true
+    },
+    {
+      "name": "Pulse exactly100 physician confirmed doesnotinvent numeric",
+      "pass": true
+    },
+    {
+      "name": "APGAR invalid individual -1",
+      "pass": true
+    },
+    {
+      "name": "APGAR invalid individual 3",
+      "pass": true
+    },
+    {
+      "name": "APGAR invalid individual 0.5",
+      "pass": true
+    },
+    {
+      "name": "APGAR invalid individual ",
+      "pass": true
+    },
+    {
+      "name": "APGAR invalid individual undefined",
+      "pass": true
+    },
+    {
+      "name": "APGAR invalid individual null",
+      "pass": true
+    },
+    {
+      "name": "APGAR invalid individual NaN",
+      "pass": true
+    },
+    {
+      "name": "APGAR invalid individual [object Object]",
+      "pass": true
+    },
+    {
+      "name": "APGAR invalid individual 1",
+      "pass": true
+    },
+    {
+      "name": "APGAR normal no mandatory clinician confirmation",
+      "pass": true
+    },
+    {
+      "name": "APGAR sourcegap missing doctorName",
+      "pass": true
+    },
+    {
+      "name": "APGAR sourcegap missing reviewDate",
+      "pass": true
+    },
+    {
+      "name": "APGAR sourcegap missing clinicalAssessment",
+      "pass": true
+    },
+    {
+      "name": "APGAR sourcegap missing clinicalAction",
+      "pass": true
+    },
+    {
+      "name": "APGAR invalid reviewdate 2026-02-30",
+      "pass": true
+    },
+    {
+      "name": "APGAR invalid reviewdate 2026-13-01",
+      "pass": true
+    },
+    {
+      "name": "APGAR invalid reviewdate bad",
+      "pass": true
+    },
+    {
+      "name": "APGAR invalid reviewdate 2026-1-1",
+      "pass": true
+    },
+    {
+      "name": "Ballard intermediate preserved without forced review",
+      "pass": true
+    },
+    {
+      "name": "Ballard optional clinical narrative separate",
+      "pass": true
+    },
+    {
+      "name": "Partial danger Yes 0 immediate",
+      "pass": true
+    },
+    {
+      "name": "Partial danger Yes 1 immediate",
+      "pass": true
+    },
+    {
+      "name": "Partial danger Yes 2 immediate",
+      "pass": true
+    },
+    {
+      "name": "Partial danger Yes 3 immediate",
+      "pass": true
+    },
+    {
+      "name": "Partial danger Yes 4 immediate",
+      "pass": true
+    },
+    {
+      "name": "Partial danger Yes 5 immediate",
+      "pass": true
+    },
+    {
+      "name": "Partial danger Yes 6 immediate",
+      "pass": true
+    },
+    {
+      "name": "Partial danger Yes 7 immediate",
+      "pass": true
+    },
+    {
+      "name": "Partial danger Yes 8 immediate",
+      "pass": true
+    },
+    {
+      "name": "Partial danger Yes 9 immediate",
+      "pass": true
+    },
+    {
+      "name": "Partial danger Yes 10 immediate",
+      "pass": true
+    },
+    {
+      "name": "Partial danger Yes 11 immediate",
+      "pass": true
+    },
+    {
+      "name": "Partial danger Yes 12 immediate",
+      "pass": true
+    },
+    {
+      "name": "Partial danger Yes 13 immediate",
+      "pass": true
+    },
+    {
+      "name": "Partial growthfalling immediate",
+      "pass": true
+    },
+    {
+      "name": "No danger no false positive",
+      "pass": true
+    },
+    {
+      "name": "Only flatgrowth not urgent",
+      "pass": true
+    },
+    {
+      "name": "Partial bayi-kecil-2 redflag 4",
+      "pass": true
+    },
+    {
+      "name": "Partial bayi-kecil-2 redflag 5",
+      "pass": true
+    },
+    {
+      "name": "Partial bayi-kecil-2 redflag 6",
+      "pass": true
+    },
+    {
+      "name": "bayi-kecil-2 milestoneYes not redflag",
+      "pass": true
+    },
+    {
+      "name": "Partial bayi-kecil-4 redflag 8",
+      "pass": true
+    },
+    {
+      "name": "Partial bayi-kecil-4 redflag 9",
+      "pass": true
+    },
+    {
+      "name": "Partial bayi-kecil-4 redflag 10",
+      "pass": true
+    },
+    {
+      "name": "bayi-kecil-4 milestoneYes not redflag",
+      "pass": true
+    },
+    {
+      "name": "Partial bayi-kecil-6 redflag 9",
+      "pass": true
+    },
+    {
+      "name": "Partial bayi-kecil-6 redflag 10",
+      "pass": true
+    },
+    {
+      "name": "Partial bayi-kecil-6 redflag 11",
+      "pass": true
+    },
+    {
+      "name": "Partial bayi-kecil-6 redflag 12",
+      "pass": true
+    },
+    {
+      "name": "Partial bayi-kecil-6 redflag 13",
+      "pass": true
+    },
+    {
+      "name": "Partial bayi-kecil-6 redflag 14",
+      "pass": true
+    },
+    {
+      "name": "Partial bayi-kecil-6 redflag 15",
+      "pass": true
+    },
+    {
+      "name": "Partial bayi-kecil-6 redflag 16",
+      "pass": true
+    },
+    {
+      "name": "bayi-kecil-6 milestoneYes not redflag",
+      "pass": true
+    }
+  ]
+}

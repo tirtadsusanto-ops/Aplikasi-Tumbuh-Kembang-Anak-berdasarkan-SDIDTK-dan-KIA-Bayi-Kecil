@@ -1,0 +1,2474 @@
+{
+  "app": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261118/app",
+  "checks": [
+    {
+      "id": "kpsp72_pending_visible",
+      "pass": true
+    },
+    {
+      "id": "KPSP72_belum_final_docx_download",
+      "pass": true
+    },
+    {
+      "id": "KPSP72_belum_final_pdf_download",
+      "pass": true
+    },
+    {
+      "id": "kpsp72_docx_pending_title",
+      "pass": true
+    },
+    {
+      "id": "kpsp72_docx_raw_all4_preserved",
+      "pass": true
+    },
+    {
+      "id": "kpsp72_docx_no_final_score",
+      "pass": true
+    },
+    {
+      "id": "kpsp72_docx_source_figure",
+      "pass": true
+    },
+    {
+      "id": "kpsp72_docx_long_notes",
+      "pass": true
+    },
+    {
+      "id": "kpsp72_pdf_pending_title",
+      "pass": true
+    },
+    {
+      "id": "kpsp72_pdf_raw_all4_preserved",
+      "pass": true
+    },
+    {
+      "id": "kpsp72_pdf_no_final_score",
+      "pass": true
+    },
+    {
+      "id": "kpsp72_pdf_source_figure",
+      "pass": true
+    },
+    {
+      "id": "kpsp72_pdf_long_notes",
+      "pass": true
+    },
+    {
+      "id": "kpsp72_manual_visible",
+      "pass": true
+    },
+    {
+      "id": "KPSP72_penetapan_manual_docx_download",
+      "pass": true
+    },
+    {
+      "id": "KPSP72_penetapan_manual_pdf_download",
+      "pass": true
+    },
+    {
+      "id": "kpsp72_manual_docx_separate_label",
+      "pass": true
+    },
+    {
+      "id": "kpsp72_manual_docx_clinician_basis_and_plan",
+      "pass": true
+    },
+    {
+      "id": "kpsp72_manual_pdf_separate_label",
+      "pass": true
+    },
+    {
+      "id": "kpsp72_manual_pdf_clinician_basis_and_plan",
+      "pass": true
+    },
+    {
+      "id": "apgar_pending_visible",
+      "pass": true
+    },
+    {
+      "id": "APGAR_belum_final_docx_download",
+      "pass": true
+    },
+    {
+      "id": "APGAR_belum_final_pdf_download",
+      "pass": true
+    },
+    {
+      "id": "apgar_docx_pending_preserves_other_minute",
+      "pass": true
+    },
+    {
+      "id": "apgar_docx_100pulse_observation",
+      "pass": true
+    },
+    {
+      "id": "apgar_docx_source_figure",
+      "pass": true
+    },
+    {
+      "id": "apgar_pdf_pending_preserves_other_minute",
+      "pass": true
+    },
+    {
+      "id": "apgar_pdf_100pulse_observation",
+      "pass": true
+    },
+    {
+      "id": "apgar_pdf_source_figure",
+      "pass": true
+    },
+    {
+      "id": "apgar_manual_visible",
+      "pass": true
+    },
+    {
+      "id": "APGAR_konfirmasi_dokter_docx_download",
+      "pass": true
+    },
+    {
+      "id": "APGAR_konfirmasi_dokter_pdf_download",
+      "pass": true
+    },
+    {
+      "id": "apgar_manual_docx_no_invented_numeric",
+      "pass": true
+    },
+    {
+      "id": "apgar_manual_docx_review_record_preserved",
+      "pass": true
+    },
+    {
+      "id": "apgar_manual_pdf_no_invented_numeric",
+      "pass": true
+    },
+    {
+      "id": "apgar_manual_pdf_review_record_preserved",
+      "pass": true
+    },
+    {
+      "id": "all_reports_demographics_and_immunizations",
+      "pass": true
+    },
+    {
+      "id": "no_browser_errors",
+      "pass": true
+    }
+  ],
+  "cases": [
+    {
+      "name": "KPSP72_belum_final",
+      "files": [
+        {
+          "type": "docx",
+          "path": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_review/exports/KPSP72_belum_final.docx",
+          "size": 407461
+        },
+        {
+          "type": "pdf",
+          "path": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_review/exports/KPSP72_belum_final.pdf",
+          "size": 405304
+        }
+      ],
+      "assembled": [
+        {
+          "type": "docx",
+          "title": "Catatan Pemeriksaan Belum Final — Kuesioner Pra Skrining Perkembangan (KPSP)",
+          "patient": {
+            "examDate": "2026-11-19",
+            "gestationDays": "0",
+            "immunizations": [
+              {
+                "vaccine": "BCG",
+                "date": "2020-12-19",
+                "status": "given"
+              },
+              {
+                "vaccine": "Imunisasi tambahan uji < & >",
+                "date": "2021-01-19",
+                "status": "given"
+              }
+            ],
+            "name": "Pasien Fiktif Uji Dokumen",
+            "birthDate": "2020-11-19",
+            "sex": "female",
+            "weight": "20.5",
+            "height": "115",
+            "headCircumference": "51",
+            "muac": "15",
+            "measurementPosition": "standing",
+            "address": "Alamat uji < & > tanpa data pasien nyata.",
+            "fatherName": "Ayah Uji",
+            "motherName": "Ibu Uji",
+            "fatherAge": "35",
+            "motherAge": "33",
+            "gestationWeeks": "39",
+            "birthWeight": "3000",
+            "birthLength": "49",
+            "delivery": "normal",
+            "cried": "yes",
+            "examiner": "Dokter Uji Dokumen",
+            "location": "Lokasi Pengujian"
+          },
+          "demographics": [
+            {
+              "label": "Nama anak",
+              "value": "Pasien Fiktif Uji Dokumen"
+            },
+            {
+              "label": "Tanggal lahir",
+              "value": "2020-11-19"
+            },
+            {
+              "label": "Tanggal pemeriksaan",
+              "value": "2026-11-19"
+            },
+            {
+              "label": "Usia saat pemeriksaan",
+              "value": "6 tahun 0 bulan 0 hari"
+            },
+            {
+              "label": "Jenis kelamin",
+              "value": "Perempuan"
+            },
+            {
+              "label": "Berat badan (kg)",
+              "value": "20.5"
+            },
+            {
+              "label": "Panjang/tinggi badan (cm)",
+              "value": "115"
+            },
+            {
+              "label": "Lingkar kepala (cm)",
+              "value": "51"
+            },
+            {
+              "label": "Lingkar lengan atas (cm)",
+              "value": "15"
+            },
+            {
+              "label": "Posisi pengukuran",
+              "value": "Berdiri"
+            },
+            {
+              "label": "Alamat",
+              "value": "Alamat uji < & > tanpa data pasien nyata."
+            },
+            {
+              "label": "Nama ayah",
+              "value": "Ayah Uji"
+            },
+            {
+              "label": "Nama ibu",
+              "value": "Ibu Uji"
+            },
+            {
+              "label": "Usia ayah (tahun)",
+              "value": "35"
+            },
+            {
+              "label": "Usia ibu (tahun)",
+              "value": "33"
+            },
+            {
+              "label": "Usia gestasi saat lahir (minggu)",
+              "value": "39"
+            },
+            {
+              "label": "Tambahan hari gestasi",
+              "value": "0"
+            },
+            {
+              "label": "Berat badan lahir (gram)",
+              "value": "3000"
+            },
+            {
+              "label": "Panjang badan lahir (cm)",
+              "value": "49"
+            },
+            {
+              "label": "Cara lahir",
+              "value": "Normal/spontan"
+            },
+            {
+              "label": "Langsung menangis saat lahir",
+              "value": "Ya"
+            },
+            {
+              "label": "Nama pemeriksa",
+              "value": "Dokter Uji Dokumen"
+            },
+            {
+              "label": "Lokasi pemeriksaan",
+              "value": "Lokasi Pengujian"
+            },
+            {
+              "label": "Status imunisasi sesuai catatan",
+              "value": "Belum diisi"
+            },
+            {
+              "label": "Catatan imunisasi",
+              "value": "Belum diisi"
+            },
+            {
+              "label": "Imunisasi 1",
+              "value": "BCG | Sudah diberikan | 2020-12-19"
+            },
+            {
+              "label": "Imunisasi 2",
+              "value": "Imunisasi tambahan uji < & > | Sudah diberikan | 2021-01-19"
+            }
+          ],
+          "sections": [
+            {
+              "title": "Kuesioner Pra Skrining Perkembangan (KPSP)",
+              "rows": [
+                {
+                  "label": "Usia acuan instrumen",
+                  "value": "6 tahun 0 bulan 0 hari"
+                },
+                {
+                  "label": "Formulir yang digunakan",
+                  "value": "KPSP umur 72 bulan"
+                },
+                {
+                  "label": "Status dokumen",
+                  "value": "Catatan pemeriksaan belum final; bukan kesimpulan penilaian lengkap."
+                },
+                {
+                  "label": "Sembilan butir lain: jumlah jawaban Ya",
+                  "value": "9 / 9"
+                },
+                {
+                  "label": "Jawaban anak: jika kuda besar, maka tikus…",
+                  "value": "kecil"
+                },
+                {
+                  "label": "Jawaban anak: jika api panas, maka es…",
+                  "value": "dingin"
+                },
+                {
+                  "label": "Jawaban anak: jika ibu seorang wanita, maka ayah seorang…",
+                  "value": "laki-laki"
+                },
+                {
+                  "label": "Jawaban anak: jika pagi ada matahari, malam ada…",
+                  "value": "bulan RAW_KEEMPAT"
+                },
+                {
+                  "label": "Jawaban anak: jika kuda besar, maka tikus…",
+                  "value": "kecil"
+                },
+                {
+                  "label": "Jawaban anak: jika api panas, maka es…",
+                  "value": "dingin"
+                },
+                {
+                  "label": "Jawaban anak: jika ibu seorang wanita, maka ayah seorang…",
+                  "value": "laki-laki"
+                },
+                {
+                  "label": "Jawaban anak: jika pagi ada matahari, malam ada…",
+                  "value": "bulan RAW_KEEMPAT"
+                },
+                {
+                  "label": "Nama dokter yang menetapkan hasil secara manual",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "Tanggal penetapan pemeriksa",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "Skor total yang dicatat pemeriksa secara manual (0–10)",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "Kesimpulan penilaian pemeriksa",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "Dasar penetapan pemeriksa dan petunjuk kriteria yang digunakan",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "Rencana tindak lanjut yang ditetapkan pemeriksa",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "1. Menggambar kotak tanpa dicontohkan Berikan kepada anak pensil dan kertas. Tunjukkan kepada anak contoh gambar di bawah. Tanpa menyebutkan nama dan tanpa mencontohkan atau menggerakkan jari telunjuk atau pensil untuk menunjukkan bagaimana cara menggambarnya, katakan kepada anak “Gambarlah yang seperti gambar ini”. Lihat contoh di bawah untuk menilai gambar anak. Dapatkah anak menggambar kotak seperti contoh di bawah?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "2. Menggambar orang dengan sedikitnya 6 bagian tubuh Berikan anak pensil dan kertas lalu katakan kepada anak “Buatlah gambar orang” (anak laki-laki, anak perempuan, papa, mama, dll). Jangan memberi perintah lebih dari itu. Jangan bertanya atau mengingatkan anak bila ada bagian yang belum tergambar. Dalam memberi nilai, hitunglah berapa bagian tubuh yang tergambar. Untuk bagian tubuh yang berpasangan seperti mata, telinga, lengan dan kaki, setiap pasang dinilai 1 bagian. Pastikan anak telah menyelesaikan gambar sebelum memberikan penilaian. Dapatkah anak menggambar orang dengan sedikitnya 6 bagian tubuh? Jawaban ‘Ya’: Jawaban ‘Tidak’:",
+                  "value": "Ya"
+                },
+                {
+                  "label": "3. Mengetahui konsep analogi berlawanan Minta anak untuk melengkapi kalimat di bawah ini, jangan membantu kecuali mengulang pertanyaan: “Jika kuda besar, maka tikus...?” Jawaban: kecil “Jika api panas, maka es...?” Jawaban: dingin “Jika ibu seorang wanita, maka ayah seorang...” Jawaban: pria, laki-laki “Jika pagi ada matahari, malam ada...” Jawaban: bulan Apakah anak menjawab ketiga pertanyaan dengan benar?",
+                  "value": "Belum dapat ditetapkan"
+                },
+                {
+                  "label": "4. Memahami/mengartikan 7 kata Pastikan anak mendengar pemeriksa lalu katakan “Saya akan mengucapkan 1 kata dan saya ingin kamu menyebutkan apa arti kata itu”. Setiap kata dapat diberikan sebanyak 3 kali bila perlu. Pemeriksa dapat mengatakan “Beritahu saya sesuatu tentang itu” tetapi jangan tanya apa kegunaannya. Tanyalah setiap kata dalam satu waktu. “Apakah bola itu?” “Apakah sungai itu?” “Apakah meja itu?” “Apakah mobil/motor itu?” “Apakah rumah itu?” “Apakah pisang itu?” “Apakah pintu itu?” “Apakah atap itu?” Anak dikatakan dapat mengartikan jika anak mengartikan yang sesuai dalam istilah: 1) kegunaan, 2) bentuk, 3) terbuat dari apa, 4) kategori umum. Dapatkah anak mengartikan 7 kata yang sesuai?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "5. Mengetahui komposisi benda Isi titik−titik di bawah ini dengan jawaban anak. Jangan membantu kecuali mengulangi pertanyaan sampai 3 kali bila anak menanyakannya. \"Sendok dibuat dari apa?\" Jawaban: besi, baja, plastik, kayu \"Sepatu dibuat dari apa?\" Jawaban: kulit, karet, kain, plastik, kayu \"Pintu dibuat dari apa?\" Jawaban: kayu, besi, kaca Apakah anak dapat menjawab ketiga pertanyaan diatas dengan benar?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "6. Tanyakan kepada orang tua atau pengasuh, apakah anak dapat menggosok giginya tanpa bantuan?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "7. Tanyakan kepada orang tua atau pengasuh, apakah anak dapat menyiapkan dan mengambil makanan tanpa bantuan, termasuk menggunakan mangkok, sendok, menuangkan makanan dan susu ke mangkok tanpa banyak tumpah? Jawab ‘Ya’ jika anak dapat melakukannya, termasuk menuangkan susu dari beberapa jenis kotak atau wadah makanan.",
+                  "value": "Ya"
+                },
+                {
+                  "label": "8. Apakah anak dapat menangkap bola kecil sebesar bola tenis atau bola kasti hanya dengan menggunakan kedua tangannya?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "9. Tunjukkan kepada anak bagaimana cara berjalan di garis lurus dengan menempatkan tumit dari 1 kaki di depan jari kaki lain. Berjalanlah 8 langkah, lalu minta anak untuk melakukannya. Berikan contoh dan kesempatan sebanyak 3 kali bila perlu. Dapatkah anak melakukannya sebanyak 4 langkah atau lebih dengan meletakkan tumit tidak lebih dari 2,5 cm dari jari kaki lain tanpa berpegangan?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "10. Minta anak untuk berdiri 1 kaki tanpa berpegangan. Jika perlu tunjukkan caranya dan beri anak kesempatan sebanyak 3 kali. Dapatkah ia mempertahankan keseimbangan dalam waktu 11 detik atau lebih?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "Temuan pemeriksaan dan catatan tindak lanjut",
+                  "value": "Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber.  AKHIR_CATATAN_PANJANG"
+                }
+              ],
+              "summary": "Butir 3 KPSP 72 bulan belum memiliki penetapan pemeriksa yang lengkap. Skor total dan klasifikasi otomatis belum dapat ditetapkan.",
+              "classification": "Penilaian belum lengkap",
+              "advice": [
+                "Lengkapi keempat jawaban anak, nama dan tanggal penetapan dokter, skor manual, kesimpulan, dasar penetapan, serta rencana tindak lanjut."
+              ],
+              "source": "Buku Pedoman SDIDTK revisi 23-08-2022, hlm. 144, 145, 146 (PDF 157, 158, 159).",
+              "images": [
+                {
+                  "caption": "Buku Pedoman SDIDTK, hlm. 144 (PDF 157)",
+                  "srcPrefix": "data:image/png;base64,iVBORw0KGgoAAAANSU",
+                  "srcLength": 216866
+                },
+                {
+                  "caption": "Buku Pedoman SDIDTK, hlm. 145 (PDF 158)",
+                  "srcPrefix": "data:image/png;base64,iVBORw0KGgoAAAANSU",
+                  "srcLength": 188942
+                },
+                {
+                  "caption": "Buku Pedoman SDIDTK, hlm. 146 (PDF 159)",
+                  "srcPrefix": "data:image/png;base64,iVBORw0KGgoAAAANSU",
+                  "srcLength": 41930
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "pdf",
+          "title": "Catatan Pemeriksaan Belum Final — Kuesioner Pra Skrining Perkembangan (KPSP)",
+          "patient": {
+            "examDate": "2026-11-19",
+            "gestationDays": "0",
+            "immunizations": [
+              {
+                "vaccine": "BCG",
+                "date": "2020-12-19",
+                "status": "given"
+              },
+              {
+                "vaccine": "Imunisasi tambahan uji < & >",
+                "date": "2021-01-19",
+                "status": "given"
+              }
+            ],
+            "name": "Pasien Fiktif Uji Dokumen",
+            "birthDate": "2020-11-19",
+            "sex": "female",
+            "weight": "20.5",
+            "height": "115",
+            "headCircumference": "51",
+            "muac": "15",
+            "measurementPosition": "standing",
+            "address": "Alamat uji < & > tanpa data pasien nyata.",
+            "fatherName": "Ayah Uji",
+            "motherName": "Ibu Uji",
+            "fatherAge": "35",
+            "motherAge": "33",
+            "gestationWeeks": "39",
+            "birthWeight": "3000",
+            "birthLength": "49",
+            "delivery": "normal",
+            "cried": "yes",
+            "examiner": "Dokter Uji Dokumen",
+            "location": "Lokasi Pengujian"
+          },
+          "demographics": [
+            {
+              "label": "Nama anak",
+              "value": "Pasien Fiktif Uji Dokumen"
+            },
+            {
+              "label": "Tanggal lahir",
+              "value": "2020-11-19"
+            },
+            {
+              "label": "Tanggal pemeriksaan",
+              "value": "2026-11-19"
+            },
+            {
+              "label": "Usia saat pemeriksaan",
+              "value": "6 tahun 0 bulan 0 hari"
+            },
+            {
+              "label": "Jenis kelamin",
+              "value": "Perempuan"
+            },
+            {
+              "label": "Berat badan (kg)",
+              "value": "20.5"
+            },
+            {
+              "label": "Panjang/tinggi badan (cm)",
+              "value": "115"
+            },
+            {
+              "label": "Lingkar kepala (cm)",
+              "value": "51"
+            },
+            {
+              "label": "Lingkar lengan atas (cm)",
+              "value": "15"
+            },
+            {
+              "label": "Posisi pengukuran",
+              "value": "Berdiri"
+            },
+            {
+              "label": "Alamat",
+              "value": "Alamat uji < & > tanpa data pasien nyata."
+            },
+            {
+              "label": "Nama ayah",
+              "value": "Ayah Uji"
+            },
+            {
+              "label": "Nama ibu",
+              "value": "Ibu Uji"
+            },
+            {
+              "label": "Usia ayah (tahun)",
+              "value": "35"
+            },
+            {
+              "label": "Usia ibu (tahun)",
+              "value": "33"
+            },
+            {
+              "label": "Usia gestasi saat lahir (minggu)",
+              "value": "39"
+            },
+            {
+              "label": "Tambahan hari gestasi",
+              "value": "0"
+            },
+            {
+              "label": "Berat badan lahir (gram)",
+              "value": "3000"
+            },
+            {
+              "label": "Panjang badan lahir (cm)",
+              "value": "49"
+            },
+            {
+              "label": "Cara lahir",
+              "value": "Normal/spontan"
+            },
+            {
+              "label": "Langsung menangis saat lahir",
+              "value": "Ya"
+            },
+            {
+              "label": "Nama pemeriksa",
+              "value": "Dokter Uji Dokumen"
+            },
+            {
+              "label": "Lokasi pemeriksaan",
+              "value": "Lokasi Pengujian"
+            },
+            {
+              "label": "Status imunisasi sesuai catatan",
+              "value": "Belum diisi"
+            },
+            {
+              "label": "Catatan imunisasi",
+              "value": "Belum diisi"
+            },
+            {
+              "label": "Imunisasi 1",
+              "value": "BCG | Sudah diberikan | 2020-12-19"
+            },
+            {
+              "label": "Imunisasi 2",
+              "value": "Imunisasi tambahan uji < & > | Sudah diberikan | 2021-01-19"
+            }
+          ],
+          "sections": [
+            {
+              "title": "Kuesioner Pra Skrining Perkembangan (KPSP)",
+              "rows": [
+                {
+                  "label": "Usia acuan instrumen",
+                  "value": "6 tahun 0 bulan 0 hari"
+                },
+                {
+                  "label": "Formulir yang digunakan",
+                  "value": "KPSP umur 72 bulan"
+                },
+                {
+                  "label": "Status dokumen",
+                  "value": "Catatan pemeriksaan belum final; bukan kesimpulan penilaian lengkap."
+                },
+                {
+                  "label": "Sembilan butir lain: jumlah jawaban Ya",
+                  "value": "9 / 9"
+                },
+                {
+                  "label": "Jawaban anak: jika kuda besar, maka tikus…",
+                  "value": "kecil"
+                },
+                {
+                  "label": "Jawaban anak: jika api panas, maka es…",
+                  "value": "dingin"
+                },
+                {
+                  "label": "Jawaban anak: jika ibu seorang wanita, maka ayah seorang…",
+                  "value": "laki-laki"
+                },
+                {
+                  "label": "Jawaban anak: jika pagi ada matahari, malam ada…",
+                  "value": "bulan RAW_KEEMPAT"
+                },
+                {
+                  "label": "Jawaban anak: jika kuda besar, maka tikus…",
+                  "value": "kecil"
+                },
+                {
+                  "label": "Jawaban anak: jika api panas, maka es…",
+                  "value": "dingin"
+                },
+                {
+                  "label": "Jawaban anak: jika ibu seorang wanita, maka ayah seorang…",
+                  "value": "laki-laki"
+                },
+                {
+                  "label": "Jawaban anak: jika pagi ada matahari, malam ada…",
+                  "value": "bulan RAW_KEEMPAT"
+                },
+                {
+                  "label": "Nama dokter yang menetapkan hasil secara manual",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "Tanggal penetapan pemeriksa",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "Skor total yang dicatat pemeriksa secara manual (0–10)",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "Kesimpulan penilaian pemeriksa",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "Dasar penetapan pemeriksa dan petunjuk kriteria yang digunakan",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "Rencana tindak lanjut yang ditetapkan pemeriksa",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "1. Menggambar kotak tanpa dicontohkan Berikan kepada anak pensil dan kertas. Tunjukkan kepada anak contoh gambar di bawah. Tanpa menyebutkan nama dan tanpa mencontohkan atau menggerakkan jari telunjuk atau pensil untuk menunjukkan bagaimana cara menggambarnya, katakan kepada anak “Gambarlah yang seperti gambar ini”. Lihat contoh di bawah untuk menilai gambar anak. Dapatkah anak menggambar kotak seperti contoh di bawah?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "2. Menggambar orang dengan sedikitnya 6 bagian tubuh Berikan anak pensil dan kertas lalu katakan kepada anak “Buatlah gambar orang” (anak laki-laki, anak perempuan, papa, mama, dll). Jangan memberi perintah lebih dari itu. Jangan bertanya atau mengingatkan anak bila ada bagian yang belum tergambar. Dalam memberi nilai, hitunglah berapa bagian tubuh yang tergambar. Untuk bagian tubuh yang berpasangan seperti mata, telinga, lengan dan kaki, setiap pasang dinilai 1 bagian. Pastikan anak telah menyelesaikan gambar sebelum memberikan penilaian. Dapatkah anak menggambar orang dengan sedikitnya 6 bagian tubuh? Jawaban ‘Ya’: Jawaban ‘Tidak’:",
+                  "value": "Ya"
+                },
+                {
+                  "label": "3. Mengetahui konsep analogi berlawanan Minta anak untuk melengkapi kalimat di bawah ini, jangan membantu kecuali mengulang pertanyaan: “Jika kuda besar, maka tikus...?” Jawaban: kecil “Jika api panas, maka es...?” Jawaban: dingin “Jika ibu seorang wanita, maka ayah seorang...” Jawaban: pria, laki-laki “Jika pagi ada matahari, malam ada...” Jawaban: bulan Apakah anak menjawab ketiga pertanyaan dengan benar?",
+                  "value": "Belum dapat ditetapkan"
+                },
+                {
+                  "label": "4. Memahami/mengartikan 7 kata Pastikan anak mendengar pemeriksa lalu katakan “Saya akan mengucapkan 1 kata dan saya ingin kamu menyebutkan apa arti kata itu”. Setiap kata dapat diberikan sebanyak 3 kali bila perlu. Pemeriksa dapat mengatakan “Beritahu saya sesuatu tentang itu” tetapi jangan tanya apa kegunaannya. Tanyalah setiap kata dalam satu waktu. “Apakah bola itu?” “Apakah sungai itu?” “Apakah meja itu?” “Apakah mobil/motor itu?” “Apakah rumah itu?” “Apakah pisang itu?” “Apakah pintu itu?” “Apakah atap itu?” Anak dikatakan dapat mengartikan jika anak mengartikan yang sesuai dalam istilah: 1) kegunaan, 2) bentuk, 3) terbuat dari apa, 4) kategori umum. Dapatkah anak mengartikan 7 kata yang sesuai?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "5. Mengetahui komposisi benda Isi titik−titik di bawah ini dengan jawaban anak. Jangan membantu kecuali mengulangi pertanyaan sampai 3 kali bila anak menanyakannya. \"Sendok dibuat dari apa?\" Jawaban: besi, baja, plastik, kayu \"Sepatu dibuat dari apa?\" Jawaban: kulit, karet, kain, plastik, kayu \"Pintu dibuat dari apa?\" Jawaban: kayu, besi, kaca Apakah anak dapat menjawab ketiga pertanyaan diatas dengan benar?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "6. Tanyakan kepada orang tua atau pengasuh, apakah anak dapat menggosok giginya tanpa bantuan?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "7. Tanyakan kepada orang tua atau pengasuh, apakah anak dapat menyiapkan dan mengambil makanan tanpa bantuan, termasuk menggunakan mangkok, sendok, menuangkan makanan dan susu ke mangkok tanpa banyak tumpah? Jawab ‘Ya’ jika anak dapat melakukannya, termasuk menuangkan susu dari beberapa jenis kotak atau wadah makanan.",
+                  "value": "Ya"
+                },
+                {
+                  "label": "8. Apakah anak dapat menangkap bola kecil sebesar bola tenis atau bola kasti hanya dengan menggunakan kedua tangannya?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "9. Tunjukkan kepada anak bagaimana cara berjalan di garis lurus dengan menempatkan tumit dari 1 kaki di depan jari kaki lain. Berjalanlah 8 langkah, lalu minta anak untuk melakukannya. Berikan contoh dan kesempatan sebanyak 3 kali bila perlu. Dapatkah anak melakukannya sebanyak 4 langkah atau lebih dengan meletakkan tumit tidak lebih dari 2,5 cm dari jari kaki lain tanpa berpegangan?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "10. Minta anak untuk berdiri 1 kaki tanpa berpegangan. Jika perlu tunjukkan caranya dan beri anak kesempatan sebanyak 3 kali. Dapatkah ia mempertahankan keseimbangan dalam waktu 11 detik atau lebih?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "Temuan pemeriksaan dan catatan tindak lanjut",
+                  "value": "Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber.  AKHIR_CATATAN_PANJANG"
+                }
+              ],
+              "summary": "Butir 3 KPSP 72 bulan belum memiliki penetapan pemeriksa yang lengkap. Skor total dan klasifikasi otomatis belum dapat ditetapkan.",
+              "classification": "Penilaian belum lengkap",
+              "advice": [
+                "Lengkapi keempat jawaban anak, nama dan tanggal penetapan dokter, skor manual, kesimpulan, dasar penetapan, serta rencana tindak lanjut."
+              ],
+              "source": "Buku Pedoman SDIDTK revisi 23-08-2022, hlm. 144, 145, 146 (PDF 157, 158, 159).",
+              "images": [
+                {
+                  "caption": "Buku Pedoman SDIDTK, hlm. 144 (PDF 157)",
+                  "srcPrefix": "data:image/png;base64,iVBORw0KGgoAAAANSU",
+                  "srcLength": 216866
+                },
+                {
+                  "caption": "Buku Pedoman SDIDTK, hlm. 145 (PDF 158)",
+                  "srcPrefix": "data:image/png;base64,iVBORw0KGgoAAAANSU",
+                  "srcLength": 188942
+                },
+                {
+                  "caption": "Buku Pedoman SDIDTK, hlm. 146 (PDF 159)",
+                  "srcPrefix": "data:image/png;base64,iVBORw0KGgoAAAANSU",
+                  "srcLength": 41930
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KPSP72_penetapan_manual",
+      "files": [
+        {
+          "type": "docx",
+          "path": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_review/exports/KPSP72_penetapan_manual.docx",
+          "size": 422982
+        },
+        {
+          "type": "pdf",
+          "path": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_review/exports/KPSP72_penetapan_manual.pdf",
+          "size": 412012
+        }
+      ],
+      "assembled": [
+        {
+          "type": "docx",
+          "title": "Kuesioner Pra Skrining Perkembangan (KPSP)",
+          "patient": {
+            "examDate": "2026-11-19",
+            "gestationDays": "0",
+            "immunizations": [
+              {
+                "vaccine": "BCG",
+                "date": "2020-12-19",
+                "status": "given"
+              },
+              {
+                "vaccine": "Imunisasi tambahan uji < & >",
+                "date": "2021-01-19",
+                "status": "given"
+              }
+            ],
+            "name": "Pasien Fiktif Uji Dokumen",
+            "birthDate": "2020-11-19",
+            "sex": "female",
+            "weight": "20.5",
+            "height": "115",
+            "headCircumference": "51",
+            "muac": "15",
+            "measurementPosition": "standing",
+            "address": "Alamat uji < & > tanpa data pasien nyata.",
+            "fatherName": "Ayah Uji",
+            "motherName": "Ibu Uji",
+            "fatherAge": "35",
+            "motherAge": "33",
+            "gestationWeeks": "39",
+            "birthWeight": "3000",
+            "birthLength": "49",
+            "delivery": "normal",
+            "cried": "yes",
+            "examiner": "Dokter Uji Dokumen",
+            "location": "Lokasi Pengujian"
+          },
+          "demographics": [
+            {
+              "label": "Nama anak",
+              "value": "Pasien Fiktif Uji Dokumen"
+            },
+            {
+              "label": "Tanggal lahir",
+              "value": "2020-11-19"
+            },
+            {
+              "label": "Tanggal pemeriksaan",
+              "value": "2026-11-19"
+            },
+            {
+              "label": "Usia saat pemeriksaan",
+              "value": "6 tahun 0 bulan 0 hari"
+            },
+            {
+              "label": "Jenis kelamin",
+              "value": "Perempuan"
+            },
+            {
+              "label": "Berat badan (kg)",
+              "value": "20.5"
+            },
+            {
+              "label": "Panjang/tinggi badan (cm)",
+              "value": "115"
+            },
+            {
+              "label": "Lingkar kepala (cm)",
+              "value": "51"
+            },
+            {
+              "label": "Lingkar lengan atas (cm)",
+              "value": "15"
+            },
+            {
+              "label": "Posisi pengukuran",
+              "value": "Berdiri"
+            },
+            {
+              "label": "Alamat",
+              "value": "Alamat uji < & > tanpa data pasien nyata."
+            },
+            {
+              "label": "Nama ayah",
+              "value": "Ayah Uji"
+            },
+            {
+              "label": "Nama ibu",
+              "value": "Ibu Uji"
+            },
+            {
+              "label": "Usia ayah (tahun)",
+              "value": "35"
+            },
+            {
+              "label": "Usia ibu (tahun)",
+              "value": "33"
+            },
+            {
+              "label": "Usia gestasi saat lahir (minggu)",
+              "value": "39"
+            },
+            {
+              "label": "Tambahan hari gestasi",
+              "value": "0"
+            },
+            {
+              "label": "Berat badan lahir (gram)",
+              "value": "3000"
+            },
+            {
+              "label": "Panjang badan lahir (cm)",
+              "value": "49"
+            },
+            {
+              "label": "Cara lahir",
+              "value": "Normal/spontan"
+            },
+            {
+              "label": "Langsung menangis saat lahir",
+              "value": "Ya"
+            },
+            {
+              "label": "Nama pemeriksa",
+              "value": "Dokter Uji Dokumen"
+            },
+            {
+              "label": "Lokasi pemeriksaan",
+              "value": "Lokasi Pengujian"
+            },
+            {
+              "label": "Status imunisasi sesuai catatan",
+              "value": "Belum diisi"
+            },
+            {
+              "label": "Catatan imunisasi",
+              "value": "Belum diisi"
+            },
+            {
+              "label": "Imunisasi 1",
+              "value": "BCG | Sudah diberikan | 2020-12-19"
+            },
+            {
+              "label": "Imunisasi 2",
+              "value": "Imunisasi tambahan uji < & > | Sudah diberikan | 2021-01-19"
+            }
+          ],
+          "sections": [
+            {
+              "title": "Kuesioner Pra Skrining Perkembangan (KPSP)",
+              "rows": [
+                {
+                  "label": "Usia acuan instrumen",
+                  "value": "6 tahun 0 bulan 0 hari"
+                },
+                {
+                  "label": "Formulir yang digunakan",
+                  "value": "KPSP umur 72 bulan"
+                },
+                {
+                  "label": "Status penilaian",
+                  "value": "Penetapan pemeriksa secara manual; bukan skor otomatis yang telah divalidasi terhadap kriteria butir 3."
+                },
+                {
+                  "label": "Sembilan butir lain: jumlah jawaban Ya",
+                  "value": "9 / 9"
+                },
+                {
+                  "label": "Jawaban anak: jika kuda besar, maka tikus…",
+                  "value": "kecil"
+                },
+                {
+                  "label": "Jawaban anak: jika api panas, maka es…",
+                  "value": "dingin"
+                },
+                {
+                  "label": "Jawaban anak: jika ibu seorang wanita, maka ayah seorang…",
+                  "value": "laki-laki"
+                },
+                {
+                  "label": "Jawaban anak: jika pagi ada matahari, malam ada…",
+                  "value": "bulan RAW_KEEMPAT"
+                },
+                {
+                  "label": "Nama dokter yang menetapkan hasil secara manual",
+                  "value": "Dokter Penetapan Manual Uji"
+                },
+                {
+                  "label": "Tanggal penetapan pemeriksa",
+                  "value": "2026-11-19"
+                },
+                {
+                  "label": "Skor total yang dicatat pemeriksa secara manual (0–10)",
+                  "value": "10"
+                },
+                {
+                  "label": "Kesimpulan penilaian pemeriksa",
+                  "value": "KESIMPULAN_MANUAL_UJI dicatat oleh dokter pemeriksa."
+                },
+                {
+                  "label": "Dasar penetapan pemeriksa dan petunjuk kriteria yang digunakan",
+                  "value": "Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber.  AKHIR_CATATAN_PANJANG DASAR_MANUAL_UTUH"
+                },
+                {
+                  "label": "Rencana tindak lanjut yang ditetapkan pemeriksa",
+                  "value": "RENCANA_MANUAL_UJI sesuai penetapan dokter."
+                },
+                {
+                  "label": "Jawaban anak: jika kuda besar, maka tikus…",
+                  "value": "kecil"
+                },
+                {
+                  "label": "Jawaban anak: jika api panas, maka es…",
+                  "value": "dingin"
+                },
+                {
+                  "label": "Jawaban anak: jika ibu seorang wanita, maka ayah seorang…",
+                  "value": "laki-laki"
+                },
+                {
+                  "label": "Jawaban anak: jika pagi ada matahari, malam ada…",
+                  "value": "bulan RAW_KEEMPAT"
+                },
+                {
+                  "label": "Nama dokter yang menetapkan hasil secara manual",
+                  "value": "Dokter Penetapan Manual Uji"
+                },
+                {
+                  "label": "Tanggal penetapan pemeriksa",
+                  "value": "2026-11-19"
+                },
+                {
+                  "label": "Skor total yang dicatat pemeriksa secara manual (0–10)",
+                  "value": "10"
+                },
+                {
+                  "label": "Kesimpulan penilaian pemeriksa",
+                  "value": "KESIMPULAN_MANUAL_UJI dicatat oleh dokter pemeriksa."
+                },
+                {
+                  "label": "Dasar penetapan pemeriksa dan petunjuk kriteria yang digunakan",
+                  "value": "Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber.  AKHIR_CATATAN_PANJANG DASAR_MANUAL_UTUH"
+                },
+                {
+                  "label": "Rencana tindak lanjut yang ditetapkan pemeriksa",
+                  "value": "RENCANA_MANUAL_UJI sesuai penetapan dokter."
+                },
+                {
+                  "label": "1. Menggambar kotak tanpa dicontohkan Berikan kepada anak pensil dan kertas. Tunjukkan kepada anak contoh gambar di bawah. Tanpa menyebutkan nama dan tanpa mencontohkan atau menggerakkan jari telunjuk atau pensil untuk menunjukkan bagaimana cara menggambarnya, katakan kepada anak “Gambarlah yang seperti gambar ini”. Lihat contoh di bawah untuk menilai gambar anak. Dapatkah anak menggambar kotak seperti contoh di bawah?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "2. Menggambar orang dengan sedikitnya 6 bagian tubuh Berikan anak pensil dan kertas lalu katakan kepada anak “Buatlah gambar orang” (anak laki-laki, anak perempuan, papa, mama, dll). Jangan memberi perintah lebih dari itu. Jangan bertanya atau mengingatkan anak bila ada bagian yang belum tergambar. Dalam memberi nilai, hitunglah berapa bagian tubuh yang tergambar. Untuk bagian tubuh yang berpasangan seperti mata, telinga, lengan dan kaki, setiap pasang dinilai 1 bagian. Pastikan anak telah menyelesaikan gambar sebelum memberikan penilaian. Dapatkah anak menggambar orang dengan sedikitnya 6 bagian tubuh? Jawaban ‘Ya’: Jawaban ‘Tidak’:",
+                  "value": "Ya"
+                },
+                {
+                  "label": "3. Mengetahui konsep analogi berlawanan Minta anak untuk melengkapi kalimat di bawah ini, jangan membantu kecuali mengulang pertanyaan: “Jika kuda besar, maka tikus...?” Jawaban: kecil “Jika api panas, maka es...?” Jawaban: dingin “Jika ibu seorang wanita, maka ayah seorang...” Jawaban: pria, laki-laki “Jika pagi ada matahari, malam ada...” Jawaban: bulan Apakah anak menjawab ketiga pertanyaan dengan benar?",
+                  "value": "Belum dapat ditetapkan"
+                },
+                {
+                  "label": "4. Memahami/mengartikan 7 kata Pastikan anak mendengar pemeriksa lalu katakan “Saya akan mengucapkan 1 kata dan saya ingin kamu menyebutkan apa arti kata itu”. Setiap kata dapat diberikan sebanyak 3 kali bila perlu. Pemeriksa dapat mengatakan “Beritahu saya sesuatu tentang itu” tetapi jangan tanya apa kegunaannya. Tanyalah setiap kata dalam satu waktu. “Apakah bola itu?” “Apakah sungai itu?” “Apakah meja itu?” “Apakah mobil/motor itu?” “Apakah rumah itu?” “Apakah pisang itu?” “Apakah pintu itu?” “Apakah atap itu?” Anak dikatakan dapat mengartikan jika anak mengartikan yang sesuai dalam istilah: 1) kegunaan, 2) bentuk, 3) terbuat dari apa, 4) kategori umum. Dapatkah anak mengartikan 7 kata yang sesuai?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "5. Mengetahui komposisi benda Isi titik−titik di bawah ini dengan jawaban anak. Jangan membantu kecuali mengulangi pertanyaan sampai 3 kali bila anak menanyakannya. \"Sendok dibuat dari apa?\" Jawaban: besi, baja, plastik, kayu \"Sepatu dibuat dari apa?\" Jawaban: kulit, karet, kain, plastik, kayu \"Pintu dibuat dari apa?\" Jawaban: kayu, besi, kaca Apakah anak dapat menjawab ketiga pertanyaan diatas dengan benar?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "6. Tanyakan kepada orang tua atau pengasuh, apakah anak dapat menggosok giginya tanpa bantuan?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "7. Tanyakan kepada orang tua atau pengasuh, apakah anak dapat menyiapkan dan mengambil makanan tanpa bantuan, termasuk menggunakan mangkok, sendok, menuangkan makanan dan susu ke mangkok tanpa banyak tumpah? Jawab ‘Ya’ jika anak dapat melakukannya, termasuk menuangkan susu dari beberapa jenis kotak atau wadah makanan.",
+                  "value": "Ya"
+                },
+                {
+                  "label": "8. Apakah anak dapat menangkap bola kecil sebesar bola tenis atau bola kasti hanya dengan menggunakan kedua tangannya?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "9. Tunjukkan kepada anak bagaimana cara berjalan di garis lurus dengan menempatkan tumit dari 1 kaki di depan jari kaki lain. Berjalanlah 8 langkah, lalu minta anak untuk melakukannya. Berikan contoh dan kesempatan sebanyak 3 kali bila perlu. Dapatkah anak melakukannya sebanyak 4 langkah atau lebih dengan meletakkan tumit tidak lebih dari 2,5 cm dari jari kaki lain tanpa berpegangan?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "10. Minta anak untuk berdiri 1 kaki tanpa berpegangan. Jika perlu tunjukkan caranya dan beri anak kesempatan sebanyak 3 kali. Dapatkah ia mempertahankan keseimbangan dalam waktu 11 detik atau lebih?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "Temuan pemeriksaan dan catatan tindak lanjut",
+                  "value": "Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber.  AKHIR_CATATAN_PANJANG"
+                }
+              ],
+              "summary": "Hasil dicatat sebagai penetapan pemeriksa secara manual. Skor yang dicatat pemeriksa: 10 / 10. Kesimpulan pemeriksa: KESIMPULAN_MANUAL_UJI dicatat oleh dokter pemeriksa.",
+              "classification": "Penetapan pemeriksa (manual)",
+              "advice": [
+                "RENCANA_MANUAL_UJI sesuai penetapan dokter."
+              ],
+              "source": "Buku Pedoman SDIDTK revisi 23-08-2022, hlm. 144, 145, 146 (PDF 157, 158, 159).",
+              "images": [
+                {
+                  "caption": "Buku Pedoman SDIDTK, hlm. 144 (PDF 157)",
+                  "srcPrefix": "data:image/png;base64,iVBORw0KGgoAAAANSU",
+                  "srcLength": 216866
+                },
+                {
+                  "caption": "Buku Pedoman SDIDTK, hlm. 145 (PDF 158)",
+                  "srcPrefix": "data:image/png;base64,iVBORw0KGgoAAAANSU",
+                  "srcLength": 188942
+                },
+                {
+                  "caption": "Buku Pedoman SDIDTK, hlm. 146 (PDF 159)",
+                  "srcPrefix": "data:image/png;base64,iVBORw0KGgoAAAANSU",
+                  "srcLength": 41930
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "pdf",
+          "title": "Kuesioner Pra Skrining Perkembangan (KPSP)",
+          "patient": {
+            "examDate": "2026-11-19",
+            "gestationDays": "0",
+            "immunizations": [
+              {
+                "vaccine": "BCG",
+                "date": "2020-12-19",
+                "status": "given"
+              },
+              {
+                "vaccine": "Imunisasi tambahan uji < & >",
+                "date": "2021-01-19",
+                "status": "given"
+              }
+            ],
+            "name": "Pasien Fiktif Uji Dokumen",
+            "birthDate": "2020-11-19",
+            "sex": "female",
+            "weight": "20.5",
+            "height": "115",
+            "headCircumference": "51",
+            "muac": "15",
+            "measurementPosition": "standing",
+            "address": "Alamat uji < & > tanpa data pasien nyata.",
+            "fatherName": "Ayah Uji",
+            "motherName": "Ibu Uji",
+            "fatherAge": "35",
+            "motherAge": "33",
+            "gestationWeeks": "39",
+            "birthWeight": "3000",
+            "birthLength": "49",
+            "delivery": "normal",
+            "cried": "yes",
+            "examiner": "Dokter Uji Dokumen",
+            "location": "Lokasi Pengujian"
+          },
+          "demographics": [
+            {
+              "label": "Nama anak",
+              "value": "Pasien Fiktif Uji Dokumen"
+            },
+            {
+              "label": "Tanggal lahir",
+              "value": "2020-11-19"
+            },
+            {
+              "label": "Tanggal pemeriksaan",
+              "value": "2026-11-19"
+            },
+            {
+              "label": "Usia saat pemeriksaan",
+              "value": "6 tahun 0 bulan 0 hari"
+            },
+            {
+              "label": "Jenis kelamin",
+              "value": "Perempuan"
+            },
+            {
+              "label": "Berat badan (kg)",
+              "value": "20.5"
+            },
+            {
+              "label": "Panjang/tinggi badan (cm)",
+              "value": "115"
+            },
+            {
+              "label": "Lingkar kepala (cm)",
+              "value": "51"
+            },
+            {
+              "label": "Lingkar lengan atas (cm)",
+              "value": "15"
+            },
+            {
+              "label": "Posisi pengukuran",
+              "value": "Berdiri"
+            },
+            {
+              "label": "Alamat",
+              "value": "Alamat uji < & > tanpa data pasien nyata."
+            },
+            {
+              "label": "Nama ayah",
+              "value": "Ayah Uji"
+            },
+            {
+              "label": "Nama ibu",
+              "value": "Ibu Uji"
+            },
+            {
+              "label": "Usia ayah (tahun)",
+              "value": "35"
+            },
+            {
+              "label": "Usia ibu (tahun)",
+              "value": "33"
+            },
+            {
+              "label": "Usia gestasi saat lahir (minggu)",
+              "value": "39"
+            },
+            {
+              "label": "Tambahan hari gestasi",
+              "value": "0"
+            },
+            {
+              "label": "Berat badan lahir (gram)",
+              "value": "3000"
+            },
+            {
+              "label": "Panjang badan lahir (cm)",
+              "value": "49"
+            },
+            {
+              "label": "Cara lahir",
+              "value": "Normal/spontan"
+            },
+            {
+              "label": "Langsung menangis saat lahir",
+              "value": "Ya"
+            },
+            {
+              "label": "Nama pemeriksa",
+              "value": "Dokter Uji Dokumen"
+            },
+            {
+              "label": "Lokasi pemeriksaan",
+              "value": "Lokasi Pengujian"
+            },
+            {
+              "label": "Status imunisasi sesuai catatan",
+              "value": "Belum diisi"
+            },
+            {
+              "label": "Catatan imunisasi",
+              "value": "Belum diisi"
+            },
+            {
+              "label": "Imunisasi 1",
+              "value": "BCG | Sudah diberikan | 2020-12-19"
+            },
+            {
+              "label": "Imunisasi 2",
+              "value": "Imunisasi tambahan uji < & > | Sudah diberikan | 2021-01-19"
+            }
+          ],
+          "sections": [
+            {
+              "title": "Kuesioner Pra Skrining Perkembangan (KPSP)",
+              "rows": [
+                {
+                  "label": "Usia acuan instrumen",
+                  "value": "6 tahun 0 bulan 0 hari"
+                },
+                {
+                  "label": "Formulir yang digunakan",
+                  "value": "KPSP umur 72 bulan"
+                },
+                {
+                  "label": "Status penilaian",
+                  "value": "Penetapan pemeriksa secara manual; bukan skor otomatis yang telah divalidasi terhadap kriteria butir 3."
+                },
+                {
+                  "label": "Sembilan butir lain: jumlah jawaban Ya",
+                  "value": "9 / 9"
+                },
+                {
+                  "label": "Jawaban anak: jika kuda besar, maka tikus…",
+                  "value": "kecil"
+                },
+                {
+                  "label": "Jawaban anak: jika api panas, maka es…",
+                  "value": "dingin"
+                },
+                {
+                  "label": "Jawaban anak: jika ibu seorang wanita, maka ayah seorang…",
+                  "value": "laki-laki"
+                },
+                {
+                  "label": "Jawaban anak: jika pagi ada matahari, malam ada…",
+                  "value": "bulan RAW_KEEMPAT"
+                },
+                {
+                  "label": "Nama dokter yang menetapkan hasil secara manual",
+                  "value": "Dokter Penetapan Manual Uji"
+                },
+                {
+                  "label": "Tanggal penetapan pemeriksa",
+                  "value": "2026-11-19"
+                },
+                {
+                  "label": "Skor total yang dicatat pemeriksa secara manual (0–10)",
+                  "value": "10"
+                },
+                {
+                  "label": "Kesimpulan penilaian pemeriksa",
+                  "value": "KESIMPULAN_MANUAL_UJI dicatat oleh dokter pemeriksa."
+                },
+                {
+                  "label": "Dasar penetapan pemeriksa dan petunjuk kriteria yang digunakan",
+                  "value": "Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber.  AKHIR_CATATAN_PANJANG DASAR_MANUAL_UTUH"
+                },
+                {
+                  "label": "Rencana tindak lanjut yang ditetapkan pemeriksa",
+                  "value": "RENCANA_MANUAL_UJI sesuai penetapan dokter."
+                },
+                {
+                  "label": "Jawaban anak: jika kuda besar, maka tikus…",
+                  "value": "kecil"
+                },
+                {
+                  "label": "Jawaban anak: jika api panas, maka es…",
+                  "value": "dingin"
+                },
+                {
+                  "label": "Jawaban anak: jika ibu seorang wanita, maka ayah seorang…",
+                  "value": "laki-laki"
+                },
+                {
+                  "label": "Jawaban anak: jika pagi ada matahari, malam ada…",
+                  "value": "bulan RAW_KEEMPAT"
+                },
+                {
+                  "label": "Nama dokter yang menetapkan hasil secara manual",
+                  "value": "Dokter Penetapan Manual Uji"
+                },
+                {
+                  "label": "Tanggal penetapan pemeriksa",
+                  "value": "2026-11-19"
+                },
+                {
+                  "label": "Skor total yang dicatat pemeriksa secara manual (0–10)",
+                  "value": "10"
+                },
+                {
+                  "label": "Kesimpulan penilaian pemeriksa",
+                  "value": "KESIMPULAN_MANUAL_UJI dicatat oleh dokter pemeriksa."
+                },
+                {
+                  "label": "Dasar penetapan pemeriksa dan petunjuk kriteria yang digunakan",
+                  "value": "Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber.  AKHIR_CATATAN_PANJANG DASAR_MANUAL_UTUH"
+                },
+                {
+                  "label": "Rencana tindak lanjut yang ditetapkan pemeriksa",
+                  "value": "RENCANA_MANUAL_UJI sesuai penetapan dokter."
+                },
+                {
+                  "label": "1. Menggambar kotak tanpa dicontohkan Berikan kepada anak pensil dan kertas. Tunjukkan kepada anak contoh gambar di bawah. Tanpa menyebutkan nama dan tanpa mencontohkan atau menggerakkan jari telunjuk atau pensil untuk menunjukkan bagaimana cara menggambarnya, katakan kepada anak “Gambarlah yang seperti gambar ini”. Lihat contoh di bawah untuk menilai gambar anak. Dapatkah anak menggambar kotak seperti contoh di bawah?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "2. Menggambar orang dengan sedikitnya 6 bagian tubuh Berikan anak pensil dan kertas lalu katakan kepada anak “Buatlah gambar orang” (anak laki-laki, anak perempuan, papa, mama, dll). Jangan memberi perintah lebih dari itu. Jangan bertanya atau mengingatkan anak bila ada bagian yang belum tergambar. Dalam memberi nilai, hitunglah berapa bagian tubuh yang tergambar. Untuk bagian tubuh yang berpasangan seperti mata, telinga, lengan dan kaki, setiap pasang dinilai 1 bagian. Pastikan anak telah menyelesaikan gambar sebelum memberikan penilaian. Dapatkah anak menggambar orang dengan sedikitnya 6 bagian tubuh? Jawaban ‘Ya’: Jawaban ‘Tidak’:",
+                  "value": "Ya"
+                },
+                {
+                  "label": "3. Mengetahui konsep analogi berlawanan Minta anak untuk melengkapi kalimat di bawah ini, jangan membantu kecuali mengulang pertanyaan: “Jika kuda besar, maka tikus...?” Jawaban: kecil “Jika api panas, maka es...?” Jawaban: dingin “Jika ibu seorang wanita, maka ayah seorang...” Jawaban: pria, laki-laki “Jika pagi ada matahari, malam ada...” Jawaban: bulan Apakah anak menjawab ketiga pertanyaan dengan benar?",
+                  "value": "Belum dapat ditetapkan"
+                },
+                {
+                  "label": "4. Memahami/mengartikan 7 kata Pastikan anak mendengar pemeriksa lalu katakan “Saya akan mengucapkan 1 kata dan saya ingin kamu menyebutkan apa arti kata itu”. Setiap kata dapat diberikan sebanyak 3 kali bila perlu. Pemeriksa dapat mengatakan “Beritahu saya sesuatu tentang itu” tetapi jangan tanya apa kegunaannya. Tanyalah setiap kata dalam satu waktu. “Apakah bola itu?” “Apakah sungai itu?” “Apakah meja itu?” “Apakah mobil/motor itu?” “Apakah rumah itu?” “Apakah pisang itu?” “Apakah pintu itu?” “Apakah atap itu?” Anak dikatakan dapat mengartikan jika anak mengartikan yang sesuai dalam istilah: 1) kegunaan, 2) bentuk, 3) terbuat dari apa, 4) kategori umum. Dapatkah anak mengartikan 7 kata yang sesuai?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "5. Mengetahui komposisi benda Isi titik−titik di bawah ini dengan jawaban anak. Jangan membantu kecuali mengulangi pertanyaan sampai 3 kali bila anak menanyakannya. \"Sendok dibuat dari apa?\" Jawaban: besi, baja, plastik, kayu \"Sepatu dibuat dari apa?\" Jawaban: kulit, karet, kain, plastik, kayu \"Pintu dibuat dari apa?\" Jawaban: kayu, besi, kaca Apakah anak dapat menjawab ketiga pertanyaan diatas dengan benar?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "6. Tanyakan kepada orang tua atau pengasuh, apakah anak dapat menggosok giginya tanpa bantuan?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "7. Tanyakan kepada orang tua atau pengasuh, apakah anak dapat menyiapkan dan mengambil makanan tanpa bantuan, termasuk menggunakan mangkok, sendok, menuangkan makanan dan susu ke mangkok tanpa banyak tumpah? Jawab ‘Ya’ jika anak dapat melakukannya, termasuk menuangkan susu dari beberapa jenis kotak atau wadah makanan.",
+                  "value": "Ya"
+                },
+                {
+                  "label": "8. Apakah anak dapat menangkap bola kecil sebesar bola tenis atau bola kasti hanya dengan menggunakan kedua tangannya?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "9. Tunjukkan kepada anak bagaimana cara berjalan di garis lurus dengan menempatkan tumit dari 1 kaki di depan jari kaki lain. Berjalanlah 8 langkah, lalu minta anak untuk melakukannya. Berikan contoh dan kesempatan sebanyak 3 kali bila perlu. Dapatkah anak melakukannya sebanyak 4 langkah atau lebih dengan meletakkan tumit tidak lebih dari 2,5 cm dari jari kaki lain tanpa berpegangan?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "10. Minta anak untuk berdiri 1 kaki tanpa berpegangan. Jika perlu tunjukkan caranya dan beri anak kesempatan sebanyak 3 kali. Dapatkah ia mempertahankan keseimbangan dalam waktu 11 detik atau lebih?",
+                  "value": "Ya"
+                },
+                {
+                  "label": "Temuan pemeriksaan dan catatan tindak lanjut",
+                  "value": "Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber.  AKHIR_CATATAN_PANJANG"
+                }
+              ],
+              "summary": "Hasil dicatat sebagai penetapan pemeriksa secara manual. Skor yang dicatat pemeriksa: 10 / 10. Kesimpulan pemeriksa: KESIMPULAN_MANUAL_UJI dicatat oleh dokter pemeriksa.",
+              "classification": "Penetapan pemeriksa (manual)",
+              "advice": [
+                "RENCANA_MANUAL_UJI sesuai penetapan dokter."
+              ],
+              "source": "Buku Pedoman SDIDTK revisi 23-08-2022, hlm. 144, 145, 146 (PDF 157, 158, 159).",
+              "images": [
+                {
+                  "caption": "Buku Pedoman SDIDTK, hlm. 144 (PDF 157)",
+                  "srcPrefix": "data:image/png;base64,iVBORw0KGgoAAAANSU",
+                  "srcLength": 216866
+                },
+                {
+                  "caption": "Buku Pedoman SDIDTK, hlm. 145 (PDF 158)",
+                  "srcPrefix": "data:image/png;base64,iVBORw0KGgoAAAANSU",
+                  "srcLength": 188942
+                },
+                {
+                  "caption": "Buku Pedoman SDIDTK, hlm. 146 (PDF 159)",
+                  "srcPrefix": "data:image/png;base64,iVBORw0KGgoAAAANSU",
+                  "srcLength": 41930
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "APGAR_belum_final",
+      "files": [
+        {
+          "type": "docx",
+          "path": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_review/exports/APGAR_belum_final.docx",
+          "size": 282175
+        },
+        {
+          "type": "pdf",
+          "path": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_review/exports/APGAR_belum_final.pdf",
+          "size": 286300
+        }
+      ],
+      "assembled": [
+        {
+          "type": "docx",
+          "title": "Catatan Pemeriksaan Belum Final — Skor APGAR",
+          "patient": {
+            "examDate": "2026-11-19",
+            "gestationDays": "0",
+            "immunizations": [
+              {
+                "vaccine": "BCG",
+                "date": "2020-12-19",
+                "status": "given"
+              },
+              {
+                "vaccine": "Imunisasi tambahan uji < & >",
+                "date": "2021-01-19",
+                "status": "given"
+              }
+            ],
+            "name": "Pasien Fiktif Uji Dokumen",
+            "birthDate": "2026-11-19",
+            "sex": "female",
+            "weight": "3",
+            "height": "49",
+            "headCircumference": "34",
+            "muac": "10",
+            "measurementPosition": "recumbent",
+            "address": "Alamat uji < & > tanpa data pasien nyata.",
+            "fatherName": "Ayah Uji",
+            "motherName": "Ibu Uji",
+            "fatherAge": "35",
+            "motherAge": "33",
+            "gestationWeeks": "39",
+            "birthWeight": "3000",
+            "birthLength": "49",
+            "delivery": "normal",
+            "cried": "yes",
+            "examiner": "Dokter Uji Dokumen",
+            "location": "Lokasi Pengujian"
+          },
+          "demographics": [
+            {
+              "label": "Nama anak",
+              "value": "Pasien Fiktif Uji Dokumen"
+            },
+            {
+              "label": "Tanggal lahir",
+              "value": "2026-11-19"
+            },
+            {
+              "label": "Tanggal pemeriksaan",
+              "value": "2026-11-19"
+            },
+            {
+              "label": "Usia saat pemeriksaan",
+              "value": "0 tahun 0 bulan 0 hari"
+            },
+            {
+              "label": "Jenis kelamin",
+              "value": "Perempuan"
+            },
+            {
+              "label": "Berat badan (kg)",
+              "value": "3"
+            },
+            {
+              "label": "Panjang/tinggi badan (cm)",
+              "value": "49"
+            },
+            {
+              "label": "Lingkar kepala (cm)",
+              "value": "34"
+            },
+            {
+              "label": "Lingkar lengan atas (cm)",
+              "value": "10"
+            },
+            {
+              "label": "Posisi pengukuran",
+              "value": "Terlentang"
+            },
+            {
+              "label": "Alamat",
+              "value": "Alamat uji < & > tanpa data pasien nyata."
+            },
+            {
+              "label": "Nama ayah",
+              "value": "Ayah Uji"
+            },
+            {
+              "label": "Nama ibu",
+              "value": "Ibu Uji"
+            },
+            {
+              "label": "Usia ayah (tahun)",
+              "value": "35"
+            },
+            {
+              "label": "Usia ibu (tahun)",
+              "value": "33"
+            },
+            {
+              "label": "Usia gestasi saat lahir (minggu)",
+              "value": "39"
+            },
+            {
+              "label": "Tambahan hari gestasi",
+              "value": "0"
+            },
+            {
+              "label": "Berat badan lahir (gram)",
+              "value": "3000"
+            },
+            {
+              "label": "Panjang badan lahir (cm)",
+              "value": "49"
+            },
+            {
+              "label": "Cara lahir",
+              "value": "Normal/spontan"
+            },
+            {
+              "label": "Langsung menangis saat lahir",
+              "value": "Ya"
+            },
+            {
+              "label": "Nama pemeriksa",
+              "value": "Dokter Uji Dokumen"
+            },
+            {
+              "label": "Lokasi pemeriksaan",
+              "value": "Lokasi Pengujian"
+            },
+            {
+              "label": "Status imunisasi sesuai catatan",
+              "value": "Belum diisi"
+            },
+            {
+              "label": "Catatan imunisasi",
+              "value": "Belum diisi"
+            },
+            {
+              "label": "Imunisasi 1",
+              "value": "BCG | Sudah diberikan | 2020-12-19"
+            },
+            {
+              "label": "Imunisasi 2",
+              "value": "Imunisasi tambahan uji < & > | Sudah diberikan | 2021-01-19"
+            }
+          ],
+          "sections": [
+            {
+              "title": "Skor APGAR",
+              "rows": [
+                {
+                  "label": "Usia acuan instrumen",
+                  "value": "0 tahun 0 bulan 0 hari"
+                },
+                {
+                  "label": "Status dokumen",
+                  "value": "Catatan pemeriksaan belum final; bukan kesimpulan penilaian lengkap."
+                },
+                {
+                  "label": "Hitungan tabel — menit 1",
+                  "value": "Skor total tidak dapat ditetapkan karena batas detak jantung 100 kali/menit tidak tercantum dalam tabel sumber"
+                },
+                {
+                  "label": "Hitungan tabel — menit 5",
+                  "value": "Skor 10; rentang pada tabel sumber lebih dari 7"
+                },
+                {
+                  "label": "Menit 1 — Appearance (warna kulit)",
+                  "value": "2 — Seluruh tubuh kemerahan"
+                },
+                {
+                  "label": "Menit 1 — Pulse (detak jantung)",
+                  "value": "100 kali/menit — batas skor tidak tercantum dalam tabel"
+                },
+                {
+                  "label": "Menit 1 — Grimace (refleks)",
+                  "value": "2 — Reaksi melawan"
+                },
+                {
+                  "label": "Menit 1 — Activity (tonus otot)",
+                  "value": "2 — Gerakan aktif"
+                },
+                {
+                  "label": "Menit 1 — Respiration (usaha bernapas)",
+                  "value": "2 — Menangis kuat"
+                },
+                {
+                  "label": "Menit 5 — Appearance (warna kulit)",
+                  "value": "2 — Seluruh tubuh kemerahan"
+                },
+                {
+                  "label": "Menit 5 — Pulse (detak jantung)",
+                  "value": "2 — Lebih dari 100 kali/menit"
+                },
+                {
+                  "label": "Menit 5 — Grimace (refleks)",
+                  "value": "2 — Reaksi melawan"
+                },
+                {
+                  "label": "Menit 5 — Activity (tonus otot)",
+                  "value": "2 — Gerakan aktif"
+                },
+                {
+                  "label": "Menit 5 — Respiration (usaha bernapas)",
+                  "value": "2 — Menangis kuat"
+                },
+                {
+                  "label": "Nama dokter yang mengonfirmasi",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "Tanggal konfirmasi dokter",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "Kesimpulan klinis menurut dokter atau laporan pemeriksaan",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "Tindakan yang telah dilakukan dan rencana tindak lanjut dokter",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "Temuan pemeriksaan dan catatan tindak lanjut",
+                  "value": "Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber.  AKHIR_CATATAN_PANJANG"
+                }
+              ],
+              "summary": "APGAR menit 1: belum dapat dihitung dari tabel; menit 5: 10",
+              "classification": "Menunggu konfirmasi dokter",
+              "advice": [
+                "Lengkapi nama dokter, tanggal konfirmasi yang valid, kesimpulan klinis, serta tindakan dan rencana tindak lanjut berdasarkan pemeriksaan atau laporan persalinan.",
+                "Temuan dan hitungan tabel tetap disimpan; kategori yang tidak tercantum dalam sumber tidak ditetapkan otomatis."
+              ],
+              "source": "Petunjuk Teknis Penggunaan Buku KIA Khusus Bayi Kecil. PDF hlm. 11; pencatatan pada Buku KIA Bayi Kecil hlm. 8.",
+              "images": [
+                {
+                  "caption": "Tabel APGAR asli dalam petunjuk teknis, hlm. 11.",
+                  "srcPrefix": "data:image/png;base64,iVBORw0KGgoAAAANSU",
+                  "srcLength": 299234
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "pdf",
+          "title": "Catatan Pemeriksaan Belum Final — Skor APGAR",
+          "patient": {
+            "examDate": "2026-11-19",
+            "gestationDays": "0",
+            "immunizations": [
+              {
+                "vaccine": "BCG",
+                "date": "2020-12-19",
+                "status": "given"
+              },
+              {
+                "vaccine": "Imunisasi tambahan uji < & >",
+                "date": "2021-01-19",
+                "status": "given"
+              }
+            ],
+            "name": "Pasien Fiktif Uji Dokumen",
+            "birthDate": "2026-11-19",
+            "sex": "female",
+            "weight": "3",
+            "height": "49",
+            "headCircumference": "34",
+            "muac": "10",
+            "measurementPosition": "recumbent",
+            "address": "Alamat uji < & > tanpa data pasien nyata.",
+            "fatherName": "Ayah Uji",
+            "motherName": "Ibu Uji",
+            "fatherAge": "35",
+            "motherAge": "33",
+            "gestationWeeks": "39",
+            "birthWeight": "3000",
+            "birthLength": "49",
+            "delivery": "normal",
+            "cried": "yes",
+            "examiner": "Dokter Uji Dokumen",
+            "location": "Lokasi Pengujian"
+          },
+          "demographics": [
+            {
+              "label": "Nama anak",
+              "value": "Pasien Fiktif Uji Dokumen"
+            },
+            {
+              "label": "Tanggal lahir",
+              "value": "2026-11-19"
+            },
+            {
+              "label": "Tanggal pemeriksaan",
+              "value": "2026-11-19"
+            },
+            {
+              "label": "Usia saat pemeriksaan",
+              "value": "0 tahun 0 bulan 0 hari"
+            },
+            {
+              "label": "Jenis kelamin",
+              "value": "Perempuan"
+            },
+            {
+              "label": "Berat badan (kg)",
+              "value": "3"
+            },
+            {
+              "label": "Panjang/tinggi badan (cm)",
+              "value": "49"
+            },
+            {
+              "label": "Lingkar kepala (cm)",
+              "value": "34"
+            },
+            {
+              "label": "Lingkar lengan atas (cm)",
+              "value": "10"
+            },
+            {
+              "label": "Posisi pengukuran",
+              "value": "Terlentang"
+            },
+            {
+              "label": "Alamat",
+              "value": "Alamat uji < & > tanpa data pasien nyata."
+            },
+            {
+              "label": "Nama ayah",
+              "value": "Ayah Uji"
+            },
+            {
+              "label": "Nama ibu",
+              "value": "Ibu Uji"
+            },
+            {
+              "label": "Usia ayah (tahun)",
+              "value": "35"
+            },
+            {
+              "label": "Usia ibu (tahun)",
+              "value": "33"
+            },
+            {
+              "label": "Usia gestasi saat lahir (minggu)",
+              "value": "39"
+            },
+            {
+              "label": "Tambahan hari gestasi",
+              "value": "0"
+            },
+            {
+              "label": "Berat badan lahir (gram)",
+              "value": "3000"
+            },
+            {
+              "label": "Panjang badan lahir (cm)",
+              "value": "49"
+            },
+            {
+              "label": "Cara lahir",
+              "value": "Normal/spontan"
+            },
+            {
+              "label": "Langsung menangis saat lahir",
+              "value": "Ya"
+            },
+            {
+              "label": "Nama pemeriksa",
+              "value": "Dokter Uji Dokumen"
+            },
+            {
+              "label": "Lokasi pemeriksaan",
+              "value": "Lokasi Pengujian"
+            },
+            {
+              "label": "Status imunisasi sesuai catatan",
+              "value": "Belum diisi"
+            },
+            {
+              "label": "Catatan imunisasi",
+              "value": "Belum diisi"
+            },
+            {
+              "label": "Imunisasi 1",
+              "value": "BCG | Sudah diberikan | 2020-12-19"
+            },
+            {
+              "label": "Imunisasi 2",
+              "value": "Imunisasi tambahan uji < & > | Sudah diberikan | 2021-01-19"
+            }
+          ],
+          "sections": [
+            {
+              "title": "Skor APGAR",
+              "rows": [
+                {
+                  "label": "Usia acuan instrumen",
+                  "value": "0 tahun 0 bulan 0 hari"
+                },
+                {
+                  "label": "Status dokumen",
+                  "value": "Catatan pemeriksaan belum final; bukan kesimpulan penilaian lengkap."
+                },
+                {
+                  "label": "Hitungan tabel — menit 1",
+                  "value": "Skor total tidak dapat ditetapkan karena batas detak jantung 100 kali/menit tidak tercantum dalam tabel sumber"
+                },
+                {
+                  "label": "Hitungan tabel — menit 5",
+                  "value": "Skor 10; rentang pada tabel sumber lebih dari 7"
+                },
+                {
+                  "label": "Menit 1 — Appearance (warna kulit)",
+                  "value": "2 — Seluruh tubuh kemerahan"
+                },
+                {
+                  "label": "Menit 1 — Pulse (detak jantung)",
+                  "value": "100 kali/menit — batas skor tidak tercantum dalam tabel"
+                },
+                {
+                  "label": "Menit 1 — Grimace (refleks)",
+                  "value": "2 — Reaksi melawan"
+                },
+                {
+                  "label": "Menit 1 — Activity (tonus otot)",
+                  "value": "2 — Gerakan aktif"
+                },
+                {
+                  "label": "Menit 1 — Respiration (usaha bernapas)",
+                  "value": "2 — Menangis kuat"
+                },
+                {
+                  "label": "Menit 5 — Appearance (warna kulit)",
+                  "value": "2 — Seluruh tubuh kemerahan"
+                },
+                {
+                  "label": "Menit 5 — Pulse (detak jantung)",
+                  "value": "2 — Lebih dari 100 kali/menit"
+                },
+                {
+                  "label": "Menit 5 — Grimace (refleks)",
+                  "value": "2 — Reaksi melawan"
+                },
+                {
+                  "label": "Menit 5 — Activity (tonus otot)",
+                  "value": "2 — Gerakan aktif"
+                },
+                {
+                  "label": "Menit 5 — Respiration (usaha bernapas)",
+                  "value": "2 — Menangis kuat"
+                },
+                {
+                  "label": "Nama dokter yang mengonfirmasi",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "Tanggal konfirmasi dokter",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "Kesimpulan klinis menurut dokter atau laporan pemeriksaan",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "Tindakan yang telah dilakukan dan rencana tindak lanjut dokter",
+                  "value": "Belum diisi"
+                },
+                {
+                  "label": "Temuan pemeriksaan dan catatan tindak lanjut",
+                  "value": "Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber.  AKHIR_CATATAN_PANJANG"
+                }
+              ],
+              "summary": "APGAR menit 1: belum dapat dihitung dari tabel; menit 5: 10",
+              "classification": "Menunggu konfirmasi dokter",
+              "advice": [
+                "Lengkapi nama dokter, tanggal konfirmasi yang valid, kesimpulan klinis, serta tindakan dan rencana tindak lanjut berdasarkan pemeriksaan atau laporan persalinan.",
+                "Temuan dan hitungan tabel tetap disimpan; kategori yang tidak tercantum dalam sumber tidak ditetapkan otomatis."
+              ],
+              "source": "Petunjuk Teknis Penggunaan Buku KIA Khusus Bayi Kecil. PDF hlm. 11; pencatatan pada Buku KIA Bayi Kecil hlm. 8.",
+              "images": [
+                {
+                  "caption": "Tabel APGAR asli dalam petunjuk teknis, hlm. 11.",
+                  "srcPrefix": "data:image/png;base64,iVBORw0KGgoAAAANSU",
+                  "srcLength": 299234
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "APGAR_konfirmasi_dokter",
+      "files": [
+        {
+          "type": "docx",
+          "path": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_review/exports/APGAR_konfirmasi_dokter.docx",
+          "size": 295084
+        },
+        {
+          "type": "pdf",
+          "path": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_review/exports/APGAR_konfirmasi_dokter.pdf",
+          "size": 292791
+        }
+      ],
+      "assembled": [
+        {
+          "type": "docx",
+          "title": "Skor APGAR",
+          "patient": {
+            "examDate": "2026-11-19",
+            "gestationDays": "0",
+            "immunizations": [
+              {
+                "vaccine": "BCG",
+                "date": "2020-12-19",
+                "status": "given"
+              },
+              {
+                "vaccine": "Imunisasi tambahan uji < & >",
+                "date": "2021-01-19",
+                "status": "given"
+              }
+            ],
+            "name": "Pasien Fiktif Uji Dokumen",
+            "birthDate": "2026-11-19",
+            "sex": "female",
+            "weight": "3",
+            "height": "49",
+            "headCircumference": "34",
+            "muac": "10",
+            "measurementPosition": "recumbent",
+            "address": "Alamat uji < & > tanpa data pasien nyata.",
+            "fatherName": "Ayah Uji",
+            "motherName": "Ibu Uji",
+            "fatherAge": "35",
+            "motherAge": "33",
+            "gestationWeeks": "39",
+            "birthWeight": "3000",
+            "birthLength": "49",
+            "delivery": "normal",
+            "cried": "yes",
+            "examiner": "Dokter Uji Dokumen",
+            "location": "Lokasi Pengujian"
+          },
+          "demographics": [
+            {
+              "label": "Nama anak",
+              "value": "Pasien Fiktif Uji Dokumen"
+            },
+            {
+              "label": "Tanggal lahir",
+              "value": "2026-11-19"
+            },
+            {
+              "label": "Tanggal pemeriksaan",
+              "value": "2026-11-19"
+            },
+            {
+              "label": "Usia saat pemeriksaan",
+              "value": "0 tahun 0 bulan 0 hari"
+            },
+            {
+              "label": "Jenis kelamin",
+              "value": "Perempuan"
+            },
+            {
+              "label": "Berat badan (kg)",
+              "value": "3"
+            },
+            {
+              "label": "Panjang/tinggi badan (cm)",
+              "value": "49"
+            },
+            {
+              "label": "Lingkar kepala (cm)",
+              "value": "34"
+            },
+            {
+              "label": "Lingkar lengan atas (cm)",
+              "value": "10"
+            },
+            {
+              "label": "Posisi pengukuran",
+              "value": "Terlentang"
+            },
+            {
+              "label": "Alamat",
+              "value": "Alamat uji < & > tanpa data pasien nyata."
+            },
+            {
+              "label": "Nama ayah",
+              "value": "Ayah Uji"
+            },
+            {
+              "label": "Nama ibu",
+              "value": "Ibu Uji"
+            },
+            {
+              "label": "Usia ayah (tahun)",
+              "value": "35"
+            },
+            {
+              "label": "Usia ibu (tahun)",
+              "value": "33"
+            },
+            {
+              "label": "Usia gestasi saat lahir (minggu)",
+              "value": "39"
+            },
+            {
+              "label": "Tambahan hari gestasi",
+              "value": "0"
+            },
+            {
+              "label": "Berat badan lahir (gram)",
+              "value": "3000"
+            },
+            {
+              "label": "Panjang badan lahir (cm)",
+              "value": "49"
+            },
+            {
+              "label": "Cara lahir",
+              "value": "Normal/spontan"
+            },
+            {
+              "label": "Langsung menangis saat lahir",
+              "value": "Ya"
+            },
+            {
+              "label": "Nama pemeriksa",
+              "value": "Dokter Uji Dokumen"
+            },
+            {
+              "label": "Lokasi pemeriksaan",
+              "value": "Lokasi Pengujian"
+            },
+            {
+              "label": "Status imunisasi sesuai catatan",
+              "value": "Belum diisi"
+            },
+            {
+              "label": "Catatan imunisasi",
+              "value": "Belum diisi"
+            },
+            {
+              "label": "Imunisasi 1",
+              "value": "BCG | Sudah diberikan | 2020-12-19"
+            },
+            {
+              "label": "Imunisasi 2",
+              "value": "Imunisasi tambahan uji < & > | Sudah diberikan | 2021-01-19"
+            }
+          ],
+          "sections": [
+            {
+              "title": "Skor APGAR",
+              "rows": [
+                {
+                  "label": "Usia acuan instrumen",
+                  "value": "0 tahun 0 bulan 0 hari"
+                },
+                {
+                  "label": "Hitungan tabel — menit 1",
+                  "value": "Skor total tidak dapat ditetapkan karena batas detak jantung 100 kali/menit tidak tercantum dalam tabel sumber"
+                },
+                {
+                  "label": "Hitungan tabel — menit 5",
+                  "value": "Skor 10; rentang pada tabel sumber lebih dari 7"
+                },
+                {
+                  "label": "Dokter yang mengonfirmasi",
+                  "value": "Dokter Konfirmasi APGAR Uji"
+                },
+                {
+                  "label": "Tanggal konfirmasi dokter",
+                  "value": "2026-11-19"
+                },
+                {
+                  "label": "Kesimpulan menurut dokter/laporan pemeriksaan",
+                  "value": "KESIMPULAN_APGAR_MANUAL_UJI dari laporan persalinan. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber.  AKHIR_CATATAN_PANJANG"
+                },
+                {
+                  "label": "Tindakan dan rencana menurut dokter",
+                  "value": "TINDAKAN_APGAR_MANUAL_UJI disimpan menurut dokter."
+                },
+                {
+                  "label": "Menit 1 — Appearance (warna kulit)",
+                  "value": "2 — Seluruh tubuh kemerahan"
+                },
+                {
+                  "label": "Menit 1 — Pulse (detak jantung)",
+                  "value": "100 kali/menit — batas skor tidak tercantum dalam tabel"
+                },
+                {
+                  "label": "Menit 1 — Grimace (refleks)",
+                  "value": "2 — Reaksi melawan"
+                },
+                {
+                  "label": "Menit 1 — Activity (tonus otot)",
+                  "value": "2 — Gerakan aktif"
+                },
+                {
+                  "label": "Menit 1 — Respiration (usaha bernapas)",
+                  "value": "2 — Menangis kuat"
+                },
+                {
+                  "label": "Menit 5 — Appearance (warna kulit)",
+                  "value": "2 — Seluruh tubuh kemerahan"
+                },
+                {
+                  "label": "Menit 5 — Pulse (detak jantung)",
+                  "value": "2 — Lebih dari 100 kali/menit"
+                },
+                {
+                  "label": "Menit 5 — Grimace (refleks)",
+                  "value": "2 — Reaksi melawan"
+                },
+                {
+                  "label": "Menit 5 — Activity (tonus otot)",
+                  "value": "2 — Gerakan aktif"
+                },
+                {
+                  "label": "Menit 5 — Respiration (usaha bernapas)",
+                  "value": "2 — Menangis kuat"
+                },
+                {
+                  "label": "Nama dokter yang mengonfirmasi",
+                  "value": "Dokter Konfirmasi APGAR Uji"
+                },
+                {
+                  "label": "Tanggal konfirmasi dokter",
+                  "value": "2026-11-19"
+                },
+                {
+                  "label": "Kesimpulan klinis menurut dokter atau laporan pemeriksaan",
+                  "value": "KESIMPULAN_APGAR_MANUAL_UJI dari laporan persalinan. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber.  AKHIR_CATATAN_PANJANG"
+                },
+                {
+                  "label": "Tindakan yang telah dilakukan dan rencana tindak lanjut dokter",
+                  "value": "TINDAKAN_APGAR_MANUAL_UJI disimpan menurut dokter."
+                },
+                {
+                  "label": "Temuan pemeriksaan dan catatan tindak lanjut",
+                  "value": "Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber.  AKHIR_CATATAN_PANJANG"
+                }
+              ],
+              "summary": "APGAR menit 1: belum dapat dihitung dari tabel; menit 5: 10",
+              "classification": "Konfirmasi dokter tercatat; batas tabel tetap tidak ditetapkan otomatis",
+              "advice": [
+                "Ikuti tindakan dan rencana tindak lanjut yang dicatat dokter.",
+                "Simpan temuan asli dan pernyataan dokter bersama catatan kelahiran bayi."
+              ],
+              "source": "Petunjuk Teknis Penggunaan Buku KIA Khusus Bayi Kecil. PDF hlm. 11; pencatatan pada Buku KIA Bayi Kecil hlm. 8.",
+              "images": [
+                {
+                  "caption": "Tabel APGAR asli dalam petunjuk teknis, hlm. 11.",
+                  "srcPrefix": "data:image/png;base64,iVBORw0KGgoAAAANSU",
+                  "srcLength": 299234
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "pdf",
+          "title": "Skor APGAR",
+          "patient": {
+            "examDate": "2026-11-19",
+            "gestationDays": "0",
+            "immunizations": [
+              {
+                "vaccine": "BCG",
+                "date": "2020-12-19",
+                "status": "given"
+              },
+              {
+                "vaccine": "Imunisasi tambahan uji < & >",
+                "date": "2021-01-19",
+                "status": "given"
+              }
+            ],
+            "name": "Pasien Fiktif Uji Dokumen",
+            "birthDate": "2026-11-19",
+            "sex": "female",
+            "weight": "3",
+            "height": "49",
+            "headCircumference": "34",
+            "muac": "10",
+            "measurementPosition": "recumbent",
+            "address": "Alamat uji < & > tanpa data pasien nyata.",
+            "fatherName": "Ayah Uji",
+            "motherName": "Ibu Uji",
+            "fatherAge": "35",
+            "motherAge": "33",
+            "gestationWeeks": "39",
+            "birthWeight": "3000",
+            "birthLength": "49",
+            "delivery": "normal",
+            "cried": "yes",
+            "examiner": "Dokter Uji Dokumen",
+            "location": "Lokasi Pengujian"
+          },
+          "demographics": [
+            {
+              "label": "Nama anak",
+              "value": "Pasien Fiktif Uji Dokumen"
+            },
+            {
+              "label": "Tanggal lahir",
+              "value": "2026-11-19"
+            },
+            {
+              "label": "Tanggal pemeriksaan",
+              "value": "2026-11-19"
+            },
+            {
+              "label": "Usia saat pemeriksaan",
+              "value": "0 tahun 0 bulan 0 hari"
+            },
+            {
+              "label": "Jenis kelamin",
+              "value": "Perempuan"
+            },
+            {
+              "label": "Berat badan (kg)",
+              "value": "3"
+            },
+            {
+              "label": "Panjang/tinggi badan (cm)",
+              "value": "49"
+            },
+            {
+              "label": "Lingkar kepala (cm)",
+              "value": "34"
+            },
+            {
+              "label": "Lingkar lengan atas (cm)",
+              "value": "10"
+            },
+            {
+              "label": "Posisi pengukuran",
+              "value": "Terlentang"
+            },
+            {
+              "label": "Alamat",
+              "value": "Alamat uji < & > tanpa data pasien nyata."
+            },
+            {
+              "label": "Nama ayah",
+              "value": "Ayah Uji"
+            },
+            {
+              "label": "Nama ibu",
+              "value": "Ibu Uji"
+            },
+            {
+              "label": "Usia ayah (tahun)",
+              "value": "35"
+            },
+            {
+              "label": "Usia ibu (tahun)",
+              "value": "33"
+            },
+            {
+              "label": "Usia gestasi saat lahir (minggu)",
+              "value": "39"
+            },
+            {
+              "label": "Tambahan hari gestasi",
+              "value": "0"
+            },
+            {
+              "label": "Berat badan lahir (gram)",
+              "value": "3000"
+            },
+            {
+              "label": "Panjang badan lahir (cm)",
+              "value": "49"
+            },
+            {
+              "label": "Cara lahir",
+              "value": "Normal/spontan"
+            },
+            {
+              "label": "Langsung menangis saat lahir",
+              "value": "Ya"
+            },
+            {
+              "label": "Nama pemeriksa",
+              "value": "Dokter Uji Dokumen"
+            },
+            {
+              "label": "Lokasi pemeriksaan",
+              "value": "Lokasi Pengujian"
+            },
+            {
+              "label": "Status imunisasi sesuai catatan",
+              "value": "Belum diisi"
+            },
+            {
+              "label": "Catatan imunisasi",
+              "value": "Belum diisi"
+            },
+            {
+              "label": "Imunisasi 1",
+              "value": "BCG | Sudah diberikan | 2020-12-19"
+            },
+            {
+              "label": "Imunisasi 2",
+              "value": "Imunisasi tambahan uji < & > | Sudah diberikan | 2021-01-19"
+            }
+          ],
+          "sections": [
+            {
+              "title": "Skor APGAR",
+              "rows": [
+                {
+                  "label": "Usia acuan instrumen",
+                  "value": "0 tahun 0 bulan 0 hari"
+                },
+                {
+                  "label": "Hitungan tabel — menit 1",
+                  "value": "Skor total tidak dapat ditetapkan karena batas detak jantung 100 kali/menit tidak tercantum dalam tabel sumber"
+                },
+                {
+                  "label": "Hitungan tabel — menit 5",
+                  "value": "Skor 10; rentang pada tabel sumber lebih dari 7"
+                },
+                {
+                  "label": "Dokter yang mengonfirmasi",
+                  "value": "Dokter Konfirmasi APGAR Uji"
+                },
+                {
+                  "label": "Tanggal konfirmasi dokter",
+                  "value": "2026-11-19"
+                },
+                {
+                  "label": "Kesimpulan menurut dokter/laporan pemeriksaan",
+                  "value": "KESIMPULAN_APGAR_MANUAL_UJI dari laporan persalinan. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber.  AKHIR_CATATAN_PANJANG"
+                },
+                {
+                  "label": "Tindakan dan rencana menurut dokter",
+                  "value": "TINDAKAN_APGAR_MANUAL_UJI disimpan menurut dokter."
+                },
+                {
+                  "label": "Menit 1 — Appearance (warna kulit)",
+                  "value": "2 — Seluruh tubuh kemerahan"
+                },
+                {
+                  "label": "Menit 1 — Pulse (detak jantung)",
+                  "value": "100 kali/menit — batas skor tidak tercantum dalam tabel"
+                },
+                {
+                  "label": "Menit 1 — Grimace (refleks)",
+                  "value": "2 — Reaksi melawan"
+                },
+                {
+                  "label": "Menit 1 — Activity (tonus otot)",
+                  "value": "2 — Gerakan aktif"
+                },
+                {
+                  "label": "Menit 1 — Respiration (usaha bernapas)",
+                  "value": "2 — Menangis kuat"
+                },
+                {
+                  "label": "Menit 5 — Appearance (warna kulit)",
+                  "value": "2 — Seluruh tubuh kemerahan"
+                },
+                {
+                  "label": "Menit 5 — Pulse (detak jantung)",
+                  "value": "2 — Lebih dari 100 kali/menit"
+                },
+                {
+                  "label": "Menit 5 — Grimace (refleks)",
+                  "value": "2 — Reaksi melawan"
+                },
+                {
+                  "label": "Menit 5 — Activity (tonus otot)",
+                  "value": "2 — Gerakan aktif"
+                },
+                {
+                  "label": "Menit 5 — Respiration (usaha bernapas)",
+                  "value": "2 — Menangis kuat"
+                },
+                {
+                  "label": "Nama dokter yang mengonfirmasi",
+                  "value": "Dokter Konfirmasi APGAR Uji"
+                },
+                {
+                  "label": "Tanggal konfirmasi dokter",
+                  "value": "2026-11-19"
+                },
+                {
+                  "label": "Kesimpulan klinis menurut dokter atau laporan pemeriksaan",
+                  "value": "KESIMPULAN_APGAR_MANUAL_UJI dari laporan persalinan. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber.  AKHIR_CATATAN_PANJANG"
+                },
+                {
+                  "label": "Tindakan yang telah dilakukan dan rencana tindak lanjut dokter",
+                  "value": "TINDAKAN_APGAR_MANUAL_UJI disimpan menurut dokter."
+                },
+                {
+                  "label": "Temuan pemeriksaan dan catatan tindak lanjut",
+                  "value": "Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber. Catatan pengujian dokumen: hasil observasi dan dasar penetapan dokter dicatat utuh, tanpa mengubah kriteria sumber.  AKHIR_CATATAN_PANJANG"
+                }
+              ],
+              "summary": "APGAR menit 1: belum dapat dihitung dari tabel; menit 5: 10",
+              "classification": "Konfirmasi dokter tercatat; batas tabel tetap tidak ditetapkan otomatis",
+              "advice": [
+                "Ikuti tindakan dan rencana tindak lanjut yang dicatat dokter.",
+                "Simpan temuan asli dan pernyataan dokter bersama catatan kelahiran bayi."
+              ],
+              "source": "Petunjuk Teknis Penggunaan Buku KIA Khusus Bayi Kecil. PDF hlm. 11; pencatatan pada Buku KIA Bayi Kecil hlm. 8.",
+              "images": [
+                {
+                  "caption": "Tabel APGAR asli dalam petunjuk teknis, hlm. 11.",
+                  "srcPrefix": "data:image/png;base64,iVBORw0KGgoAAAANSU",
+                  "srcLength": 299234
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "completed": true,
+  "failed": []
+}

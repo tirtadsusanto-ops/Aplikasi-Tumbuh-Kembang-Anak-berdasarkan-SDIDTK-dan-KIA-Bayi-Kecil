@@ -1,0 +1,177 @@
+{
+  "checks": [
+    {
+      "id": "invalid_date_rejected",
+      "pass": true
+    },
+    {
+      "id": "leap_date_valid",
+      "pass": true
+    },
+    {
+      "id": "future_exam_rejected",
+      "pass": true
+    },
+    {
+      "id": "leap_birthday_age",
+      "pass": true,
+      "details": {
+        "years": 1,
+        "months": 0,
+        "days": 0,
+        "fullMonths": 12,
+        "totalDays": 365,
+        "decimalMonths": 12,
+        "roundedMonths": 12
+      }
+    },
+    {
+      "id": "end_month_age",
+      "pass": true,
+      "details": {
+        "years": 0,
+        "months": 1,
+        "days": 0,
+        "fullMonths": 1,
+        "totalDays": 28,
+        "decimalMonths": 1,
+        "roundedMonths": 1
+      }
+    },
+    {
+      "id": "round15",
+      "pass": true
+    },
+    {
+      "id": "round16",
+      "pass": true
+    },
+    {
+      "id": "unicode_json_roundtrip",
+      "pass": true
+    },
+    {
+      "id": "immunizations_200_roundtrip",
+      "pass": true
+    },
+    {
+      "id": "camelCase_module_roundtrip",
+      "pass": true
+    },
+    {
+      "id": "wrong_schema_rejected",
+      "pass": true
+    },
+    {
+      "id": "invalid_hash_rejected",
+      "pass": true
+    },
+    {
+      "id": "prototype_keys_ignored",
+      "pass": true
+    },
+    {
+      "id": "ga37_kpsp_corrected",
+      "pass": true
+    },
+    {
+      "id": "ga37_growth_uncorrected",
+      "pass": true
+    },
+    {
+      "id": "ga32_correction56",
+      "pass": true
+    },
+    {
+      "id": "correction_stops24months",
+      "pass": true
+    },
+    {
+      "id": "index320_longname_no_horizontal_overflow",
+      "pass": true
+    },
+    {
+      "id": "html_input_escaped",
+      "pass": true
+    },
+    {
+      "id": "crossfile_unicode_long_name_preserved",
+      "pass": true
+    },
+    {
+      "id": "kpsp_autoform6",
+      "pass": true
+    },
+    {
+      "id": "missing_answers_error",
+      "pass": true
+    },
+    {
+      "id": "initial_wrong_age_form_blocked",
+      "pass": true
+    },
+    {
+      "id": "recheck_exact_age_form_selected",
+      "pass": true
+    },
+    {
+      "id": "recheck_exact_age_form_allowed",
+      "pass": true
+    },
+    {
+      "id": "module320_longname_no_horizontal_overflow",
+      "pass": true
+    },
+    {
+      "id": "corrupt_json_error",
+      "pass": true
+    },
+    {
+      "id": "corrupt_json_keeps_patient",
+      "pass": true
+    },
+    {
+      "id": "wrong_schema_error",
+      "pass": true
+    },
+    {
+      "id": "valid_json_restores_answers",
+      "pass": true
+    },
+    {
+      "id": "module_reset_clears_answers",
+      "pass": true
+    },
+    {
+      "id": "module_reset_preserves_patient",
+      "pass": true
+    },
+    {
+      "id": "vaccine_add12",
+      "pass": true
+    },
+    {
+      "id": "vaccine_delete_reindexes",
+      "pass": true
+    },
+    {
+      "id": "reset_all_clears_patient",
+      "pass": true
+    },
+    {
+      "id": "reset_all_clears_modules",
+      "pass": true
+    },
+    {
+      "id": "reset_all_clears_vaccines",
+      "pass": true
+    },
+    {
+      "id": "no_browser_js_errors",
+      "pass": true,
+      "details": []
+    }
+  ],
+  "fails": [],
+  "errors": []
+}

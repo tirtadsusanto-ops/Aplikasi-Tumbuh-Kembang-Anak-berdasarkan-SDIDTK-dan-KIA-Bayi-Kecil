@@ -1,0 +1,1774 @@
+{
+  "app": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/outputs/Paket_Aplikasi_Tumbuh_Kembang_Modular_20261119",
+  "baseline": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/outputs/Paket_Aplikasi_Tumbuh_Kembang_Anak_Revisi_20261119",
+  "checks": [
+    {
+      "id": "growth_bundle_under_24_decimal_MB",
+      "pass": true,
+      "detail": {
+        "bytes": 808,
+        "decimalMB": 0.000808,
+        "MiB": 0.00077056884765625
+      }
+    },
+    {
+      "id": "clinical_bytes_unchanged_core.js",
+      "pass": true
+    },
+    {
+      "id": "clinical_bytes_unchanged_growth.js",
+      "pass": true
+    },
+    {
+      "id": "clinical_bytes_unchanged_growth-tables.js",
+      "pass": true
+    },
+    {
+      "id": "clinical_bytes_unchanged_growth-p5.js",
+      "pass": true
+    },
+    {
+      "id": "clinical_bytes_unchanged_development.js",
+      "pass": true
+    },
+    {
+      "id": "clinical_bytes_unchanged_neonatal.js",
+      "pass": true
+    },
+    {
+      "id": "clinical_bytes_unchanged_export.js",
+      "pass": true
+    },
+    {
+      "id": "all_other_JS_bytes_unchanged",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "id": "app_unchanged_except_two_image_functions",
+      "pass": true
+    },
+    {
+      "id": "every_growth_image_payload_under_24_decimal_MB",
+      "pass": true,
+      "detail": [
+        {
+          "name": "growth-images-part-1.js",
+          "bytes": 18666195
+        },
+        {
+          "name": "growth-images-part-2.js",
+          "bytes": 18605376
+        },
+        {
+          "name": "growth-images.js",
+          "bytes": 808
+        }
+      ]
+    },
+    {
+      "id": "retained_images_identical_browser_RGBA",
+      "pass": true,
+      "detail": {
+        "original": 67,
+        "compact": 67,
+        "different": [],
+        "removed": [],
+        "added": []
+      }
+    },
+    {
+      "id": "all_67_original_images_retained",
+      "pass": true
+    },
+    {
+      "id": "all_retained_encoded_images_byte_identical",
+      "pass": true
+    },
+    {
+      "id": "all_growth_graph_branches_registered",
+      "pass": true,
+      "detail": {
+        "calls": 2080,
+        "requiredImages": 45,
+        "missing": []
+      }
+    },
+    {
+      "id": "all_graph_branch_images_have_original_pixels",
+      "pass": true
+    },
+    {
+      "id": "offline_render_actrs",
+      "pass": true,
+      "detail": {
+        "body": "actrs",
+        "text": 2309,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_apgar",
+      "pass": true,
+      "detail": {
+        "body": "apgar",
+        "text": 2642,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_ballard",
+      "pass": true,
+      "detail": {
+        "body": "ballard",
+        "text": 4838,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_bayi-kecil-perkembangan",
+      "pass": true,
+      "detail": {
+        "body": "bayi-kecil-perkembangan",
+        "text": 2079,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_bbpb",
+      "pass": true,
+      "detail": {
+        "body": "bbpb",
+        "text": 1012,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_bbu",
+      "pass": true,
+      "detail": {
+        "body": "bbu",
+        "text": 1222,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_fenton",
+      "pass": true,
+      "detail": {
+        "body": "fenton",
+        "text": 2439,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_imtu",
+      "pass": true,
+      "detail": {
+        "body": "imtu",
+        "text": 1746,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_index",
+      "pass": true,
+      "detail": {
+        "body": "index",
+        "text": 3185,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_kmpe",
+      "pass": true,
+      "detail": {
+        "body": "kmpe",
+        "text": 4459,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_kpsp",
+      "pass": true,
+      "detail": {
+        "body": "kpsp",
+        "text": 3527,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_lengthIncrement",
+      "pass": true,
+      "detail": {
+        "body": "lengthIncrement",
+        "text": 1586,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_lila",
+      "pass": true,
+      "detail": {
+        "body": "lila",
+        "text": 836,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_lku",
+      "pass": true,
+      "detail": {
+        "body": "lku",
+        "text": 908,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_mchat",
+      "pass": true,
+      "detail": {
+        "body": "mchat",
+        "text": 4625,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_pbtbu",
+      "pass": true,
+      "detail": {
+        "body": "pbtbu",
+        "text": 1417,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_pupil",
+      "pass": true,
+      "detail": {
+        "body": "pupil",
+        "text": 1790,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_skrining-pendengaran-neonatus",
+      "pass": true,
+      "detail": {
+        "body": "skrining-pendengaran-neonatus",
+        "text": 1143,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_skrining-rop",
+      "pass": true,
+      "detail": {
+        "body": "skrining-rop",
+        "text": 1159,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_skrining-tiroid",
+      "pass": true,
+      "detail": {
+        "body": "skrining-tiroid",
+        "text": 1203,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_skrining-usg-kepala",
+      "pass": true,
+      "detail": {
+        "body": "skrining-usg-kepala",
+        "text": 1133,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_tanda-bahaya-bayi",
+      "pass": true,
+      "detail": {
+        "body": "tanda-bahaya-bayi",
+        "text": 2418,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_tdd",
+      "pass": true,
+      "detail": {
+        "body": "tdd",
+        "text": 2073,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_tdl",
+      "pass": true,
+      "detail": {
+        "body": "tdl",
+        "text": 2437,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_usia-koreksi",
+      "pass": true,
+      "detail": {
+        "body": "usia-koreksi",
+        "text": 872,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "offline_render_weightIncrement",
+      "pass": true,
+      "detail": {
+        "body": "weightIncrement",
+        "text": 1425,
+        "overflow": false,
+        "brokenImages": 0
+      }
+    },
+    {
+      "id": "assessment_ready_bbu",
+      "pass": true,
+      "detail": "Hasil penilaian\nBerat badan menurut umur dalam rentang -2 sampai +1 SD\n\nBB 7.3 kg; posisi BB/U: -2 SD sampai +1 SD. Tren belum dapat dinilai karena pengukuran sebelumnya belum tersedia.\n\nKomponen\tHasil\nUsia acuan instrumen\t0 tahun 6 bulan 0 hari\nUmur penuh\t6 bulan\nBB\t7.30 kg\nBatas sumber (-3; -2; -1; median; +1; +2; +3 SD)\t5.1; 5.7; 6.5; 7.3; 8.2; 9.3; 10.6 kg\nTindak lanjut\nNilai BB/PB atau BB/TB dan IMT/U untuk menetapkan status gizi.\nBerikan pujian kepada orang tua dan anak.\nBerikan konseling pemberian makan anak.\nJadwalkan kunjungan pemantauan berikutnya.\nUnduh hasil DOCX\nUnduh hasil PDF\n\nBuku Pedoman SDIDTK revisi 23082022, halaman PDF 27, 104–111, 263–264, 274–275."
+    },
+    {
+      "id": "visible_source_image_decode_bbu",
+      "pass": true,
+      "detail": [
+        {
+          "ok": true,
+          "w": 3508,
+          "h": 2480
+        }
+      ]
+    },
+    {
+      "id": "real_docx_signature_bbu",
+      "pass": true,
+      "detail": {
+        "bytes": 884112
+      }
+    },
+    {
+      "id": "real_pdf_signature_bbu",
+      "pass": true,
+      "detail": {
+        "bytes": 896886
+      }
+    },
+    {
+      "id": "assessment_ready_weightIncrement",
+      "pass": true,
+      "detail": "Hasil penilaian\nPenambahan di atas persentil ke-5\n\nPenambahan 800 gram; P5 450 gram untuk interval 4–6 bulan.\n\nKomponen\tHasil\nUsia acuan instrumen\t0 tahun 6 bulan 0 hari\nPengukuran awal\t6.5 kg\nPengukuran kini\t7.3 kg\nP5 tabel asli\t450 gram (halaman PDF 248)\nHubungan penambahan dengan P5\tDi atas P5\nTindak lanjut\nBerikan pujian kepada orang tua dan anak.\nBerikan konseling pemberian makan anak.\nJadwalkan kunjungan pemantauan berikutnya.\nUnduh hasil DOCX\nUnduh hasil PDF\n\nBuku Pedoman SDIDTK revisi 23082022, halaman PDF 108–111, 119, 245–254."
+    },
+    {
+      "id": "visible_source_image_decode_weightIncrement",
+      "pass": true,
+      "detail": [
+        {
+          "ok": true,
+          "w": 774,
+          "h": 1093
+        }
+      ]
+    },
+    {
+      "id": "real_docx_signature_weightIncrement",
+      "pass": true,
+      "detail": {
+        "bytes": 284233
+      }
+    },
+    {
+      "id": "real_pdf_signature_weightIncrement",
+      "pass": true,
+      "detail": {
+        "bytes": 294954
+      }
+    },
+    {
+      "id": "assessment_ready_fenton",
+      "pass": true,
+      "detail": "Hasil penilaian\nPemantauan pertumbuhan bayi prematur\n\nUsia pada sumbu Fenton 36.00 minggu; usia koreksi -28 hari. Posisi grafik BB: P10 sampai P90; PB: P10 sampai P90; LK: P10 sampai P90.\n\nKomponen\tHasil\nUsia acuan instrumen\t0 tahun 0 bulan 28 hari\nUsia kehamilan saat lahir\t32 minggu 0 hari\nUsia kronologis\t28 hari\nUsia pada sumbu Fenton\t36.00 minggu\nAntropometri saat pemeriksaan\tBB 2.2 kg; PB 44 cm; LK 32 cm\nAntropometri saat lahir\tBB 1500 gram; PB 40 cm; LK tidak tersedia\nPosisi persentil saat lahir\tBB tidak tersedia; PB tidak tersedia; LK tidak tersedia\nTindak lanjut\nNilai seluruh tren BB, PB, dan LK terhadap persentil saat lahir.\nLakukan pemantauan antropometri rutin minimal 1 bulan sekali.\nSetelah pulang, kontrol kembali ke dokter dalam waktu 2 minggu untuk pemantauan status gizi.\nLengkapi posisi persentil saat lahir dari catatan kelahiran untuk membandingkan trajektori pertumbuhan.\nUnduh hasil DOCX\nUnduh hasil PDF\n\nPetunjuk Teknis Penggunaan Buku KIA Khusus Bayi Kecil, halaman PDF 14–16 dan 26–37; Grafik GPA dan Fenton, slide 31–32."
+    },
+    {
+      "id": "visible_source_image_decode_fenton",
+      "pass": true,
+      "detail": [
+        {
+          "ok": true,
+          "w": 740,
+          "h": 950
+        }
+      ]
+    },
+    {
+      "id": "real_docx_signature_fenton",
+      "pass": true,
+      "detail": {
+        "bytes": 927251
+      }
+    },
+    {
+      "id": "real_pdf_signature_fenton",
+      "pass": true,
+      "detail": {
+        "bytes": 662568
+      }
+    },
+    {
+      "id": "assessment_ready_lku",
+      "pass": true,
+      "detail": "Hasil penilaian\nNormal\n\nLK 42.0 cm; -2 SD sampai +2 SD.\n\nKomponen\tHasil\nUsia acuan instrumen\t0 tahun 6 bulan 0 hari\nTindak lanjut\nBerikan pujian kepada orang tua dan anak.\nJadwalkan kunjungan pengukuran berikutnya sesuai umur.\nUnduh hasil DOCX\nUnduh hasil PDF\n\nBuku Pedoman SDIDTK revisi 23082022, halaman PDF 102, 119. Grafik GPA dan Fenton, slide 24–29."
+    },
+    {
+      "id": "visible_source_image_decode_lku",
+      "pass": true,
+      "detail": [
+        {
+          "ok": true,
+          "w": 1780,
+          "h": 1256
+        }
+      ]
+    },
+    {
+      "id": "real_docx_signature_lku",
+      "pass": true,
+      "detail": {
+        "bytes": 255860
+      }
+    },
+    {
+      "id": "real_pdf_signature_lku",
+      "pass": true,
+      "detail": {
+        "bytes": 266420
+      }
+    },
+    {
+      "id": "cross_file_patient_preserved",
+      "pass": true
+    },
+    {
+      "id": "reset_patient_blank",
+      "pass": true
+    },
+    {
+      "id": "json_restores_patient_and_module",
+      "pass": true
+    },
+    {
+      "id": "restored_growth_assessment_runs",
+      "pass": true
+    },
+    {
+      "id": "index_growth_registry_initially_unloaded",
+      "pass": true
+    },
+    {
+      "id": "index_lazy_loader_combined_docx",
+      "pass": true,
+      "detail": {
+        "bytes": 1110040
+      }
+    },
+    {
+      "id": "index_lazy_loader_combined_pdf",
+      "pass": true,
+      "detail": {
+        "bytes": 1113605
+      }
+    },
+    {
+      "id": "index_lazy_loader_all67_available",
+      "pass": true
+    },
+    {
+      "id": "offline_no_HTTP_requests",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "id": "no_JS_errors",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "pages": [
+    {
+      "id": "actrs",
+      "body": "actrs",
+      "text": 2309,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "apgar",
+      "body": "apgar",
+      "text": 2642,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "ballard",
+      "body": "ballard",
+      "text": 4838,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "bayi-kecil-perkembangan",
+      "body": "bayi-kecil-perkembangan",
+      "text": 2079,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "bbpb",
+      "body": "bbpb",
+      "text": 1012,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "bbu",
+      "body": "bbu",
+      "text": 1222,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "fenton",
+      "body": "fenton",
+      "text": 2439,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "imtu",
+      "body": "imtu",
+      "text": 1746,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "index",
+      "body": "index",
+      "text": 3185,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "kmpe",
+      "body": "kmpe",
+      "text": 4459,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "kpsp",
+      "body": "kpsp",
+      "text": 3527,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "lengthIncrement",
+      "body": "lengthIncrement",
+      "text": 1586,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "lila",
+      "body": "lila",
+      "text": 836,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "lku",
+      "body": "lku",
+      "text": 908,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "mchat",
+      "body": "mchat",
+      "text": 4625,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "pbtbu",
+      "body": "pbtbu",
+      "text": 1417,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "pupil",
+      "body": "pupil",
+      "text": 1790,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "skrining-pendengaran-neonatus",
+      "body": "skrining-pendengaran-neonatus",
+      "text": 1143,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "skrining-rop",
+      "body": "skrining-rop",
+      "text": 1159,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "skrining-tiroid",
+      "body": "skrining-tiroid",
+      "text": 1203,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "skrining-usg-kepala",
+      "body": "skrining-usg-kepala",
+      "text": 1133,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "tanda-bahaya-bayi",
+      "body": "tanda-bahaya-bayi",
+      "text": 2418,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "tdd",
+      "body": "tdd",
+      "text": 2073,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "tdl",
+      "body": "tdl",
+      "text": 2437,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "usia-koreksi",
+      "body": "usia-koreksi",
+      "text": 872,
+      "overflow": false,
+      "brokenImages": 0
+    },
+    {
+      "id": "weightIncrement",
+      "body": "weightIncrement",
+      "text": 1425,
+      "overflow": false,
+      "brokenImages": 0
+    }
+  ],
+  "pixels": {
+    "original": {
+      "assets/growth/gpa_03_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "a76666499db425ce20b0fc84c53c9283bcfbab2942f9bbbd82f68354bbd0365f",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "63ee292d9df1438f27e19884f29dd3573020bf9a919f037f50e9ef9120e7be50"
+      },
+      "assets/growth/gpa_04_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "e0c1d16ee82c744248b3d73b3da87c76566d80354e7895989ff0a3d61a1fbf90",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "581fe7480ad773a4984dff0a62a680f9efb7d5d485f954c70a796dcc47343a86"
+      },
+      "assets/growth/gpa_05_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "3ca25d11f06ad862c6df26204d395a6c8cb1a054b024aeabc6819affaca2e0cb",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "6ebd7c7039d2c9696b6007069a8932af949b273b5579888729e757eef493d45b"
+      },
+      "assets/growth/gpa_07_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "f564e8c3333d0b0e51ddefaf63a3d463efb6930a556f5705611d071fe5ea8ea8",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "c3496cf507ab926d89fd4a5a0bb71cdea95d0bd60bdc51b74d4c1087ab5f08b2"
+      },
+      "assets/growth/gpa_08_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "2a32f59b5ba6fedb9e87ec80fe70e24cd472891c3fb46864603026a5f166518c",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "96d497a32bcaf4bb2469dba1fcb45a5672556944c05ab8c9744e33db8559ec2a"
+      },
+      "assets/growth/gpa_09_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "2de5ac29a3d25f4712eb9ba99031c27c1c6ae23737c3d19a0e5a461c9d30b84d",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "3bd59a5d9f62c8c78b1e99381561029ec02ac4d6e06f615f04746e4d89942ac5"
+      },
+      "assets/growth/gpa_10_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "5b9da81f2155be3e9e7ad350637af283de1a5555365537d82540bf3aabf166a2",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "60327ae7ceae8030fe0f9cac1794b21dd321252798d0701b05bf7e6fb178a1af"
+      },
+      "assets/growth/gpa_12_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "4a181533170aa34c04c944d1c01dc46f455e23991eb75760e94351071c22f1fc",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "e31707796c09dc7ab581486d441bbe0268a833fb5f5548714bf2505083de9d99"
+      },
+      "assets/growth/gpa_13_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "8f7a03c8d794b219ab923a862d0d642e366ca394c3f81858898ba76ef984b3d4",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "7273bc8c47b9e3ae52f045fe97d8e42e846604db348c2a75ff54e323ad5c70e1"
+      },
+      "assets/growth/gpa_14_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "fae4d052a09a69180dccc038c025e192a8abe66772db120077ee9c46dac283fe",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "9c92d6394e944cb144d9b9fbeda66ffa8d9a09b2805a7717dce23df08e7d4920"
+      },
+      "assets/growth/gpa_15_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "0f86f5c4f2a3e312a883aa203bbe3da30ee7509f8f1df452932861504cfd9aa4",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "e0527a15c9d75b9beb1314f4a33dc68eb5389956183d29527b3cd0a9eb2c5271"
+      },
+      "assets/growth/gpa_17_0.jpg": {
+        "width": 3263,
+        "height": 2192,
+        "sha256": "b0493b29187401c5c432e762b10b94a2e1bf8894817d3a0dc2322fdeb00781c7",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "df679a665cee4e8bf634879e4c20cfba6e65bf9371cf2e70c8dc2c7bc69dfa6f"
+      },
+      "assets/growth/gpa_18_0.jpg": {
+        "width": 3263,
+        "height": 2192,
+        "sha256": "f52c2a8d3e235a4b1903ffff1e2a343a33ca6af32777075cc239b76b9cdf8186",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "f1aa539d2ef07fb4eba123731fa2799fc2bdf0a1793d069fe6350100030fb152"
+      },
+      "assets/growth/gpa_19_0.jpg": {
+        "width": 3296,
+        "height": 2325,
+        "sha256": "69f6447aa0023dee0708a5f656ce60127c4d5103fbc643bfdb6671d8cb1a425f",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "609d55f8579d1675693b6bc36766cef7e6877fe32a60bba9f657b7393ace385f"
+      },
+      "assets/growth/gpa_20_0.jpg": {
+        "width": 3263,
+        "height": 2192,
+        "sha256": "ac6fa1b4bed1ac7ea12106cd9d84e7a866dd7b87cc8e68357d1256fdae06e869",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "6bed7a90c31afe37f9f504e9fbdbfb61b2b444fc36ec247df54f3de830312e67"
+      },
+      "assets/growth/gpa_21_0.jpg": {
+        "width": 3263,
+        "height": 2192,
+        "sha256": "9e39de5a49c32df545983c2ff3fb75b1614605183cc5965cec2e77bd5edc5294",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "8b65a3432211873ececacbe68c0f3c62cc8d12f63080ae4a2d5e69f127e8edef"
+      },
+      "assets/growth/gpa_22_0.jpg": {
+        "width": 3296,
+        "height": 2325,
+        "sha256": "432b73bf3fc6d938707be84d0f5e22c9bd9d8358670068d05689b9e95c3785d1",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "86437d6cb9af0f34dcc9c0c8229d3d2728ec2dafda59cb9273e18581def3a280"
+      },
+      "assets/growth/gpa_24.png": {
+        "width": 1780,
+        "height": 1256,
+        "sha256": "878098757b7949ffd4133830a413ab621e4551eba6a325d4ff5e6a7688dcfa4e",
+        "mime": "data:image/png",
+        "dataURLSha256": "12e1f163a3d38d874482d0aad23854c5c03d992cb65ccf1d5ab0d6d9f1b43151"
+      },
+      "assets/growth/gpa_25.png": {
+        "width": 1780,
+        "height": 1256,
+        "sha256": "08138d7f510bdd65b6ab5cc3c280968793dbb0bfccc25a205d8d25c66443ffe1",
+        "mime": "data:image/png",
+        "dataURLSha256": "036467895ee0fa49855c8d9a0bdd46490b570dc61aa5dfaedb932df1da715899"
+      },
+      "assets/growth/gpa_26.png": {
+        "width": 1780,
+        "height": 1256,
+        "sha256": "1811ed6f8322873f238848b408f423c285070c7190743f481c7a55cad1d5e226",
+        "mime": "data:image/png",
+        "dataURLSha256": "3ee9cab015c7a2a381eea5c3236d970e5935a240031a6bde86e2563f03f9af38"
+      },
+      "assets/growth/gpa_27.png": {
+        "width": 1780,
+        "height": 1256,
+        "sha256": "1fd4c78807f30fcee9520f9b2f7695ea54614d3ed3c230f426cad8e7347a4702",
+        "mime": "data:image/png",
+        "dataURLSha256": "4264ae277f5b9bf73599dd5e8aba9ed019576cf8e041f6217cfa9e9510a716cb"
+      },
+      "assets/growth/gpa_28.png": {
+        "width": 1780,
+        "height": 1256,
+        "sha256": "156c9b840f6cea8641a2ab5f8eb3bfb5657c5f72f3feda78cdd9ccb7d70b9f75",
+        "mime": "data:image/png",
+        "dataURLSha256": "0c0f58614951488b96613334bf29db5cd2b40bbc07834668381ba1248e006b9f"
+      },
+      "assets/growth/gpa_29.png": {
+        "width": 1780,
+        "height": 1256,
+        "sha256": "daa99a925a66c6e45dcce9cbe3c74b1e73be7e7b20ca7962aefc4cfbf0bb6ea5",
+        "mime": "data:image/png",
+        "dataURLSha256": "32ee3564d6d841405b8643dbc674d2c2f753969867dce4e1aea467b3e68abb79"
+      },
+      "assets/growth/gpa_31_0.png": {
+        "width": 742,
+        "height": 960,
+        "sha256": "5fe1ef543fa52d05efe0ed8584d6175d845f7754aa62e0986eb67d1e10966ffd",
+        "mime": "data:image/png",
+        "dataURLSha256": "0aeba873a43dae6a519e85365db73f9f37e995852edb1eccfbca1a9feb20d1b5"
+      },
+      "assets/growth/gpa_32_0.png": {
+        "width": 740,
+        "height": 950,
+        "sha256": "eb708e67e460117f6148816c88666fef44be8c0430ba8aca3b8f6a3325b0197d",
+        "mime": "data:image/png",
+        "dataURLSha256": "eb5a7d44b3cb71d64c8c2c1899013950c2e83e3de1971fdd14722f2aea20be94"
+      },
+      "assets/growth/pedoman_027.png": {
+        "width": 787,
+        "height": 1085,
+        "sha256": "56867b3b16e4187948b247949bb9efdaf9b0ce4e5f08975e8b58db8a0382f2d0",
+        "mime": "data:image/png",
+        "dataURLSha256": "e626e63f9527c740a4d493830482bbc3a346d399f9459c25b884898ad2e4ad0c"
+      },
+      "assets/growth/pedoman_109.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "6f60170b686b78a642b998688072d864dd0c5cfb43d294898182e3c2ff812de2",
+        "mime": "data:image/png",
+        "dataURLSha256": "3d0ba9d262f6f450322f35094c5ec8a6e69543a348c348acf563751b3a544d06"
+      },
+      "assets/growth/pedoman_111.png": {
+        "width": 1085,
+        "height": 787,
+        "sha256": "461527c4949c7ec66245e59a4f5629f08033dbdfa5eea65a51004203a3333f8a",
+        "mime": "data:image/png",
+        "dataURLSha256": "d55f033e0ed6aef00dfe3210f586a75fb82afba2f989632fdc7c7ae7e13f5006"
+      },
+      "assets/growth/pedoman_112.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "eba60a52af068d169788d55aa59a9387dd1dceac4122aaf499187dd94efe3943",
+        "mime": "data:image/png",
+        "dataURLSha256": "b15074e83b02b52a739408c4738df8a455afc2ace7a096f059264acac01ad2ca"
+      },
+      "assets/growth/pedoman_113.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "4d95f072d64c79790a07a3699c0145113b90a7cd8ffec0fac53046067f063068",
+        "mime": "data:image/png",
+        "dataURLSha256": "9b2750ee5e8a4dfac42b6d7a56bb28b41407aef9a2b60057c8d9c592ed23450a"
+      },
+      "assets/growth/pedoman_114.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "40913407db472b31b595c556287c87649efbc90a6840f073abfd1987253f793a",
+        "mime": "data:image/png",
+        "dataURLSha256": "aecad0bff809d5d0c05bad72852985c29458b5bc9cd4cfd02d5efa2aa0320ec8"
+      },
+      "assets/growth/pedoman_115.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "4d65558c051da6afa02abc583dd7ef74161a754621b4f3068f8db0f6dfe33001",
+        "mime": "data:image/png",
+        "dataURLSha256": "e90648661b3cea1721804e45a49bf7116117f9415d68295f015c6cac03ce00cc"
+      },
+      "assets/growth/pedoman_116.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "6674d8bf97849f660d021671a3b33e70fce76f58c700889fe190eedc1ee3070d",
+        "mime": "data:image/png",
+        "dataURLSha256": "117c8e6039b797958e391a6b1c3f76c61285fce18a809fba0f783ac73ccc25e2"
+      },
+      "assets/growth/pedoman_118.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "21dfada63315a38692f20dda6c2dd66dfeb949fd8f0f9954046e93cfa1dbb446",
+        "mime": "data:image/png",
+        "dataURLSha256": "9bd18adf1015d82f1cf6eac88ac1d7f9cb3ae103d38d0dd4955df55f103d60dc"
+      },
+      "assets/growth/pedoman_119.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "a2b49042eda523d3b754a5f13a0e7a789ed07d4acedd300fa065c63b592249b4",
+        "mime": "data:image/png",
+        "dataURLSha256": "01a05831bd489feb4a730a47e4e71e01e4a895b03d568408c1a2cc69da505ff2"
+      },
+      "assets/growth/pedoman_241.png": {
+        "width": 787,
+        "height": 1085,
+        "sha256": "c2e7dd146239b5f90c1157ee14aaa70b5801d8f9d8f5476e4f99d5957283d119",
+        "mime": "data:image/png",
+        "dataURLSha256": "ed2053d8a337fe80a85985f41650e1ba320786ac02060a33d6a2c3d028e4cd33"
+      },
+      "assets/growth/pedoman_242.png": {
+        "width": 787,
+        "height": 1085,
+        "sha256": "36522305fba57913c8ffa3a00c344d7ab7cb1bf1e916dbb8c011eddf9dbf528c",
+        "mime": "data:image/png",
+        "dataURLSha256": "12e5e3385e4fbda4a03026272c2fb45069cfa7ffe5248c40a5253d6a8e9fdfe8"
+      },
+      "assets/growth/pedoman_243.png": {
+        "width": 787,
+        "height": 1085,
+        "sha256": "fa389639fe010437405c105d44d71bad4c2a3c8b0dc36af3e43e8b2f7d252100",
+        "mime": "data:image/png",
+        "dataURLSha256": "84a4ed01946b717fdb49655f4e47c88c5ea03e373b483f3d905e0c2cdc85b418"
+      },
+      "assets/growth/pedoman_244.png": {
+        "width": 787,
+        "height": 1085,
+        "sha256": "6cc403899d7a416105a39ba84a70a1649015633e66c21307e22c53253ae86fb4",
+        "mime": "data:image/png",
+        "dataURLSha256": "27bb310a925c76e46de6cb3b7ebb0408edd3c83f7518c3618cd20b2c8bf9955e"
+      },
+      "assets/growth/pedoman_245.png": {
+        "width": 787,
+        "height": 1085,
+        "sha256": "e4cdc5937c6691ea7e874495e55e5df5d2a5eebab0d23ee90e54a3d3caade66f",
+        "mime": "data:image/png",
+        "dataURLSha256": "9d5c72942f71476566051e089e292eb88589c374bbc805e6e71bba30b0cdd07b"
+      },
+      "assets/growth/pedoman_246.png": {
+        "width": 787,
+        "height": 1085,
+        "sha256": "c01fd53c3e5ff8015733b671a9d5516bdad382e1c614281fb3e1fb30990ba2c9",
+        "mime": "data:image/png",
+        "dataURLSha256": "e3a15a0e4d4b82e5b20c7c7dd6e24be06b778326d7489148a31a56a21fac36da"
+      },
+      "assets/growth/pedoman_247.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "0c1da1b3ec8ad79b25a8aa1109de497e8d48abf0a323415355d05e3da6e6e87a",
+        "mime": "data:image/png",
+        "dataURLSha256": "61e47fc7786e9d32b01f218e394673ac1b0294569dc0264e25492e5047e5b3e6"
+      },
+      "assets/growth/pedoman_248.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "c57ebd6da4438897576426d26d05b5f28222001bad1c22ba16888db4c7c96ce0",
+        "mime": "data:image/png",
+        "dataURLSha256": "e6095bc36ce2681ff3e4632a207d6889faeed6b6b7dab334c3dd7313d0945a16"
+      },
+      "assets/growth/pedoman_249.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "b498ca0c1ffa68afca7b98df7747aebdf2f1f788201bcf5af9cc4176786e13ee",
+        "mime": "data:image/png",
+        "dataURLSha256": "f457563ff76c1a72c9bde7a0106db8c68fcfdae464dd7c14b976a44a4ce1ed43"
+      },
+      "assets/growth/pedoman_250.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "4664e537500c7179088e7e44577c955c313e715c44ebbd799204fc6d1c68495f",
+        "mime": "data:image/png",
+        "dataURLSha256": "1b4aaf79fab74be36837bb68ef474f2f1fd77e1a25779a0c3f7891dd9700714e"
+      },
+      "assets/growth/pedoman_251.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "82a554a2ae6910a7b03c13967b3713dabf16254d69d5c315c24e8325570ee6e4",
+        "mime": "data:image/png",
+        "dataURLSha256": "4096805c19a9e3ce7d86d303064d4378164072e444e8d7ca00902f2fd616cf29"
+      },
+      "assets/growth/pedoman_252.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "d3d132427e833322d42b77f3af2f1e3a13bdfb434f14c37231c0a24f53818bec",
+        "mime": "data:image/png",
+        "dataURLSha256": "180aed95258e73f25b55c95651fa5c7159c0908eb8c982d41a18f08e258f41d5"
+      },
+      "assets/growth/pedoman_253.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "aa19a29a9d5b6e87308939d01822fa886cc7b7d4421826945ae64323de404da4",
+        "mime": "data:image/png",
+        "dataURLSha256": "dab92ddb4ca150718fdbfb1fb3b05301a29264d852181b283d04c4eb1d51244d"
+      },
+      "assets/growth/pedoman_254.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "36fe94d7ad9a963d51ab75f0834a49aa8649bfa04f7665a293eb276c245551f7",
+        "mime": "data:image/png",
+        "dataURLSha256": "af26e3be2b8b7179b88734b7539bd19e2ef0474b9234cb629c3be4b1e83564ba"
+      },
+      "assets/growth/pedoman_255.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "4b7e62685c615936007139fc1e1945fa9397a27aa5d108f8078efbe37431a103",
+        "mime": "data:image/png",
+        "dataURLSha256": "108b624cc318066ae8ca2673b475932f2b028a2cf5bacd29481c8f47d55a9683"
+      },
+      "assets/growth/pedoman_256.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "e15f9c0078a62d75a585206a034a88aeb63bf20a76e5e6e3826e5681e3a42529",
+        "mime": "data:image/png",
+        "dataURLSha256": "fe81433153e303bec3290424bc070ec420312f145f250d96625e30efd9908ccb"
+      },
+      "assets/growth/pedoman_257.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "beefa2cdb378fac8038edde001dbc0567ebfad6fd311d4526093cba753bf11e7",
+        "mime": "data:image/png",
+        "dataURLSha256": "6dcc225c49651e3cecb787d6b2dd024ff5af4ce11dbcea4aef5cd9ab635510ce"
+      },
+      "assets/growth/pedoman_258.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "b8ff98eab37ccfebed30b5be77593c9487a4f37cf4f7ad7dd79c89b3473e7928",
+        "mime": "data:image/png",
+        "dataURLSha256": "561a20a3df3fd7c966a5d8a8b461589b77544baf62d8cde94463d5e7bccb38ce"
+      },
+      "assets/growth/pedoman_259.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "6216bf4aa0fc55e32959d297eac545c0c7f163520c095872627e51e8655e608f",
+        "mime": "data:image/png",
+        "dataURLSha256": "7a25dc3d5507327dc3163dab7457d295f879b3db50f4bacb11ab2cd0a7d66d31"
+      },
+      "assets/growth/pedoman_260.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "38aec56273d84545248d7234cd9ccd7a4c3906566da41f7410dcfb886180b55b",
+        "mime": "data:image/png",
+        "dataURLSha256": "95217fdf9af43866f0fa5aeece85ac6824e4f17d4636044dfa97b3ccff4ca4c6"
+      },
+      "assets/growth/pedoman_261.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "7d037ed2c665e81a48dd57ffb036e9ae346c6562b2f211bfe1acedd52ae07655",
+        "mime": "data:image/png",
+        "dataURLSha256": "492c4b906f7df5d7b888eff5b10d129b17947ef42c55dbdd3754259b7dec6fad"
+      },
+      "assets/growth/pedoman_262.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "5fb7929f85da7219c858c1db2f6ec84c6a4a775e5b088cbae321624ed4f75c68",
+        "mime": "data:image/png",
+        "dataURLSha256": "b33aa87805c0392cf101dd9fc57b3203c8ed4d17da0f456812f0af94fe554d34"
+      },
+      "assets/growth/pedoman_281.png": {
+        "width": 1032,
+        "height": 1458,
+        "sha256": "d414294ac5f6b583023e61945598fda14abc8baa0e4d2487868f87e79c619ac5",
+        "mime": "data:image/png",
+        "dataURLSha256": "4d4d9e6021a30a53f31ecc43356c9b3c653b438645065139db1745c712b93049"
+      },
+      "assets/growth/pedoman_286.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "8bc6a738f5a87a26a0d41fee21f9f217b2941e16b62b03555c2aa31f588ce44c",
+        "mime": "data:image/png",
+        "dataURLSha256": "846e363a423084cead629a409f998d46c7da633c0154540fb23a41c39b31b91c"
+      },
+      "assets/growth/pedoman_287.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "a53adb76d89096b4e0f502db36fe52cafde1cf8d22bbddf82cd8c75067a0d59e",
+        "mime": "data:image/png",
+        "dataURLSha256": "27197edfda7d5bc74838ff6dbab3838decf9cf19d19a2e0d8140b6c3e55efbf4"
+      },
+      "assets/growth/pedoman_288.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "9386e889b2de25f5f9c88e0d1df5b631fe6233229ecd310afd34768f6e6c6dca",
+        "mime": "data:image/png",
+        "dataURLSha256": "d2ed2208634acaa5779a52623133ff96fd5619701ec20bb0efff9f3cb3172e24"
+      },
+      "assets/growth/pedoman_289.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "e6b2b1dd3334ee76a32146c3470a248bafd2411acb7c91c17b1e6c91dd1edf10",
+        "mime": "data:image/png",
+        "dataURLSha256": "0620d866c6ae60d3ff86662fcc86508199831e2748427fff8eacc7d9a97053e8"
+      },
+      "assets/growth/pedoman_290.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "083e209cbc77aabfdfd1959a52e1980ee47d9cafb8716592c5d1cba969e27aab",
+        "mime": "data:image/png",
+        "dataURLSha256": "c47995405d3f9fe8a5c2011e67faf8494154c2ee7af22f24cd5d19cfae7be0a3"
+      },
+      "assets/growth/pedoman_291.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "af06d60dfbcd94d6ff603da0cca72baa95caf4924f207d51d7f4b35e4301075c",
+        "mime": "data:image/png",
+        "dataURLSha256": "2063caaa658496b4995fdeb297f5f5ee2a2bf0fa126e99a1bb549d585af72a0d"
+      },
+      "assets/growth/pedoman_292.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "fa452bbef48691b1524e1191c45dab08aa61ca1dc34be1094714e1e1ae3c5443",
+        "mime": "data:image/png",
+        "dataURLSha256": "b654274206602294c3a80cac0e8a0508d99ac3e141fb4fd6031ef43a4edd67c0"
+      },
+      "assets/growth/pedoman_293.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "cc1a6ef8a0d9a312f2cee951dce86084835fa8eeaf297ecbc6619a0f0ba78b29",
+        "mime": "data:image/png",
+        "dataURLSha256": "8316d6c572b142eb1014ae6849aef7e7a14c32ee58fdef5b102d30c058c019fb"
+      },
+      "assets/growth/pedoman_294.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "e216fd11bd43aab3c7f22ed37bd48148a54ffc679ee87c176cbf92cca4606631",
+        "mime": "data:image/png",
+        "dataURLSha256": "72fc7aab30ef02047a32b02e85b60c2264ba820cd6080a389be6b642bedcbd7f"
+      }
+    },
+    "compact": {
+      "assets/growth/gpa_10_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "5b9da81f2155be3e9e7ad350637af283de1a5555365537d82540bf3aabf166a2",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "60327ae7ceae8030fe0f9cac1794b21dd321252798d0701b05bf7e6fb178a1af"
+      },
+      "assets/growth/gpa_04_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "e0c1d16ee82c744248b3d73b3da87c76566d80354e7895989ff0a3d61a1fbf90",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "581fe7480ad773a4984dff0a62a680f9efb7d5d485f954c70a796dcc47343a86"
+      },
+      "assets/growth/gpa_21_0.jpg": {
+        "width": 3263,
+        "height": 2192,
+        "sha256": "9e39de5a49c32df545983c2ff3fb75b1614605183cc5965cec2e77bd5edc5294",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "8b65a3432211873ececacbe68c0f3c62cc8d12f63080ae4a2d5e69f127e8edef"
+      },
+      "assets/growth/gpa_19_0.jpg": {
+        "width": 3296,
+        "height": 2325,
+        "sha256": "69f6447aa0023dee0708a5f656ce60127c4d5103fbc643bfdb6671d8cb1a425f",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "609d55f8579d1675693b6bc36766cef7e6877fe32a60bba9f657b7393ace385f"
+      },
+      "assets/growth/gpa_03_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "a76666499db425ce20b0fc84c53c9283bcfbab2942f9bbbd82f68354bbd0365f",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "63ee292d9df1438f27e19884f29dd3573020bf9a919f037f50e9ef9120e7be50"
+      },
+      "assets/growth/gpa_14_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "fae4d052a09a69180dccc038c025e192a8abe66772db120077ee9c46dac283fe",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "9c92d6394e944cb144d9b9fbeda66ffa8d9a09b2805a7717dce23df08e7d4920"
+      },
+      "assets/growth/gpa_20_0.jpg": {
+        "width": 3263,
+        "height": 2192,
+        "sha256": "ac6fa1b4bed1ac7ea12106cd9d84e7a866dd7b87cc8e68357d1256fdae06e869",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "6bed7a90c31afe37f9f504e9fbdbfb61b2b444fc36ec247df54f3de830312e67"
+      },
+      "assets/growth/gpa_15_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "0f86f5c4f2a3e312a883aa203bbe3da30ee7509f8f1df452932861504cfd9aa4",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "e0527a15c9d75b9beb1314f4a33dc68eb5389956183d29527b3cd0a9eb2c5271"
+      },
+      "assets/growth/gpa_13_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "8f7a03c8d794b219ab923a862d0d642e366ca394c3f81858898ba76ef984b3d4",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "7273bc8c47b9e3ae52f045fe97d8e42e846604db348c2a75ff54e323ad5c70e1"
+      },
+      "assets/growth/pedoman_294.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "e216fd11bd43aab3c7f22ed37bd48148a54ffc679ee87c176cbf92cca4606631",
+        "mime": "data:image/png",
+        "dataURLSha256": "72fc7aab30ef02047a32b02e85b60c2264ba820cd6080a389be6b642bedcbd7f"
+      },
+      "assets/growth/pedoman_292.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "fa452bbef48691b1524e1191c45dab08aa61ca1dc34be1094714e1e1ae3c5443",
+        "mime": "data:image/png",
+        "dataURLSha256": "b654274206602294c3a80cac0e8a0508d99ac3e141fb4fd6031ef43a4edd67c0"
+      },
+      "assets/growth/pedoman_286.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "8bc6a738f5a87a26a0d41fee21f9f217b2941e16b62b03555c2aa31f588ce44c",
+        "mime": "data:image/png",
+        "dataURLSha256": "846e363a423084cead629a409f998d46c7da633c0154540fb23a41c39b31b91c"
+      },
+      "assets/growth/pedoman_287.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "a53adb76d89096b4e0f502db36fe52cafde1cf8d22bbddf82cd8c75067a0d59e",
+        "mime": "data:image/png",
+        "dataURLSha256": "27197edfda7d5bc74838ff6dbab3838decf9cf19d19a2e0d8140b6c3e55efbf4"
+      },
+      "assets/growth/pedoman_291.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "af06d60dfbcd94d6ff603da0cca72baa95caf4924f207d51d7f4b35e4301075c",
+        "mime": "data:image/png",
+        "dataURLSha256": "2063caaa658496b4995fdeb297f5f5ee2a2bf0fa126e99a1bb549d585af72a0d"
+      },
+      "assets/growth/pedoman_253.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "aa19a29a9d5b6e87308939d01822fa886cc7b7d4421826945ae64323de404da4",
+        "mime": "data:image/png",
+        "dataURLSha256": "dab92ddb4ca150718fdbfb1fb3b05301a29264d852181b283d04c4eb1d51244d"
+      },
+      "assets/growth/pedoman_252.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "d3d132427e833322d42b77f3af2f1e3a13bdfb434f14c37231c0a24f53818bec",
+        "mime": "data:image/png",
+        "dataURLSha256": "180aed95258e73f25b55c95651fa5c7159c0908eb8c982d41a18f08e258f41d5"
+      },
+      "assets/growth/pedoman_251.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "82a554a2ae6910a7b03c13967b3713dabf16254d69d5c315c24e8325570ee6e4",
+        "mime": "data:image/png",
+        "dataURLSha256": "4096805c19a9e3ce7d86d303064d4378164072e444e8d7ca00902f2fd616cf29"
+      },
+      "assets/growth/pedoman_250.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "4664e537500c7179088e7e44577c955c313e715c44ebbd799204fc6d1c68495f",
+        "mime": "data:image/png",
+        "dataURLSha256": "1b4aaf79fab74be36837bb68ef474f2f1fd77e1a25779a0c3f7891dd9700714e"
+      },
+      "assets/growth/pedoman_281.png": {
+        "width": 1032,
+        "height": 1458,
+        "sha256": "d414294ac5f6b583023e61945598fda14abc8baa0e4d2487868f87e79c619ac5",
+        "mime": "data:image/png",
+        "dataURLSha256": "4d4d9e6021a30a53f31ecc43356c9b3c653b438645065139db1745c712b93049"
+      },
+      "assets/growth/pedoman_259.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "6216bf4aa0fc55e32959d297eac545c0c7f163520c095872627e51e8655e608f",
+        "mime": "data:image/png",
+        "dataURLSha256": "7a25dc3d5507327dc3163dab7457d295f879b3db50f4bacb11ab2cd0a7d66d31"
+      },
+      "assets/growth/gpa_25.png": {
+        "width": 1780,
+        "height": 1256,
+        "sha256": "08138d7f510bdd65b6ab5cc3c280968793dbb0bfccc25a205d8d25c66443ffe1",
+        "mime": "data:image/png",
+        "dataURLSha256": "036467895ee0fa49855c8d9a0bdd46490b570dc61aa5dfaedb932df1da715899"
+      },
+      "assets/growth/gpa_29.png": {
+        "width": 1780,
+        "height": 1256,
+        "sha256": "daa99a925a66c6e45dcce9cbe3c74b1e73be7e7b20ca7962aefc4cfbf0bb6ea5",
+        "mime": "data:image/png",
+        "dataURLSha256": "32ee3564d6d841405b8643dbc674d2c2f753969867dce4e1aea467b3e68abb79"
+      },
+      "assets/growth/pedoman_257.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "beefa2cdb378fac8038edde001dbc0567ebfad6fd311d4526093cba753bf11e7",
+        "mime": "data:image/png",
+        "dataURLSha256": "6dcc225c49651e3cecb787d6b2dd024ff5af4ce11dbcea4aef5cd9ab635510ce"
+      },
+      "assets/growth/gpa_27.png": {
+        "width": 1780,
+        "height": 1256,
+        "sha256": "1fd4c78807f30fcee9520f9b2f7695ea54614d3ed3c230f426cad8e7347a4702",
+        "mime": "data:image/png",
+        "dataURLSha256": "4264ae277f5b9bf73599dd5e8aba9ed019576cf8e041f6217cfa9e9510a716cb"
+      },
+      "assets/growth/pedoman_256.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "e15f9c0078a62d75a585206a034a88aeb63bf20a76e5e6e3826e5681e3a42529",
+        "mime": "data:image/png",
+        "dataURLSha256": "fe81433153e303bec3290424bc070ec420312f145f250d96625e30efd9908ccb"
+      },
+      "assets/growth/gpa_24.png": {
+        "width": 1780,
+        "height": 1256,
+        "sha256": "878098757b7949ffd4133830a413ab621e4551eba6a325d4ff5e6a7688dcfa4e",
+        "mime": "data:image/png",
+        "dataURLSha256": "12e1f163a3d38d874482d0aad23854c5c03d992cb65ccf1d5ab0d6d9f1b43151"
+      },
+      "assets/growth/pedoman_245.png": {
+        "width": 787,
+        "height": 1085,
+        "sha256": "e4cdc5937c6691ea7e874495e55e5df5d2a5eebab0d23ee90e54a3d3caade66f",
+        "mime": "data:image/png",
+        "dataURLSha256": "9d5c72942f71476566051e089e292eb88589c374bbc805e6e71bba30b0cdd07b"
+      },
+      "assets/growth/pedoman_119.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "a2b49042eda523d3b754a5f13a0e7a789ed07d4acedd300fa065c63b592249b4",
+        "mime": "data:image/png",
+        "dataURLSha256": "01a05831bd489feb4a730a47e4e71e01e4a895b03d568408c1a2cc69da505ff2"
+      },
+      "assets/growth/pedoman_111.png": {
+        "width": 1085,
+        "height": 787,
+        "sha256": "461527c4949c7ec66245e59a4f5629f08033dbdfa5eea65a51004203a3333f8a",
+        "mime": "data:image/png",
+        "dataURLSha256": "d55f033e0ed6aef00dfe3210f586a75fb82afba2f989632fdc7c7ae7e13f5006"
+      },
+      "assets/growth/pedoman_244.png": {
+        "width": 787,
+        "height": 1085,
+        "sha256": "6cc403899d7a416105a39ba84a70a1649015633e66c21307e22c53253ae86fb4",
+        "mime": "data:image/png",
+        "dataURLSha256": "27bb310a925c76e46de6cb3b7ebb0408edd3c83f7518c3618cd20b2c8bf9955e"
+      },
+      "assets/growth/pedoman_118.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "21dfada63315a38692f20dda6c2dd66dfeb949fd8f0f9954046e93cfa1dbb446",
+        "mime": "data:image/png",
+        "dataURLSha256": "9bd18adf1015d82f1cf6eac88ac1d7f9cb3ae103d38d0dd4955df55f103d60dc"
+      },
+      "assets/growth/pedoman_242.png": {
+        "width": 787,
+        "height": 1085,
+        "sha256": "36522305fba57913c8ffa3a00c344d7ab7cb1bf1e916dbb8c011eddf9dbf528c",
+        "mime": "data:image/png",
+        "dataURLSha256": "12e5e3385e4fbda4a03026272c2fb45069cfa7ffe5248c40a5253d6a8e9fdfe8"
+      },
+      "assets/growth/pedoman_241.png": {
+        "width": 787,
+        "height": 1085,
+        "sha256": "c2e7dd146239b5f90c1157ee14aaa70b5801d8f9d8f5476e4f99d5957283d119",
+        "mime": "data:image/png",
+        "dataURLSha256": "ed2053d8a337fe80a85985f41650e1ba320786ac02060a33d6a2c3d028e4cd33"
+      },
+      "assets/growth/pedoman_113.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "4d95f072d64c79790a07a3699c0145113b90a7cd8ffec0fac53046067f063068",
+        "mime": "data:image/png",
+        "dataURLSha256": "9b2750ee5e8a4dfac42b6d7a56bb28b41407aef9a2b60057c8d9c592ed23450a"
+      },
+      "assets/growth/gpa_08_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "2a32f59b5ba6fedb9e87ec80fe70e24cd472891c3fb46864603026a5f166518c",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "96d497a32bcaf4bb2469dba1fcb45a5672556944c05ab8c9744e33db8559ec2a"
+      },
+      "assets/growth/gpa_22_0.jpg": {
+        "width": 3296,
+        "height": 2325,
+        "sha256": "432b73bf3fc6d938707be84d0f5e22c9bd9d8358670068d05689b9e95c3785d1",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "86437d6cb9af0f34dcc9c0c8229d3d2728ec2dafda59cb9273e18581def3a280"
+      },
+      "assets/growth/gpa_05_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "3ca25d11f06ad862c6df26204d395a6c8cb1a054b024aeabc6819affaca2e0cb",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "6ebd7c7039d2c9696b6007069a8932af949b273b5579888729e757eef493d45b"
+      },
+      "assets/growth/gpa_09_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "2de5ac29a3d25f4712eb9ba99031c27c1c6ae23737c3d19a0e5a461c9d30b84d",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "3bd59a5d9f62c8c78b1e99381561029ec02ac4d6e06f615f04746e4d89942ac5"
+      },
+      "assets/growth/gpa_32_0.png": {
+        "width": 740,
+        "height": 950,
+        "sha256": "eb708e67e460117f6148816c88666fef44be8c0430ba8aca3b8f6a3325b0197d",
+        "mime": "data:image/png",
+        "dataURLSha256": "eb5a7d44b3cb71d64c8c2c1899013950c2e83e3de1971fdd14722f2aea20be94"
+      },
+      "assets/growth/gpa_18_0.jpg": {
+        "width": 3263,
+        "height": 2192,
+        "sha256": "f52c2a8d3e235a4b1903ffff1e2a343a33ca6af32777075cc239b76b9cdf8186",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "f1aa539d2ef07fb4eba123731fa2799fc2bdf0a1793d069fe6350100030fb152"
+      },
+      "assets/growth/gpa_07_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "f564e8c3333d0b0e51ddefaf63a3d463efb6930a556f5705611d071fe5ea8ea8",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "c3496cf507ab926d89fd4a5a0bb71cdea95d0bd60bdc51b74d4c1087ab5f08b2"
+      },
+      "assets/growth/gpa_12_0.jpg": {
+        "width": 3508,
+        "height": 2480,
+        "sha256": "4a181533170aa34c04c944d1c01dc46f455e23991eb75760e94351071c22f1fc",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "e31707796c09dc7ab581486d441bbe0268a833fb5f5548714bf2505083de9d99"
+      },
+      "assets/growth/gpa_17_0.jpg": {
+        "width": 3263,
+        "height": 2192,
+        "sha256": "b0493b29187401c5c432e762b10b94a2e1bf8894817d3a0dc2322fdeb00781c7",
+        "mime": "data:image/jpeg",
+        "dataURLSha256": "df679a665cee4e8bf634879e4c20cfba6e65bf9371cf2e70c8dc2c7bc69dfa6f"
+      },
+      "assets/growth/gpa_31_0.png": {
+        "width": 742,
+        "height": 960,
+        "sha256": "5fe1ef543fa52d05efe0ed8584d6175d845f7754aa62e0986eb67d1e10966ffd",
+        "mime": "data:image/png",
+        "dataURLSha256": "0aeba873a43dae6a519e85365db73f9f37e995852edb1eccfbca1a9feb20d1b5"
+      },
+      "assets/growth/pedoman_288.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "9386e889b2de25f5f9c88e0d1df5b631fe6233229ecd310afd34768f6e6c6dca",
+        "mime": "data:image/png",
+        "dataURLSha256": "d2ed2208634acaa5779a52623133ff96fd5619701ec20bb0efff9f3cb3172e24"
+      },
+      "assets/growth/pedoman_289.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "e6b2b1dd3334ee76a32146c3470a248bafd2411acb7c91c17b1e6c91dd1edf10",
+        "mime": "data:image/png",
+        "dataURLSha256": "0620d866c6ae60d3ff86662fcc86508199831e2748427fff8eacc7d9a97053e8"
+      },
+      "assets/growth/pedoman_290.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "083e209cbc77aabfdfd1959a52e1980ee47d9cafb8716592c5d1cba969e27aab",
+        "mime": "data:image/png",
+        "dataURLSha256": "c47995405d3f9fe8a5c2011e67faf8494154c2ee7af22f24cd5d19cfae7be0a3"
+      },
+      "assets/growth/pedoman_293.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "cc1a6ef8a0d9a312f2cee951dce86084835fa8eeaf297ecbc6619a0f0ba78b29",
+        "mime": "data:image/png",
+        "dataURLSha256": "8316d6c572b142eb1014ae6849aef7e7a14c32ee58fdef5b102d30c058c019fb"
+      },
+      "assets/growth/pedoman_254.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "36fe94d7ad9a963d51ab75f0834a49aa8649bfa04f7665a293eb276c245551f7",
+        "mime": "data:image/png",
+        "dataURLSha256": "af26e3be2b8b7179b88734b7539bd19e2ef0474b9234cb629c3be4b1e83564ba"
+      },
+      "assets/growth/pedoman_249.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "b498ca0c1ffa68afca7b98df7747aebdf2f1f788201bcf5af9cc4176786e13ee",
+        "mime": "data:image/png",
+        "dataURLSha256": "f457563ff76c1a72c9bde7a0106db8c68fcfdae464dd7c14b976a44a4ce1ed43"
+      },
+      "assets/growth/pedoman_247.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "0c1da1b3ec8ad79b25a8aa1109de497e8d48abf0a323415355d05e3da6e6e87a",
+        "mime": "data:image/png",
+        "dataURLSha256": "61e47fc7786e9d32b01f218e394673ac1b0294569dc0264e25492e5047e5b3e6"
+      },
+      "assets/growth/pedoman_248.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "c57ebd6da4438897576426d26d05b5f28222001bad1c22ba16888db4c7c96ce0",
+        "mime": "data:image/png",
+        "dataURLSha256": "e6095bc36ce2681ff3e4632a207d6889faeed6b6b7dab334c3dd7313d0945a16"
+      },
+      "assets/growth/gpa_28.png": {
+        "width": 1780,
+        "height": 1256,
+        "sha256": "156c9b840f6cea8641a2ab5f8eb3bfb5657c5f72f3feda78cdd9ccb7d70b9f75",
+        "mime": "data:image/png",
+        "dataURLSha256": "0c0f58614951488b96613334bf29db5cd2b40bbc07834668381ba1248e006b9f"
+      },
+      "assets/growth/pedoman_109.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "6f60170b686b78a642b998688072d864dd0c5cfb43d294898182e3c2ff812de2",
+        "mime": "data:image/png",
+        "dataURLSha256": "3d0ba9d262f6f450322f35094c5ec8a6e69543a348c348acf563751b3a544d06"
+      },
+      "assets/growth/gpa_26.png": {
+        "width": 1780,
+        "height": 1256,
+        "sha256": "1811ed6f8322873f238848b408f423c285070c7190743f481c7a55cad1d5e226",
+        "mime": "data:image/png",
+        "dataURLSha256": "3ee9cab015c7a2a381eea5c3236d970e5935a240031a6bde86e2563f03f9af38"
+      },
+      "assets/growth/pedoman_255.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "4b7e62685c615936007139fc1e1945fa9397a27aa5d108f8078efbe37431a103",
+        "mime": "data:image/png",
+        "dataURLSha256": "108b624cc318066ae8ca2673b475932f2b028a2cf5bacd29481c8f47d55a9683"
+      },
+      "assets/growth/pedoman_261.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "7d037ed2c665e81a48dd57ffb036e9ae346c6562b2f211bfe1acedd52ae07655",
+        "mime": "data:image/png",
+        "dataURLSha256": "492c4b906f7df5d7b888eff5b10d129b17947ef42c55dbdd3754259b7dec6fad"
+      },
+      "assets/growth/pedoman_260.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "38aec56273d84545248d7234cd9ccd7a4c3906566da41f7410dcfb886180b55b",
+        "mime": "data:image/png",
+        "dataURLSha256": "95217fdf9af43866f0fa5aeece85ac6824e4f17d4636044dfa97b3ccff4ca4c6"
+      },
+      "assets/growth/pedoman_258.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "b8ff98eab37ccfebed30b5be77593c9487a4f37cf4f7ad7dd79c89b3473e7928",
+        "mime": "data:image/png",
+        "dataURLSha256": "561a20a3df3fd7c966a5d8a8b461589b77544baf62d8cde94463d5e7bccb38ce"
+      },
+      "assets/growth/pedoman_262.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "5fb7929f85da7219c858c1db2f6ec84c6a4a775e5b088cbae321624ed4f75c68",
+        "mime": "data:image/png",
+        "dataURLSha256": "b33aa87805c0392cf101dd9fc57b3203c8ed4d17da0f456812f0af94fe554d34"
+      },
+      "assets/growth/pedoman_112.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "eba60a52af068d169788d55aa59a9387dd1dceac4122aaf499187dd94efe3943",
+        "mime": "data:image/png",
+        "dataURLSha256": "b15074e83b02b52a739408c4738df8a455afc2ace7a096f059264acac01ad2ca"
+      },
+      "assets/growth/pedoman_027.png": {
+        "width": 787,
+        "height": 1085,
+        "sha256": "56867b3b16e4187948b247949bb9efdaf9b0ce4e5f08975e8b58db8a0382f2d0",
+        "mime": "data:image/png",
+        "dataURLSha256": "e626e63f9527c740a4d493830482bbc3a346d399f9459c25b884898ad2e4ad0c"
+      },
+      "assets/growth/pedoman_246.png": {
+        "width": 787,
+        "height": 1085,
+        "sha256": "c01fd53c3e5ff8015733b671a9d5516bdad382e1c614281fb3e1fb30990ba2c9",
+        "mime": "data:image/png",
+        "dataURLSha256": "e3a15a0e4d4b82e5b20c7c7dd6e24be06b778326d7489148a31a56a21fac36da"
+      },
+      "assets/growth/pedoman_115.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "4d65558c051da6afa02abc583dd7ef74161a754621b4f3068f8db0f6dfe33001",
+        "mime": "data:image/png",
+        "dataURLSha256": "e90648661b3cea1721804e45a49bf7116117f9415d68295f015c6cac03ce00cc"
+      },
+      "assets/growth/pedoman_116.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "6674d8bf97849f660d021671a3b33e70fce76f58c700889fe190eedc1ee3070d",
+        "mime": "data:image/png",
+        "dataURLSha256": "117c8e6039b797958e391a6b1c3f76c61285fce18a809fba0f783ac73ccc25e2"
+      },
+      "assets/growth/pedoman_243.png": {
+        "width": 787,
+        "height": 1085,
+        "sha256": "fa389639fe010437405c105d44d71bad4c2a3c8b0dc36af3e43e8b2f7d252100",
+        "mime": "data:image/png",
+        "dataURLSha256": "84a4ed01946b717fdb49655f4e47c88c5ea03e373b483f3d905e0c2cdc85b418"
+      },
+      "assets/growth/pedoman_114.png": {
+        "width": 774,
+        "height": 1093,
+        "sha256": "40913407db472b31b595c556287c87649efbc90a6840f073abfd1987253f793a",
+        "mime": "data:image/png",
+        "dataURLSha256": "aecad0bff809d5d0c05bad72852985c29458b5bc9cd4cfd02d5efa2aa0320ec8"
+      }
+    }
+  },
+  "exports": [
+    {
+      "id": "bbu",
+      "ext": "docx",
+      "bytes": 884112,
+      "path": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/qa/Kompresi_bbu.docx"
+    },
+    {
+      "id": "bbu",
+      "ext": "pdf",
+      "bytes": 896886,
+      "path": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/qa/Kompresi_bbu.pdf"
+    },
+    {
+      "id": "weightIncrement",
+      "ext": "docx",
+      "bytes": 284233,
+      "path": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/qa/Kompresi_weightIncrement.docx"
+    },
+    {
+      "id": "weightIncrement",
+      "ext": "pdf",
+      "bytes": 294954,
+      "path": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/qa/Kompresi_weightIncrement.pdf"
+    },
+    {
+      "id": "fenton",
+      "ext": "docx",
+      "bytes": 927251,
+      "path": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/qa/Kompresi_fenton.docx"
+    },
+    {
+      "id": "fenton",
+      "ext": "pdf",
+      "bytes": 662568,
+      "path": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/qa/Kompresi_fenton.pdf"
+    },
+    {
+      "id": "lku",
+      "ext": "docx",
+      "bytes": 255860,
+      "path": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/qa/Kompresi_lku.docx"
+    },
+    {
+      "id": "lku",
+      "ext": "pdf",
+      "bytes": 266420,
+      "path": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/qa/Kompresi_lku.pdf"
+    },
+    {
+      "id": "Gabungan_Indeks",
+      "ext": "docx",
+      "bytes": 1110040,
+      "path": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/qa/Kompresi_Gabungan_Indeks.docx"
+    },
+    {
+      "id": "Gabungan_Indeks",
+      "ext": "pdf",
+      "bytes": 1113605,
+      "path": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/work/tumbuh_kembang_20261119_compact/qa/Kompresi_Gabungan_Indeks.pdf"
+    }
+  ],
+  "errors": [],
+  "network": [],
+  "graphBranches": {
+    "calls": 2080,
+    "missing": [],
+    "used": [
+      "assets/growth/gpa_09_0.jpg",
+      "assets/growth/gpa_10_0.jpg",
+      "assets/growth/gpa_07_0.jpg",
+      "assets/growth/gpa_08_0.jpg",
+      "assets/growth/gpa_14_0.jpg",
+      "assets/growth/gpa_15_0.jpg",
+      "assets/growth/gpa_12_0.jpg",
+      "assets/growth/gpa_13_0.jpg",
+      "assets/growth/gpa_04_0.jpg",
+      "assets/growth/gpa_05_0.jpg",
+      "assets/growth/pedoman_292.png",
+      "assets/growth/gpa_03_0.jpg",
+      "assets/growth/gpa_20_0.jpg",
+      "assets/growth/gpa_21_0.jpg",
+      "assets/growth/gpa_22_0.jpg",
+      "assets/growth/gpa_17_0.jpg",
+      "assets/growth/gpa_18_0.jpg",
+      "assets/growth/gpa_19_0.jpg",
+      "assets/growth/pedoman_118.png",
+      "assets/growth/gpa_27.png",
+      "assets/growth/gpa_28.png",
+      "assets/growth/gpa_29.png",
+      "assets/growth/gpa_24.png",
+      "assets/growth/gpa_25.png",
+      "assets/growth/gpa_26.png",
+      "assets/growth/pedoman_245.png",
+      "assets/growth/pedoman_246.png",
+      "assets/growth/pedoman_247.png",
+      "assets/growth/pedoman_248.png",
+      "assets/growth/pedoman_249.png",
+      "assets/growth/pedoman_250.png",
+      "assets/growth/pedoman_251.png",
+      "assets/growth/pedoman_252.png",
+      "assets/growth/pedoman_253.png",
+      "assets/growth/pedoman_254.png",
+      "assets/growth/pedoman_255.png",
+      "assets/growth/pedoman_256.png",
+      "assets/growth/pedoman_257.png",
+      "assets/growth/pedoman_258.png",
+      "assets/growth/pedoman_259.png",
+      "assets/growth/pedoman_260.png",
+      "assets/growth/pedoman_261.png",
+      "assets/growth/pedoman_262.png",
+      "assets/growth/gpa_31_0.png",
+      "assets/growth/gpa_32_0.png"
+    ]
+  },
+  "failed": []
+}

@@ -1,0 +1,374 @@
+{
+  "app": "/Users/tirtadarmawansusanto/.codex/.chatgpt-projects/g-p-6aa269d671408191b19ed07f0b126620/outputs/Paket_Aplikasi_Tumbuh_Kembang_Anak_Revisi_20261119",
+  "generatedAt": "2026-11-19T00:01:28.650Z",
+  "executed": true,
+  "checks": [
+    {
+      "id": "three_month_child_cannot_use_66_month_recheck",
+      "pass": true,
+      "detail": {
+        "evaluation": {
+          "accepted": false,
+          "error": "Formulir evaluasi ulang harus sesuai umur tanpa pembulatan atau terdekat yang lebih muda: KPSP umur 3 bulan."
+        },
+        "resultText": "Formulir evaluasi ulang harus sesuai umur tanpa pembulatan atau terdekat yang lebih muda: KPSP umur 3 bulan.",
+        "classification": "",
+        "heading": "",
+        "automaticScoreRows": 0
+      }
+    },
+    {
+      "id": "35_month_20_day_child_cannot_use_obsolete_3_month_recheck",
+      "pass": true,
+      "detail": {
+        "evaluation": {
+          "accepted": false,
+          "error": "Formulir evaluasi ulang harus sesuai umur tanpa pembulatan atau terdekat yang lebih muda: KPSP umur 30 bulan."
+        },
+        "resultText": "Formulir evaluasi ulang harus sesuai umur tanpa pembulatan atau terdekat yang lebih muda: KPSP umur 30 bulan.",
+        "classification": "",
+        "heading": "",
+        "automaticScoreRows": 0
+      }
+    },
+    {
+      "id": "ui_recheck_selects_nearest_unrounded_30_month_form",
+      "pass": true
+    },
+    {
+      "id": "ui_recheck_form_change_clears_answers",
+      "pass": true
+    },
+    {
+      "id": "35_month_20_day_context_uses_source35_and_rounded36",
+      "pass": true,
+      "detail": {
+        "source": 35,
+        "rounded": 36
+      }
+    },
+    {
+      "id": "valid_30_month_recheck_score_9_accepted",
+      "pass": true,
+      "detail": {
+        "evaluation": {
+          "accepted": true,
+          "classification": "Sesuai (S) pada formulir evaluasi ulang",
+          "score": 9,
+          "summary": "9 jawaban Ya: sesuai (S) pada formulir evaluasi ulang umur 30 bulan. Penilaian menggunakan formulir umur sekarang belum selesai.",
+          "advice": [
+            "Segera lanjutkan pemeriksaan menggunakan KPSP umur 36 bulan untuk menilai perkembangan sesuai umur sekarang.",
+            "Lanjutkan stimulasi perkembangan dan pemantauan menggunakan Buku KIA."
+          ]
+        },
+        "resultText": "Hasil penilaian\nSesuai (S) pada formulir evaluasi ulang\n\n9 jawaban Ya: sesuai (S) pada formulir evaluasi ulang umur 30 bulan. Penilaian menggunakan formulir umur sekarang belum selesai.\n\nSkor: 9 / 10\n\nKomponen\tHasil\nUsia acuan instrumen\t2 tahun 11 bulan 20 hari\nFormulir yang digunakan\tKPSP umur 30 bulan\nSkor\t9 / 10\nButir belum tercapai — Gerak kasar\t1\nButir belum tercapai — Gerak halus\t0\nButir belum tercapai — Bicara dan bahasa\t0\nButir belum tercapai — Sosialisasi dan kemandirian\t0\nTindak lanjut\nSegera lanjutkan pemeriksaan menggunakan KPSP umur 36 bulan untuk menilai perkembangan sesuai umur sekarang.\nLanjutkan stimulasi perkembangan dan pemantauan menggunakan Buku KIA.\nUnduh hasil DOCX\nUnduh hasil PDF\n\nBuku Pedoman SDIDTK revisi 23-08-2022, hlm. 131 (PDF 144).",
+        "classification": "Sesuai (S) pada formulir evaluasi ulang",
+        "heading": "Hasil penilaian",
+        "automaticScoreRows": 1
+      }
+    },
+    {
+      "id": "valid_recheck_score_9_requires_current_36_month_form",
+      "pass": true,
+      "detail": {
+        "evaluation": {
+          "accepted": true,
+          "classification": "Sesuai (S) pada formulir evaluasi ulang",
+          "score": 9,
+          "summary": "9 jawaban Ya: sesuai (S) pada formulir evaluasi ulang umur 30 bulan. Penilaian menggunakan formulir umur sekarang belum selesai.",
+          "advice": [
+            "Segera lanjutkan pemeriksaan menggunakan KPSP umur 36 bulan untuk menilai perkembangan sesuai umur sekarang.",
+            "Lanjutkan stimulasi perkembangan dan pemantauan menggunakan Buku KIA."
+          ]
+        },
+        "resultText": "Hasil penilaian\nSesuai (S) pada formulir evaluasi ulang\n\n9 jawaban Ya: sesuai (S) pada formulir evaluasi ulang umur 30 bulan. Penilaian menggunakan formulir umur sekarang belum selesai.\n\nSkor: 9 / 10\n\nKomponen\tHasil\nUsia acuan instrumen\t2 tahun 11 bulan 20 hari\nFormulir yang digunakan\tKPSP umur 30 bulan\nSkor\t9 / 10\nButir belum tercapai — Gerak kasar\t1\nButir belum tercapai — Gerak halus\t0\nButir belum tercapai — Bicara dan bahasa\t0\nButir belum tercapai — Sosialisasi dan kemandirian\t0\nTindak lanjut\nSegera lanjutkan pemeriksaan menggunakan KPSP umur 36 bulan untuk menilai perkembangan sesuai umur sekarang.\nLanjutkan stimulasi perkembangan dan pemantauan menggunakan Buku KIA.\nUnduh hasil DOCX\nUnduh hasil PDF\n\nBuku Pedoman SDIDTK revisi 23-08-2022, hlm. 131 (PDF 144).",
+        "classification": "Sesuai (S) pada formulir evaluasi ulang",
+        "heading": "Hasil penilaian",
+        "automaticScoreRows": 1
+      }
+    },
+    {
+      "id": "valid_30_month_recheck_score_10_accepted",
+      "pass": true,
+      "detail": {
+        "evaluation": {
+          "accepted": true,
+          "classification": "Sesuai (S) pada formulir evaluasi ulang",
+          "score": 10,
+          "summary": "10 jawaban Ya: sesuai (S) pada formulir evaluasi ulang umur 30 bulan. Penilaian menggunakan formulir umur sekarang belum selesai.",
+          "advice": [
+            "Segera lanjutkan pemeriksaan menggunakan KPSP umur 36 bulan untuk menilai perkembangan sesuai umur sekarang.",
+            "Lanjutkan stimulasi perkembangan dan pemantauan menggunakan Buku KIA."
+          ]
+        },
+        "resultText": "Hasil penilaian\nSesuai (S) pada formulir evaluasi ulang\n\n10 jawaban Ya: sesuai (S) pada formulir evaluasi ulang umur 30 bulan. Penilaian menggunakan formulir umur sekarang belum selesai.\n\nSkor: 10 / 10\n\nKomponen\tHasil\nUsia acuan instrumen\t2 tahun 11 bulan 20 hari\nFormulir yang digunakan\tKPSP umur 30 bulan\nSkor\t10 / 10\nButir belum tercapai — Gerak kasar\t0\nButir belum tercapai — Gerak halus\t0\nButir belum tercapai — Bicara dan bahasa\t0\nButir belum tercapai — Sosialisasi dan kemandirian\t0\nTindak lanjut\nSegera lanjutkan pemeriksaan menggunakan KPSP umur 36 bulan untuk menilai perkembangan sesuai umur sekarang.\nLanjutkan stimulasi perkembangan dan pemantauan menggunakan Buku KIA.\nUnduh hasil DOCX\nUnduh hasil PDF\n\nBuku Pedoman SDIDTK revisi 23-08-2022, hlm. 131 (PDF 144).",
+        "classification": "Sesuai (S) pada formulir evaluasi ulang",
+        "heading": "Hasil penilaian",
+        "automaticScoreRows": 1
+      }
+    },
+    {
+      "id": "valid_recheck_score_10_requires_current_36_month_form",
+      "pass": true,
+      "detail": {
+        "evaluation": {
+          "accepted": true,
+          "classification": "Sesuai (S) pada formulir evaluasi ulang",
+          "score": 10,
+          "summary": "10 jawaban Ya: sesuai (S) pada formulir evaluasi ulang umur 30 bulan. Penilaian menggunakan formulir umur sekarang belum selesai.",
+          "advice": [
+            "Segera lanjutkan pemeriksaan menggunakan KPSP umur 36 bulan untuk menilai perkembangan sesuai umur sekarang.",
+            "Lanjutkan stimulasi perkembangan dan pemantauan menggunakan Buku KIA."
+          ]
+        },
+        "resultText": "Hasil penilaian\nSesuai (S) pada formulir evaluasi ulang\n\n10 jawaban Ya: sesuai (S) pada formulir evaluasi ulang umur 30 bulan. Penilaian menggunakan formulir umur sekarang belum selesai.\n\nSkor: 10 / 10\n\nKomponen\tHasil\nUsia acuan instrumen\t2 tahun 11 bulan 20 hari\nFormulir yang digunakan\tKPSP umur 30 bulan\nSkor\t10 / 10\nButir belum tercapai — Gerak kasar\t0\nButir belum tercapai — Gerak halus\t0\nButir belum tercapai — Bicara dan bahasa\t0\nButir belum tercapai — Sosialisasi dan kemandirian\t0\nTindak lanjut\nSegera lanjutkan pemeriksaan menggunakan KPSP umur 36 bulan untuk menilai perkembangan sesuai umur sekarang.\nLanjutkan stimulasi perkembangan dan pemantauan menggunakan Buku KIA.\nUnduh hasil DOCX\nUnduh hasil PDF\n\nBuku Pedoman SDIDTK revisi 23-08-2022, hlm. 131 (PDF 144).",
+        "classification": "Sesuai (S) pada formulir evaluasi ulang",
+        "heading": "Hasil penilaian",
+        "automaticScoreRows": 1
+      }
+    },
+    {
+      "id": "72_month_all_yes_without_physician_record_remains_pending",
+      "pass": true,
+      "detail": {
+        "evaluation": {
+          "accepted": false,
+          "error": "Butir 3 KPSP 72 bulan belum memiliki penetapan pemeriksa yang lengkap. Skor total dan klasifikasi otomatis belum dapat ditetapkan."
+        },
+        "resultText": "Catatan pemeriksaan belum final\nPenilaian belum lengkap\n\nButir 3 KPSP 72 bulan belum memiliki penetapan pemeriksa yang lengkap. Skor total dan klasifikasi otomatis belum dapat ditetapkan.\n\nKomponen\tHasil\nUsia acuan instrumen\t6 tahun 0 bulan 0 hari\nFormulir yang digunakan\tKPSP umur 72 bulan\nSembilan butir lain: jumlah jawaban Ya\t9 / 9\nTindak lanjut\nLengkapi keempat jawaban anak, nama dan tanggal penetapan dokter, skor manual, kesimpulan, dasar penetapan, serta rencana tindak lanjut.\nUnduh catatan DOCX\nUnduh catatan PDF\n\nBuku Pedoman SDIDTK revisi 23-08-2022, hlm. 144, 145, 146 (PDF 157, 158, 159).",
+        "classification": "Penilaian belum lengkap",
+        "heading": "Catatan pemeriksaan belum final",
+        "automaticScoreRows": 0
+      }
+    },
+    {
+      "id": "72_month_pending_has_no_automatic_score_row",
+      "pass": true,
+      "detail": {
+        "evaluation": {
+          "accepted": false,
+          "error": "Butir 3 KPSP 72 bulan belum memiliki penetapan pemeriksa yang lengkap. Skor total dan klasifikasi otomatis belum dapat ditetapkan."
+        },
+        "resultText": "Catatan pemeriksaan belum final\nPenilaian belum lengkap\n\nButir 3 KPSP 72 bulan belum memiliki penetapan pemeriksa yang lengkap. Skor total dan klasifikasi otomatis belum dapat ditetapkan.\n\nKomponen\tHasil\nUsia acuan instrumen\t6 tahun 0 bulan 0 hari\nFormulir yang digunakan\tKPSP umur 72 bulan\nSembilan butir lain: jumlah jawaban Ya\t9 / 9\nTindak lanjut\nLengkapi keempat jawaban anak, nama dan tanggal penetapan dokter, skor manual, kesimpulan, dasar penetapan, serta rencana tindak lanjut.\nUnduh catatan DOCX\nUnduh catatan PDF\n\nBuku Pedoman SDIDTK revisi 23-08-2022, hlm. 144, 145, 146 (PDF 157, 158, 159).",
+        "classification": "Penilaian belum lengkap",
+        "heading": "Catatan pemeriksaan belum final",
+        "automaticScoreRows": 0
+      }
+    },
+    {
+      "id": "all_ten_form_specific_record_fields_rendered",
+      "pass": true,
+      "detail": [
+        {
+          "id": "analogy1Response",
+          "count": 1
+        },
+        {
+          "id": "analogy2Response",
+          "count": 1
+        },
+        {
+          "id": "analogy3Response",
+          "count": 1
+        },
+        {
+          "id": "analogy4Response",
+          "count": 1
+        },
+        {
+          "id": "manualExaminer",
+          "count": 1
+        },
+        {
+          "id": "manualReviewDate",
+          "count": 1
+        },
+        {
+          "id": "manualScore",
+          "count": 1
+        },
+        {
+          "id": "manualAssessment",
+          "count": 1
+        },
+        {
+          "id": "manualBasis",
+          "count": 1
+        },
+        {
+          "id": "manualPlan",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "id": "original_four_prompts_and_ketiga_are_preserved",
+      "pass": true
+    },
+    {
+      "id": "unresolved_item_option_rendered",
+      "pass": true
+    },
+    {
+      "id": "four_raw_observations_alone_cannot_finalize",
+      "pass": true,
+      "detail": {
+        "evaluation": {
+          "accepted": false,
+          "error": "Butir 3 KPSP 72 bulan belum memiliki penetapan pemeriksa yang lengkap. Skor total dan klasifikasi otomatis belum dapat ditetapkan."
+        },
+        "resultText": "Catatan pemeriksaan belum final\nPenilaian belum lengkap\n\nButir 3 KPSP 72 bulan belum memiliki penetapan pemeriksa yang lengkap. Skor total dan klasifikasi otomatis belum dapat ditetapkan.\n\nKomponen\tHasil\nUsia acuan instrumen\t6 tahun 0 bulan 0 hari\nFormulir yang digunakan\tKPSP umur 72 bulan\nSembilan butir lain: jumlah jawaban Ya\t9 / 9\nJawaban anak: jika kuda besar, maka tikus…\t“kecil” — catatan uji\nJawaban anak: jika api panas, maka es…\tdingin\nJawaban anak: jika ibu seorang wanita, maka ayah seorang…\tlaki-laki\nJawaban anak: jika pagi ada matahari, malam ada…\tbulan\nTindak lanjut\nLengkapi keempat jawaban anak, nama dan tanggal penetapan dokter, skor manual, kesimpulan, dasar penetapan, serta rencana tindak lanjut.\nUnduh catatan DOCX\nUnduh catatan PDF\n\nBuku Pedoman SDIDTK revisi 23-08-2022, hlm. 144, 145, 146 (PDF 157, 158, 159).",
+        "classification": "Penilaian belum lengkap",
+        "heading": "Catatan pemeriksaan belum final",
+        "automaticScoreRows": 0
+      }
+    },
+    {
+      "id": "draft_assembler_marks_document_pending",
+      "pass": true,
+      "detail": {
+        "title": "Catatan Pemeriksaan Belum Final — Kuesioner Pra Skrining Perkembangan (KPSP)",
+        "status": [
+          {
+            "label": "Status dokumen",
+            "value": "Catatan pemeriksaan belum final; bukan kesimpulan penilaian lengkap."
+          }
+        ]
+      }
+    },
+    {
+      "id": "draft_assembler_preserves_all_four_verbatim_observations",
+      "pass": true
+    },
+    {
+      "id": "draft_assembler_contains_unresolved_answer",
+      "pass": true
+    },
+    {
+      "id": "draft_assembler_has_no_automatic_final_score",
+      "pass": true
+    },
+    {
+      "id": "draft_assembler_keeps_original_source_images",
+      "pass": true,
+      "detail": [
+        {
+          "caption": "Buku Pedoman SDIDTK, hlm. 144 (PDF 157)",
+          "dataImage": true,
+          "length": 216866
+        },
+        {
+          "caption": "Buku Pedoman SDIDTK, hlm. 145 (PDF 158)",
+          "dataImage": true,
+          "length": 188942
+        },
+        {
+          "caption": "Buku Pedoman SDIDTK, hlm. 146 (PDF 159)",
+          "dataImage": true,
+          "length": 41930
+        }
+      ]
+    },
+    {
+      "id": "complete_physician_record_finalizes_as_manual_only",
+      "pass": true,
+      "detail": {
+        "evaluation": {
+          "accepted": true,
+          "classification": "Penetapan pemeriksa (manual)",
+          "manual": true,
+          "automaticScore": false,
+          "manualScore": 10,
+          "summary": "Hasil dicatat sebagai penetapan pemeriksa secara manual. Skor yang dicatat pemeriksa: 10 / 10. Kesimpulan pemeriksa: Kesimpulan pemeriksa untuk pengujian integrasi.",
+          "advice": [
+            "Rencana tindak lanjut pemeriksa untuk pengujian integrasi."
+          ]
+        },
+        "resultText": "Hasil penilaian\nPenetapan pemeriksa (manual)\n\nHasil dicatat sebagai penetapan pemeriksa secara manual. Skor yang dicatat pemeriksa: 10 / 10. Kesimpulan pemeriksa: Kesimpulan pemeriksa untuk pengujian integrasi.\n\nKomponen\tHasil\nUsia acuan instrumen\t6 tahun 0 bulan 0 hari\nFormulir yang digunakan\tKPSP umur 72 bulan\nStatus penilaian\tPenetapan pemeriksa secara manual; bukan skor otomatis yang telah divalidasi terhadap kriteria butir 3.\nSembilan butir lain: jumlah jawaban Ya\t9 / 9\nJawaban anak: jika kuda besar, maka tikus…\t“kecil” — catatan uji\nJawaban anak: jika api panas, maka es…\tdingin\nJawaban anak: jika ibu seorang wanita, maka ayah seorang…\tlaki-laki\nJawaban anak: jika pagi ada matahari, malam ada…\tbulan\nNama dokter yang menetapkan hasil secara manual\tDokter Uji Integrasi\nTanggal penetapan pemeriksa\t2026-11-19\nSkor total yang dicatat pemeriksa secara manual (0–10)\t10\nKesimpulan penilaian pemeriksa\tKesimpulan pemeriksa untuk pengujian integrasi.\nDasar penetapan pemeriksa dan petunjuk kriteria yang digunakan\tCatatan dasar penetapan pemeriksa untuk pengujian integrasi.\nRencana tindak lanjut yang ditetapkan pemeriksa\tRencana tindak lanjut pemeriksa untuk pengujian integrasi.\nTindak lanjut\nRencana tindak lanjut pemeriksa untuk pengujian integrasi.\nUnduh hasil DOCX\nUnduh hasil PDF\n\nBuku Pedoman SDIDTK revisi 23-08-2022, hlm. 144, 145, 146 (PDF 157, 158, 159).",
+        "classification": "Penetapan pemeriksa (manual)",
+        "heading": "Hasil penilaian",
+        "automaticScoreRows": 0
+      }
+    },
+    {
+      "id": "manual_score_is_recorded_without_automatic_score",
+      "pass": true,
+      "detail": {
+        "evaluation": {
+          "accepted": true,
+          "classification": "Penetapan pemeriksa (manual)",
+          "manual": true,
+          "automaticScore": false,
+          "manualScore": 10,
+          "summary": "Hasil dicatat sebagai penetapan pemeriksa secara manual. Skor yang dicatat pemeriksa: 10 / 10. Kesimpulan pemeriksa: Kesimpulan pemeriksa untuk pengujian integrasi.",
+          "advice": [
+            "Rencana tindak lanjut pemeriksa untuk pengujian integrasi."
+          ]
+        },
+        "resultText": "Hasil penilaian\nPenetapan pemeriksa (manual)\n\nHasil dicatat sebagai penetapan pemeriksa secara manual. Skor yang dicatat pemeriksa: 10 / 10. Kesimpulan pemeriksa: Kesimpulan pemeriksa untuk pengujian integrasi.\n\nKomponen\tHasil\nUsia acuan instrumen\t6 tahun 0 bulan 0 hari\nFormulir yang digunakan\tKPSP umur 72 bulan\nStatus penilaian\tPenetapan pemeriksa secara manual; bukan skor otomatis yang telah divalidasi terhadap kriteria butir 3.\nSembilan butir lain: jumlah jawaban Ya\t9 / 9\nJawaban anak: jika kuda besar, maka tikus…\t“kecil” — catatan uji\nJawaban anak: jika api panas, maka es…\tdingin\nJawaban anak: jika ibu seorang wanita, maka ayah seorang…\tlaki-laki\nJawaban anak: jika pagi ada matahari, malam ada…\tbulan\nNama dokter yang menetapkan hasil secara manual\tDokter Uji Integrasi\nTanggal penetapan pemeriksa\t2026-11-19\nSkor total yang dicatat pemeriksa secara manual (0–10)\t10\nKesimpulan penilaian pemeriksa\tKesimpulan pemeriksa untuk pengujian integrasi.\nDasar penetapan pemeriksa dan petunjuk kriteria yang digunakan\tCatatan dasar penetapan pemeriksa untuk pengujian integrasi.\nRencana tindak lanjut yang ditetapkan pemeriksa\tRencana tindak lanjut pemeriksa untuk pengujian integrasi.\nTindak lanjut\nRencana tindak lanjut pemeriksa untuk pengujian integrasi.\nUnduh hasil DOCX\nUnduh hasil PDF\n\nBuku Pedoman SDIDTK revisi 23-08-2022, hlm. 144, 145, 146 (PDF 157, 158, 159).",
+        "classification": "Penetapan pemeriksa (manual)",
+        "heading": "Hasil penilaian",
+        "automaticScoreRows": 0
+      }
+    },
+    {
+      "id": "manual_plan_and_assessment_visible",
+      "pass": true
+    },
+    {
+      "id": "downloaded_json_preserves_all_ten_manual_fields",
+      "pass": true
+    },
+    {
+      "id": "downloaded_json_preserves_unresolved_answer",
+      "pass": true
+    },
+    {
+      "id": "json_restore_preserves_all_manual_fields",
+      "pass": true
+    },
+    {
+      "id": "json_restore_renders_each_manual_field_value",
+      "pass": true
+    },
+    {
+      "id": "restored_record_still_classified_manual_only",
+      "pass": true,
+      "detail": {
+        "evaluation": {
+          "accepted": true,
+          "classification": "Penetapan pemeriksa (manual)",
+          "manual": true,
+          "automaticScore": false,
+          "manualScore": 10,
+          "summary": "Hasil dicatat sebagai penetapan pemeriksa secara manual. Skor yang dicatat pemeriksa: 10 / 10. Kesimpulan pemeriksa: Kesimpulan pemeriksa untuk pengujian integrasi.",
+          "advice": [
+            "Rencana tindak lanjut pemeriksa untuk pengujian integrasi."
+          ]
+        },
+        "resultText": "Hasil penilaian\nPenetapan pemeriksa (manual)\n\nHasil dicatat sebagai penetapan pemeriksa secara manual. Skor yang dicatat pemeriksa: 10 / 10. Kesimpulan pemeriksa: Kesimpulan pemeriksa untuk pengujian integrasi.\n\nKomponen\tHasil\nUsia acuan instrumen\t6 tahun 0 bulan 0 hari\nFormulir yang digunakan\tKPSP umur 72 bulan\nStatus penilaian\tPenetapan pemeriksa secara manual; bukan skor otomatis yang telah divalidasi terhadap kriteria butir 3.\nSembilan butir lain: jumlah jawaban Ya\t9 / 9\nJawaban anak: jika kuda besar, maka tikus…\t“kecil” — catatan uji\nJawaban anak: jika api panas, maka es…\tdingin\nJawaban anak: jika ibu seorang wanita, maka ayah seorang…\tlaki-laki\nJawaban anak: jika pagi ada matahari, malam ada…\tbulan\nNama dokter yang menetapkan hasil secara manual\tDokter Uji Integrasi\nTanggal penetapan pemeriksa\t2026-11-19\nSkor total yang dicatat pemeriksa secara manual (0–10)\t10\nKesimpulan penilaian pemeriksa\tKesimpulan pemeriksa untuk pengujian integrasi.\nDasar penetapan pemeriksa dan petunjuk kriteria yang digunakan\tCatatan dasar penetapan pemeriksa untuk pengujian integrasi.\nRencana tindak lanjut yang ditetapkan pemeriksa\tRencana tindak lanjut pemeriksa untuk pengujian integrasi.\nTindak lanjut\nRencana tindak lanjut pemeriksa untuk pengujian integrasi.\nUnduh hasil DOCX\nUnduh hasil PDF\n\nBuku Pedoman SDIDTK revisi 23-08-2022, hlm. 144, 145, 146 (PDF 157, 158, 159).",
+        "classification": "Penetapan pemeriksa (manual)",
+        "heading": "Hasil penilaian",
+        "automaticScoreRows": 0
+      }
+    },
+    {
+      "id": "final_manual_report_preserves_label_and_basis",
+      "pass": true
+    },
+    {
+      "id": "final_manual_report_has_no_automatic_S_M_P_or_score",
+      "pass": true
+    },
+    {
+      "id": "no_browser_javascript_errors",
+      "pass": true,
+      "detail": []
+    }
+  ],
+  "passed": 31,
+  "failed": [],
+  "pageErrors": [],
+  "requestFailures": [],
+  "fatal": null
+}

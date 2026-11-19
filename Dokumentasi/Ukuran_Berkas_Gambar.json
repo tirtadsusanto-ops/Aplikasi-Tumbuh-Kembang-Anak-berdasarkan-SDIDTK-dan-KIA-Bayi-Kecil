@@ -1,0 +1,33 @@
+{
+  "limitBytes": 24000000,
+  "baselineBytes": 37271271,
+  "images": 67,
+  "parts": [
+    {
+      "name": "growth-images.js",
+      "bytes": 808,
+      "MB": 0.000808
+    },
+    {
+      "name": "growth-images-part-1.js",
+      "bytes": 18666195,
+      "MB": 18.666195
+    },
+    {
+      "name": "growth-images-part-2.js",
+      "bytes": 18605376,
+      "MB": 18.605376
+    }
+  ],
+  "clinicalFilesUnchanged": {
+    "core.js": "9dd9725f624555f9b8e7e74984207b8ea904e3ef3baa2008d3c7b210d46cb176",
+    "growth.js": "85ada6ce3a55ef72b38c611c455da3d5ce1c4a9e0774b9d8e29d0894370d4b47",
+    "growth-tables.js": "9d6d4dbe2071669e313ad6f593b084b54b764dda950a40e42263176249185403",
+    "growth-p5.js": "07d8ed854b4dead33fd2f4508d70761feaa6c1e04f06e978e92ad9266d2ae050",
+    "development.js": "e77356d47a5c4edd9c5fc511947cc1169a1e0973eed23e17f849fee121939d40",
+    "neonatal.js": "cf6b85d11e23f1be834a5343afdc5fa4c641a1248966f26bfe4cc1b565929a4b",
+    "export.js": "aaed034523773d04597fced4bd9e1aed8d7ce6e42e4360232b05a979b417d411"
+  },
+  "allImageDataURLsIdentical": true,
+  "allFilesBelowLimit": true
+}

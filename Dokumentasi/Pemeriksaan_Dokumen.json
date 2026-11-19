@@ -1,0 +1,355 @@
+{
+  "checks": [
+    {
+      "name": "KPSP72_belum_final_docx_valid_XML",
+      "pass": true
+    },
+    {
+      "name": "KPSP72_belum_final_docx_body_TNR12",
+      "pass": true,
+      "info": {
+        "sizes": [
+          "24"
+        ],
+        "fontNames": [
+          "Times New Roman"
+        ]
+      }
+    },
+    {
+      "name": "KPSP72_belum_final_docx_required_text",
+      "pass": true,
+      "info": {
+        "missing": []
+      }
+    },
+    {
+      "name": "KPSP72_belum_final_docx_immunization",
+      "pass": true
+    },
+    {
+      "name": "KPSP72_belum_final_docx_original_source_images",
+      "pass": true,
+      "info": [
+        "work/tumbuh_kembang_20261118/app/assets/development/pedoman_157.png",
+        "work/tumbuh_kembang_20261118/app/assets/development/pedoman_158.png",
+        "work/tumbuh_kembang_20261118/app/assets/development/pedoman_159.png"
+      ]
+    },
+    {
+      "name": "KPSP72_belum_final_pdf_required_text",
+      "pass": true,
+      "info": {
+        "missing": []
+      }
+    },
+    {
+      "name": "KPSP72_belum_final_pdf_TNR_body12",
+      "pass": true,
+      "info": {
+        "fonts": [
+          "TimesNewRomanPS-BoldMT-3967",
+          "TimesNewRomanPSMT-4740"
+        ],
+        "sizes": [
+          8.0,
+          10.0,
+          12.0
+        ]
+      }
+    },
+    {
+      "name": "KPSP72_belum_final_pdf_no_clipping",
+      "pass": true,
+      "info": []
+    },
+    {
+      "name": "KPSP72_belum_final_pdf_no_overlapping_text",
+      "pass": true,
+      "info": []
+    },
+    {
+      "name": "KPSP72_belum_final_pdf_source_images",
+      "pass": true,
+      "info": 3
+    },
+    {
+      "name": "KPSP72_penetapan_manual_docx_valid_XML",
+      "pass": true
+    },
+    {
+      "name": "KPSP72_penetapan_manual_docx_body_TNR12",
+      "pass": true,
+      "info": {
+        "sizes": [
+          "24"
+        ],
+        "fontNames": [
+          "Times New Roman"
+        ]
+      }
+    },
+    {
+      "name": "KPSP72_penetapan_manual_docx_required_text",
+      "pass": true,
+      "info": {
+        "missing": []
+      }
+    },
+    {
+      "name": "KPSP72_penetapan_manual_docx_immunization",
+      "pass": true
+    },
+    {
+      "name": "KPSP72_penetapan_manual_docx_original_source_images",
+      "pass": true,
+      "info": [
+        "work/tumbuh_kembang_20261118/app/assets/development/pedoman_157.png",
+        "work/tumbuh_kembang_20261118/app/assets/development/pedoman_158.png",
+        "work/tumbuh_kembang_20261118/app/assets/development/pedoman_159.png"
+      ]
+    },
+    {
+      "name": "KPSP72_penetapan_manual_pdf_required_text",
+      "pass": true,
+      "info": {
+        "missing": []
+      }
+    },
+    {
+      "name": "KPSP72_penetapan_manual_pdf_TNR_body12",
+      "pass": true,
+      "info": {
+        "fonts": [
+          "TimesNewRomanPS-BoldMT-5661",
+          "TimesNewRomanPSMT-3720"
+        ],
+        "sizes": [
+          8.0,
+          10.0,
+          12.0
+        ]
+      }
+    },
+    {
+      "name": "KPSP72_penetapan_manual_pdf_no_clipping",
+      "pass": true,
+      "info": []
+    },
+    {
+      "name": "KPSP72_penetapan_manual_pdf_no_overlapping_text",
+      "pass": true,
+      "info": []
+    },
+    {
+      "name": "KPSP72_penetapan_manual_pdf_source_images",
+      "pass": true,
+      "info": 3
+    },
+    {
+      "name": "APGAR_belum_final_docx_valid_XML",
+      "pass": true
+    },
+    {
+      "name": "APGAR_belum_final_docx_body_TNR12",
+      "pass": true,
+      "info": {
+        "sizes": [
+          "24"
+        ],
+        "fontNames": [
+          "Times New Roman"
+        ]
+      }
+    },
+    {
+      "name": "APGAR_belum_final_docx_required_text",
+      "pass": true,
+      "info": {
+        "missing": []
+      }
+    },
+    {
+      "name": "APGAR_belum_final_docx_immunization",
+      "pass": true
+    },
+    {
+      "name": "APGAR_belum_final_docx_original_source_images",
+      "pass": true,
+      "info": [
+        "work/tumbuh_kembang_20261118/app/assets/neonatal/page-11.png"
+      ]
+    },
+    {
+      "name": "APGAR_belum_final_pdf_required_text",
+      "pass": true,
+      "info": {
+        "missing": []
+      }
+    },
+    {
+      "name": "APGAR_belum_final_pdf_TNR_body12",
+      "pass": true,
+      "info": {
+        "fonts": [
+          "TimesNewRomanPS-BoldMT-2388",
+          "TimesNewRomanPSMT-4213"
+        ],
+        "sizes": [
+          8.0,
+          10.0,
+          12.0
+        ]
+      }
+    },
+    {
+      "name": "APGAR_belum_final_pdf_no_clipping",
+      "pass": true,
+      "info": []
+    },
+    {
+      "name": "APGAR_belum_final_pdf_no_overlapping_text",
+      "pass": true,
+      "info": []
+    },
+    {
+      "name": "APGAR_belum_final_pdf_source_images",
+      "pass": true,
+      "info": 1
+    },
+    {
+      "name": "APGAR_konfirmasi_dokter_docx_valid_XML",
+      "pass": true
+    },
+    {
+      "name": "APGAR_konfirmasi_dokter_docx_body_TNR12",
+      "pass": true,
+      "info": {
+        "sizes": [
+          "24"
+        ],
+        "fontNames": [
+          "Times New Roman"
+        ]
+      }
+    },
+    {
+      "name": "APGAR_konfirmasi_dokter_docx_required_text",
+      "pass": true,
+      "info": {
+        "missing": []
+      }
+    },
+    {
+      "name": "APGAR_konfirmasi_dokter_docx_immunization",
+      "pass": true
+    },
+    {
+      "name": "APGAR_konfirmasi_dokter_docx_original_source_images",
+      "pass": true,
+      "info": [
+        "work/tumbuh_kembang_20261118/app/assets/neonatal/page-11.png"
+      ]
+    },
+    {
+      "name": "APGAR_konfirmasi_dokter_pdf_required_text",
+      "pass": true,
+      "info": {
+        "missing": []
+      }
+    },
+    {
+      "name": "APGAR_konfirmasi_dokter_pdf_TNR_body12",
+      "pass": true,
+      "info": {
+        "fonts": [
+          "TimesNewRomanPS-BoldMT-579",
+          "TimesNewRomanPSMT-5466"
+        ],
+        "sizes": [
+          8.0,
+          10.0,
+          12.0
+        ]
+      }
+    },
+    {
+      "name": "APGAR_konfirmasi_dokter_pdf_no_clipping",
+      "pass": true,
+      "info": []
+    },
+    {
+      "name": "APGAR_konfirmasi_dokter_pdf_no_overlapping_text",
+      "pass": true,
+      "info": []
+    },
+    {
+      "name": "APGAR_konfirmasi_dokter_pdf_source_images",
+      "pass": true,
+      "info": 1
+    }
+  ],
+  "failed": [],
+  "details": [
+    {
+      "name": "KPSP72_belum_final",
+      "docxPictures": 3,
+      "docxSourceImages": [
+        "work/tumbuh_kembang_20261118/app/assets/development/pedoman_157.png",
+        "work/tumbuh_kembang_20261118/app/assets/development/pedoman_158.png",
+        "work/tumbuh_kembang_20261118/app/assets/development/pedoman_159.png"
+      ],
+      "docxFontSizes": [
+        "24"
+      ],
+      "pdfPages": 13,
+      "pdfImages": 3,
+      "pdfOutOfBounds": 0,
+      "pdfOverlaps": 0
+    },
+    {
+      "name": "KPSP72_penetapan_manual",
+      "docxPictures": 3,
+      "docxSourceImages": [
+        "work/tumbuh_kembang_20261118/app/assets/development/pedoman_157.png",
+        "work/tumbuh_kembang_20261118/app/assets/development/pedoman_158.png",
+        "work/tumbuh_kembang_20261118/app/assets/development/pedoman_159.png"
+      ],
+      "docxFontSizes": [
+        "24"
+      ],
+      "pdfPages": 17,
+      "pdfImages": 3,
+      "pdfOutOfBounds": 0,
+      "pdfOverlaps": 0
+    },
+    {
+      "name": "APGAR_belum_final",
+      "docxPictures": 1,
+      "docxSourceImages": [
+        "work/tumbuh_kembang_20261118/app/assets/neonatal/page-11.png"
+      ],
+      "docxFontSizes": [
+        "24"
+      ],
+      "pdfPages": 7,
+      "pdfImages": 1,
+      "pdfOutOfBounds": 0,
+      "pdfOverlaps": 0
+    },
+    {
+      "name": "APGAR_konfirmasi_dokter",
+      "docxPictures": 1,
+      "docxSourceImages": [
+        "work/tumbuh_kembang_20261118/app/assets/neonatal/page-11.png"
+      ],
+      "docxFontSizes": [
+        "24"
+      ],
+      "pdfPages": 11,
+      "pdfImages": 1,
+      "pdfOutOfBounds": 0,
+      "pdfOverlaps": 0
+    }
+  ]
+}
