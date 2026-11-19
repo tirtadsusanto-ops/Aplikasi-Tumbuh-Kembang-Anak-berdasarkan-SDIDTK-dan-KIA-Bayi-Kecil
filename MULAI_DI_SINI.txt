@@ -1,0 +1,6 @@
+Ekstrak seluruh ZIP ke satu folder baru.
+Buka index.html.
+Simpan semua berkas dalam susunan folder yang sama.
+Berkas growth-images.js dan kedua growth-images-part-*.js wajib disertakan.
+Setiap berkas lebih kecil dari 24.000.000 byte. Total ukuran data gambar tidak dikurangi; gambar dipisah tanpa kehilangan kualitas.
+Simpan/Pulihkan JSON untuk melanjutkan data pasien.

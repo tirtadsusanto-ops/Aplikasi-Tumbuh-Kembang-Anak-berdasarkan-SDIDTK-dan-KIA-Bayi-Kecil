@@ -1,0 +1,4 @@
+Paket gambar modular — 19 November 2026
+Seluruh gambar dipertahankan; setiap berkas <24.000.000 byte.
+Algoritme klinis identik dengan paket revisi 19 November 2026.
+JSON tetap versi 1.
